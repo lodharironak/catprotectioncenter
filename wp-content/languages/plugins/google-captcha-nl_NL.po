@@ -1,0 +1,1938 @@
+# Translation of Plugins - reCaptcha by BestWebSoft - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - reCaptcha by BestWebSoft - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-23 17:38:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - reCaptcha by BestWebSoft - Stable (latest release)\n"
+
+#: google-captcha.php:666
+msgid "The reCAPTCHA verification period has expired. Please reload the page."
+msgstr "De verificatie periode van reCAPTCHA is verlopen. Laad de pagina opnieuw."
+
+#: bws_menu/product_list.php:216
+msgid "Create Content with GPT."
+msgstr "Maak inhoud met GPT."
+
+#: includes/pro_banners.php:272
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#: includes/pro_banners.php:271
+msgid "Only form"
+msgstr "Alleen formulier"
+
+#: includes/pro_banners.php:267
+msgid "Display for"
+msgstr "Weergeven voor"
+
+#: includes/pro_banners.php:89
+msgid "BuddyBoss registration form"
+msgstr "BuddyBoss registratieformulier"
+
+#: includes/pro_banners.php:88
+msgid "LearnDash registration form"
+msgstr "LearnDash registratieformulier"
+
+#: includes/pro_banners.php:87
+msgid "LearnDash login form"
+msgstr "LearnDash login formulier"
+
+#: includes/pro_banners.php:86
+msgid "MemberPress forgot password form"
+msgstr "MemberPress wachtwoord vergeten formulier"
+
+#: includes/pro_banners.php:85
+msgid "MemberPress login form"
+msgstr "MemberPress login formulier"
+
+#: includes/pro_banners.php:84
+msgid "MemberPress checkout form"
+msgstr "MemberPress afrekenformulier"
+
+#: includes/class-gglcptch-settings-tabs.php:88
+msgid "Sorry, your nonce did not verify."
+msgstr "Je nonce is niet geverifieerd."
+
+#: includes/class-gglcptch-settings-tabs.php:192
+msgid "The Google reCaptcha block loads the webfont \"Roboto\" from fonts.googleapis.com. If you do not want to load this font use %1$sCaptcha by BestWebSoft%2$s plugin."
+msgstr "Het Google reCaptcha blok laad het webfont \"Roboto\" van fonts.googleapis.com. Als je dit lettertype niet wil laden, gebruik dan de %1$sCaptcha by BestWebSoft%2$s plugin."
+
+#: google-captcha.php:1045 google-captcha.php:1055
+msgid "The reCaptcha verification failed. Please try again."
+msgstr "De reCaptcha verificatie is mislukt. Probeer het nog eens."
+
+#: bws_menu/class-bws-settings.php:964
+msgid "Security check"
+msgstr "Veiligheidscontrole"
+
+#: bws_menu/class-bws-settings.php:537
+msgid "The ability to add custom code is available in the Pro version. If the Pro version is not available please contact us via Help Center"
+msgstr "De mogelijkheid om aangepaste code toe te voegen is beschikbaar in de Pro versie. als de Pro versie niet beschikbaar is, neem dan contact met ons op via het help centrum"
+
+#: includes/pro_banners.php:83
+msgid "Elementor Contact Form"
+msgstr "Elementor contactformulier"
+
+#: includes/class-gglcptch-settings-tabs.php:467
+msgid "ReCaptcha plugin is fully compliant with GDPR. %1$s Learn more %2$s"
+msgstr "ReCaptcha plugin is volledig compliant met GDPR. %1$s Leer meer %2$s"
+
+#: google-captcha.php:815
+msgid "Response is empty"
+msgstr "Reactie is leeg"
+
+#: bws_menu/bws_functions.php:617
+msgid "Start Now"
+msgstr "Nu beginnen"
+
+#: bws_menu/bws_functions.php:612
+msgid "Get commission!"
+msgstr "Ontvang commissie!"
+
+#: bws_menu/bws_functions.php:608
+msgid "Promote and sell products"
+msgstr "Producten promoten en verkopen"
+
+#: bws_menu/bws_functions.php:604
+msgid "Join affiliate program"
+msgstr "Word lid van het partner programma"
+
+#: bws_menu/bws_functions.php:600
+msgid "from each BestWebSoft plugin and theme sale you refer"
+msgstr "van elke BestWebSoft plugin en thema verkoop die je verwijst"
+
+#: bws_menu/bws_functions.php:599
+msgid "Get %s"
+msgstr "Koop %s"
+
+#: bws_menu/bws_functions.php:598
+msgid "Affiliate Program"
+msgstr "Partner programma"
+
+#: includes/pro_banners.php:81
+msgid "Ultimate Member Profile form"
+msgstr "Ultimate Member profiel formulier"
+
+#: includes/pro_banners.php:80
+msgid "Ultimate Member Registration form"
+msgstr "Ultimate Member registratieformulier"
+
+#: includes/pro_banners.php:79
+msgid "Ultimate Member Login form"
+msgstr "Ultimate Member login formulier"
+
+#: includes/pro_banners.php:78
+msgid "WPForms"
+msgstr "WPForms"
+
+#: includes/class-gglcptch-settings-tabs.php:368
+msgid "Additional Protective Measures"
+msgstr "Aanvullende beschermende maatregelen"
+
+#: includes/class-gglcptch-settings-tabs.php:328
+msgid "Appearance"
+msgstr "Weergave"
+
+#: includes/class-gglcptch-settings-tabs.php:310
+msgid "If Google is not accessible or blocked in your country select other one."
+msgstr "Als Google niet toegankelijk of geblokkeerd is in je land, selecteer je een ander."
+
+#: includes/class-gglcptch-settings-tabs.php:302
+msgid "reCaptcha Domain"
+msgstr "reCaptcha domein"
+
+#: includes/class-gglcptch-settings-tabs.php:183
+msgid "If you do not want to create API keys use %1$sCaptcha by BestWebSoft%2$s plugin."
+msgstr "Als je geen API-sleutels wilt maken, gebruik dan de %1$sCaptcha by BestWebSoft%2$s plugin."
+
+#: includes/class-gglcptch-settings-tabs.php:174
+msgid "Register your domain name with Google reCaptcha service and add the keys to the fields below. %1$s Get the API Keys. %2$s"
+msgstr "Registreer je domeinnaam bij de Google reCaptcha service en voeg de sleutels toe aan de onderstaande velden. %1$s Verkrijg de API-sleutels. %2$s"
+
+#: bws_menu/class-bws-settings.php:1269
+msgid "Thank you!"
+msgstr "Dank je!"
+
+#: bws_menu/class-bws-settings.php:1267
+msgid "Submit"
+msgstr "Verzenden"
+
+#: bws_menu/class-bws-settings.php:1259
+msgid "Describe your idea"
+msgstr "Beschrijf je idee"
+
+#: bws_menu/class-bws-settings.php:1257
+msgid "We look forward to hear your ideas."
+msgstr "We zijn benieuwd naar je ideeën."
+
+#: bws_menu/class-bws-settings.php:1255
+msgid "How can we improve %s?"
+msgstr "Hoe kunnen we %s verbeteren?"
+
+#: bws_menu/class-bws-settings.php:1249
+msgid "Request a Feature"
+msgstr "Vraag een functie aan"
+
+#: includes/pro_banners.php:77
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: google-captcha.php:429
+msgid "You are in the allow list"
+msgstr "Je zit in de lijst toegestaan"
+
+#: google-captcha.php:59
+msgid "Allow List"
+msgstr "Lijst toegestaan"
+
+#: includes/class-gglcptch-settings-tabs.php:413
+msgid "Allow List Notification"
+msgstr "Lijst toegestaan bericht"
+
+#: includes/allowlist.php:180
+msgid "No IP in the Allow List"
+msgstr "Geen IP in lijst toegestaan"
+
+#: includes/allowlist.php:113
+msgid "Add IP to Allow List"
+msgstr "Voeg IP toe aan lijst toegestaan"
+
+#: includes/allowlist.php:84
+msgid "IP to Allow List"
+msgstr "IP naar lijst toegestaan"
+
+#: google-captcha.php:58 includes/allowlist.php:49
+msgid "reCaptcha Allow List"
+msgstr "reCaptcha lijst toegestaan"
+
+#: bws_menu/product_list.php:24
+msgid "Give a birth for your bike rental and booking WordPress website."
+msgstr "Geef een geboortedatum voor je huurfiets en boeking WordPress site."
+
+#: bws_menu/product_list.php:179
+msgid "Protect WordPress website forms from spam entries with reCaptcha."
+msgstr "Bescherm WordPress siteformulieren tegen spam-inzendingen met reCaptcha."
+
+#: includes/class-gglcptch-settings-tabs.php:377
+msgid "Set the minimum verification score from %1$s to %2$s (default is %3$s)."
+msgstr "Stel de minimale verificatiescore in van %1$s tot %2$s (standaard is %3$s)."
+
+#: includes/class-gglcptch-settings-tabs.php:357
+msgid "Hide reCaptcha Badge"
+msgstr "Verberg reCaptcha-badge"
+
+#: includes/class-gglcptch-settings-tabs.php:393
+msgid "Hide reCaptcha for"
+msgstr "Verberg reCaptcha voor"
+
+#: bws_menu/product_list.php:58
+msgid "Add columns with custom content to WordPress website pages, posts, widgets, etc."
+msgstr "Voeg kolommen met aangepaste inhoud toe aan WordPress webpagina's, berichten, widgets, enz."
+
+#: bws_menu/bws_menu.php:192
+msgid "Mb"
+msgstr "Mb"
+
+#: google-captcha.php:1058
+msgid "reCaptcha v3 test failed"
+msgstr "reCaptcha v3-test is mislukt"
+
+#: bws_menu/bws_menu.php:667 bws_menu/bws_menu.php:696
+msgid "Get Pro"
+msgstr "Verkrijg Pro"
+
+#: bws_menu/bws_menu.php:502
+msgid "Licenses & Domains"
+msgstr "Licenties & Domeinen"
+
+#: bws_menu/bws_menu.php:499 bws_menu/class-bws-settings.php:874
+msgid "Knowledge Base"
+msgstr "Kennisbank"
+
+#: bws_menu/bws_menu.php:493 bws_menu/class-bws-settings.php:868
+msgid "Get Started"
+msgstr "Ga aan de gang"
+
+#: bws_menu/bws_menu.php:490 bws_menu/class-bws-settings.php:864
+msgid "How to install WordPress plugin from your admin Dashboard (ZIP archive)"
+msgstr "Hoe je de WordPress plugin installeert vanuit je beheerder dashboard (ZIP-archief)"
+
+#: bws_menu/bws_menu.php:488 bws_menu/class-bws-settings.php:862
+msgid "Need help installing the plugin?"
+msgstr "Hulp nodig bij het installeren?"
+
+#: bws_menu/bws_menu.php:484 bws_menu/class-bws-settings.php:858
+msgid "Download Now"
+msgstr "Nu downloaden"
+
+#: bws_menu/bws_menu.php:481 bws_menu/class-bws-settings.php:855
+msgid "Your plugin has been zipped, and now is ready to download."
+msgstr "Je plugin is gezipt en is nu klaar om te downloaden."
+
+#: bws_menu/bws_menu.php:479 bws_menu/class-bws-settings.php:853
+msgid "Your Pro plugin is ready"
+msgstr "Je Pro plugin is nu gereed"
+
+#: bws_menu/bws_menu.php:477
+msgid "Download Pro Plugin"
+msgstr "Download Pro plugin"
+
+#: includes/class-gglcptch-settings-tabs.php:487
+msgid "reCaptcha Shortcode"
+msgstr "reCaptcha Shortcode"
+
+#: google-captcha.php:39 google-captcha.php:49 google-captcha.php:535
+#: includes/class-gglcptch-settings-tabs.php:151
+msgid "reCaptcha Settings"
+msgstr "reCAPTCHA-instellingen"
+
+#: includes/forms.php:84
+msgid "reCaptcha Plugin"
+msgstr "reCaptcha Plugin"
+
+#. Plugin Name of the plugin
+msgid "reCaptcha by BestWebSoft"
+msgstr "reCaptcha by BestWebSoft"
+
+#: bws_menu/deactivation-form.php:130
+msgid "Skip and Deactivate"
+msgstr "Overslaan en deactiveren"
+
+#: includes/class-gglcptch-settings-tabs.php:435
+msgid "Enable to keep submit button disabled until user passes the reCaptcha test (for Version 2)."
+msgstr "Schakel in om de verzendknop uitgeschakeld te houden totdat de gebruiker de reCaptcha test heeft doorstaan ​​(voor versie 2)."
+
+#: includes/class-gglcptch-settings-tabs.php:420
+msgid "Advanced Protection"
+msgstr "Geavanceerde bescherming"
+
+#: includes/class-gglcptch-settings-tabs.php:337
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/class-gglcptch-settings-tabs.php:336
+msgid "Light"
+msgstr "Licht"
+
+#: bws_menu/product_list.php:46
+msgid "Create your own rental website for car renting and booking."
+msgstr "Maak je eigen verhuursite voor het huren en boeken van auto's."
+
+#: google-captcha.php:627
+msgid " apply."
+msgstr " toepassen."
+
+#: google-captcha.php:626
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+#: google-captcha.php:625
+msgid " and "
+msgstr " en "
+
+#: google-captcha.php:624
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: google-captcha.php:623
+msgid "This site is protected by reCAPTCHA and the Google "
+msgstr "Deze site wordt beschermd door reCAPTCHA en Google "
+
+#: includes/class-gglcptch-settings-tabs.php:362
+msgid "Enable to hide reCaptcha Badge for Version 3 and Invisible reCaptcha."
+msgstr "Schakel in om reCaptcha badge te verbergen voor versie 3 en onzichtbare reCaptcha."
+
+#: includes/pro_banners.php:76
+msgid "Divi Login Form"
+msgstr "Divi aanmeldingsformulier"
+
+#: includes/pro_banners.php:75
+msgid "Divi Contact Form"
+msgstr "Divi Contactformulier"
+
+#: includes/pro_banners.php:74
+msgid "Ninja Forms"
+msgstr "Ninja formulieren"
+
+#: google-captcha.php:536
+msgid "Please enable JavaScript in your browser."
+msgstr "Schakel JavaScript in je browser in."
+
+#: includes/class-gglcptch-settings-tabs.php:372
+msgid "Score"
+msgstr "Score"
+
+#: includes/forms.php:17
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: includes/forms.php:275
+msgid "Authentication failed."
+msgstr "Authenticatie mislukt."
+
+#: includes/pro_banners.php:73
+msgid "wpForo Reply form"
+msgstr "wpForo antwoordformulier"
+
+#: includes/pro_banners.php:72
+msgid "wpForo New Topic form"
+msgstr "wpForo nieuw onderwerpformulier"
+
+#: includes/pro_banners.php:71
+msgid "wpForo Registration form"
+msgstr "wpForo registratieformulier"
+
+#: includes/pro_banners.php:70
+msgid "wpForo Login form"
+msgstr "wpForo login formulier"
+
+#: includes/pro_banners.php:69
+msgid "WooCommerce Checkout form"
+msgstr "WooCommerce afreken formulier"
+
+#: includes/pro_banners.php:68
+msgid "WooCommerce Reset password form"
+msgstr "WooCommerce Reset wachtwoord formulier"
+
+#: includes/pro_banners.php:67
+msgid "WooCommerce Registration form"
+msgstr "WooCommerce Registratieformulier"
+
+#: includes/pro_banners.php:66
+msgid "WooCommerce Login form"
+msgstr "WooCommerce login formulier"
+
+#: includes/pro_banners.php:65
+msgid "BuddyPress Add New Group form"
+msgstr "BuddyPress nieuw groepsformulier toevoegen"
+
+#: includes/pro_banners.php:64
+msgid "BuddyPress Comments form"
+msgstr "BuddyPress reacties formulier"
+
+#: includes/pro_banners.php:63
+msgid "BuddyPress Registration form"
+msgstr "BuddyPress registratieformulier"
+
+#: includes/pro_banners.php:62
+msgid "bbPress Reply form"
+msgstr "bbPressa antwoordformulier"
+
+#: includes/pro_banners.php:61
+msgid "bbPress New Topic form"
+msgstr "bbPress nieuw onderwerpformulier"
+
+#: includes/pro_banners.php:58
+msgid "Jetpack Contact Form"
+msgstr "Jetpack contactformulier"
+
+#: includes/forms.php:60
+msgid "Custom Forms"
+msgstr "Aangepaste formulieren"
+
+#: includes/class-gglcptch-settings-tabs.php:424
+msgid "Enable to keep submit button disabled until reCaptcha is loaded (do not use this option if you see \"Failed to load Google reCaptcha\" message)."
+msgstr "Schakel in om de verzendknop uitgeschakeld te houden totdat reCaptcha is geladen (gebruik deze optie niet als je het bericht \"Kan Google reCaptcha niet laden\" ziet)."
+
+#: includes/class-gglcptch-settings-tabs.php:430
+msgid "Disabled Submit Button"
+msgstr "Uitgeschakelde knop Verzenden"
+
+#: bws_menu/product_list.php:36
+msgid "Best secure captcha plugin to protect your WordPress forms."
+msgstr "Beste veilige captcha plugin om je WordPress formulieren te beschermen."
+
+#: bws_menu/deactivation-form.php:276
+msgid "Please tell us the reason so we can improve it."
+msgstr "Kun je ons de reden vertellen, zodat wij de plugin kunnen verbeteren."
+
+#: bws_menu/deactivation-form.php:129
+msgid "Submit and Deactivate"
+msgstr "Verzenden en deactiveren"
+
+#: bws_menu/class-bws-settings.php:1268 bws_menu/deactivation-form.php:131
+msgid "Processing"
+msgstr "Verwerken"
+
+#: bws_menu/class-bws-settings.php:1262 bws_menu/deactivation-form.php:124
+msgid "Send website data and allow to contact me back"
+msgstr "Stuur sitegegevens en sta toe om contact met mij op te nemen"
+
+#: bws_menu/deactivation-form.php:99
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Als je even de tijd hebt, laat ons dan weten waarom je deactiveert"
+
+#: bws_menu/deactivation-form.php:97
+msgid "Quick Feedback"
+msgstr "Snelle feedback"
+
+#: bws_menu/deactivation-form.php:82
+msgid "It's a temporary deactivation, I'm just debugging an issue"
+msgstr "Het is een tijdelijke deactivering, ik ben gewoon een probleem aan het debuggen"
+
+#: bws_menu/deactivation-form.php:76
+msgid "I no longer need the plugin"
+msgstr "Ik heb de plugin niet langer nodig"
+
+#: bws_menu/deactivation-form.php:72
+msgid "What feature?"
+msgstr "Welke functie?"
+
+#: bws_menu/deactivation-form.php:70
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "De plugin is geweldig, maar ik heb een specifieke functie nodig die je niet ondersteunt"
+
+#: bws_menu/deactivation-form.php:66
+msgid "What's the plugin name?"
+msgstr "Wat is de naam van de plugin?"
+
+#: bws_menu/deactivation-form.php:64
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: bws_menu/deactivation-form.php:57
+msgid "I couldn't understand how to get it work"
+msgstr "Ik begreep niet hoe ik het moest laten werken"
+
+#: bws_menu/deactivation-form.php:50
+msgid "The plugin broke my site"
+msgstr "Door de plugin werkt mijn site niet meer"
+
+#: bws_menu/deactivation-form.php:43
+msgid "The plugin suddenly stopped working"
+msgstr "De plugin werkte plotseling niet meer"
+
+#: bws_menu/deactivation-form.php:39
+msgid "What did you expect?"
+msgstr "Wat had je verwacht?"
+
+#: bws_menu/deactivation-form.php:37
+msgid "The plugin didn't work as expected"
+msgstr "De plugin werkte niet zoals verwacht"
+
+#: bws_menu/deactivation-form.php:33
+msgid "Kindly share what didn't work so we can fix it in future updates..."
+msgstr "Deel alsjeblieft wat niet werkte, zodat we het in toekomstige updates kunnen oplossen..."
+
+#: bws_menu/deactivation-form.php:31
+msgid "The plugin is not working"
+msgstr "De plugin werkt niet"
+
+#: bws_menu/deactivation-form.php:26
+msgid "Contact Support"
+msgstr "Contact opnemen met ondersteuning"
+
+#: bws_menu/deactivation-form.php:26
+msgid "Need help? We are ready to answer your questions."
+msgstr "Hulp nodig? Wij staan ​​klaar om je vragen te beantwoorden."
+
+#: bws_menu/class-bws-settings.php:1125
+msgid "Unfortunately, Your license has expired. To continue getting top-priority support and plugin updates, you should extend it in your %s."
+msgstr "Helaas is je licentie verlopen. Als je ondersteuning en updates van plugins met de hoogste prioriteit wil blijven ontvangen, moet je deze uitbreiden in je %s."
+
+#: bws_menu/bws_functions.php:113
+msgid "%s reviews"
+msgstr "%s beoordelingen"
+
+#: includes/allowlist.php:249 includes/allowlist.php:260
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/pro_banners.php:233
+msgid "Enable to switch language automatically on multilingual website using the Multilanguage plugin."
+msgstr "Schakel in om automatisch van taal te wisselen op een meertalige site met behulp van de meertalige plugin."
+
+#: includes/pro_banners.php:230
+msgid "Multilanguage"
+msgstr "Meertalig"
+
+#: includes/pro_banners.php:222
+msgid "Language"
+msgstr "Taal"
+
+#: includes/pro_banners.php:247
+msgid "Size"
+msgstr "Grootte"
+
+#: includes/class-gglcptch-settings-tabs.php:490
+msgid "Add reCaptcha to your posts or pages using the following shortcode:"
+msgstr "Voeg reCaptcha toe aan je berichten of pagina's met de volgende shortcode:"
+
+#: includes/class-gglcptch-settings-tabs.php:453
+msgid "reCaptcha version was changed. Please submit \"Test reCaptcha\" and regenerate Site and Secret keys if necessary."
+msgstr "reCaptcha-versie is gewijzigd. Gelieve \"Test reCaptcha\" in te dienen en indien nodig de site- en geheime sleutels opnieuw te genereren."
+
+#: includes/class-gglcptch-settings-tabs.php:416
+msgid "This message will be displayed instead of the reCaptcha."
+msgstr "Dit bericht wordt weergegeven in plaats van de reCaptcha."
+
+#: includes/class-gglcptch-settings-tabs.php:332
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/class-gglcptch-settings-tabs.php:157
+msgid "reCaptcha Version"
+msgstr "reCaptcha-versie"
+
+#: includes/forms.php:48 includes/pro_banners.php:93
+msgid "External Plugins"
+msgstr "Externe plugins"
+
+#: includes/class-gglcptch-settings-tabs.php:240
+msgid "Enable reCaptcha for"
+msgstr "Schakel reCaptcha in voor"
+
+#: includes/class-gglcptch-settings-tabs.php:154
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class-gglcptch-settings-tabs.php:234
+msgid "Test reCaptcha"
+msgstr "Test reCaptcha"
+
+#: includes/class-gglcptch-settings-tabs.php:63
+msgid "Invisible"
+msgstr "Onzichtbaar"
+
+#: includes/class-gglcptch-settings-tabs.php:23
+msgid "Misc"
+msgstr "Diversen"
+
+#: google-captcha.php:1096
+msgid "Please submit \"Test verification\""
+msgstr "Gelieve \"Test verificatie in te dienen"
+
+#: bws_menu/product_list.php:371
+msgid "Add related, featured, latest, and popular posts to your WordPress website. Connect your blog readers with a relevant content."
+msgstr "Voeg gerelateerde, uitgelichte, nieuwste en populaire berichten toe aan je WordPress site. Verbind je bloglezers met relevante inhoud."
+
+#: bws_menu/product_list.php:149
+msgid "Stronger security solution which protects your WordPress website from hacks and unauthorized login attempts."
+msgstr "Een sterkere beveiligingsoplossing die je WordPress site beschermt tegen hacks en ongeautoriseerde inlogpogingen."
+
+#: bws_menu/product_list.php:17
+msgid "SMM"
+msgstr "SMM"
+
+#: bws_menu/product_list.php:16
+msgid "SEO"
+msgstr "SEO"
+
+#: bws_menu/product_list.php:13
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: bws_menu/product_list.php:12
+msgid "Marketing"
+msgstr "Marketing"
+
+#: bws_menu/product_list.php:11
+msgid "eCommerce"
+msgstr "eCommerce"
+
+#: bws_menu/product_list.php:10
+msgid "Content"
+msgstr "Inhoud"
+
+#: bws_menu/product_list.php:9
+msgid "Admin Tools"
+msgstr "Beheerder gereedschappen"
+
+#: bws_menu/product_list.php:489
+msgid "Backup and export Zendesk Help Center content automatically to your WordPress website database."
+msgstr "Maak automatisch een back-up van en exporteer Zendesk Help Center inhoud naar je WordPress sitedatabase."
+
+#: bws_menu/product_list.php:479
+msgid "Display live count of online visitors who are currently browsing your WordPress website."
+msgstr "Geef live het aantal online bezoekers weer die momenteel op je WordPress site browsen."
+
+#: bws_menu/product_list.php:469
+msgid "Powerful user role management plugin for WordPress website. Create, edit, copy, and delete user roles."
+msgstr "Krachtige plugin voor het beheer van gebruikersrollen voor de WordPress site. Gebruikersrollen maken, bewerken, kopiëren en verwijderen."
+
+#: bws_menu/product_list.php:459
+msgid "Automatically check and update WordPress website core with all installed plugins and themes to the latest versions."
+msgstr "Controleer en update de core van de WordPress site met alle geïnstalleerde plugins en thema's automatisch naar de nieuwste versies."
+
+#: bws_menu/product_list.php:449
+msgid "Add Twitter Follow, Tweet, Hashtag, and Mention buttons to WordPress posts and pages."
+msgstr "Voeg Twitter Follow-, Tweet-, Hashtag- en Mention-knoppen toe aan WordPress berichten en pagina's."
+
+#: bws_menu/product_list.php:439
+msgid "Best timesheet plugin for WordPress. Track employee time, streamline attendance and generate reports."
+msgstr "Beste timesheet plugin voor WordPress. Houd de tijd van medewerkers bij, stroomlijn de aanwezigheid en genereer rapporten."
+
+#: bws_menu/product_list.php:429
+msgid "Add testimonials and feedbacks from your customers to WordPress website posts, pages, and widgets."
+msgstr "Voeg aanbevelingen en feedback van je klanten toe aan berichten, pagina's en widgets op WordPress sites."
+
+#: bws_menu/product_list.php:419
+msgid "Add email newsletter sign up form to WordPress posts, pages and widgets. Collect data and subscribe your users."
+msgstr "Voeg het aanmeldingsformulier voor een e-mail nieuwsbrief toe aan WordPress berichten, pagina's en widgets. Verzamel gegevens en abonneer je gebruikers."
+
+#: bws_menu/product_list.php:412
+msgid "Add social media login, registration, and commenting to your WordPress website."
+msgstr "Voeg social media login, registratie en reactie toe aan je WordPress site."
+
+#: bws_menu/product_list.php:402
+msgid "Add social media buttons and widgets to WordPress posts, pages and widgets. FB, Twitter, Pinterest, LinkedIn."
+msgstr "Voeg social media knoppen en widgets toe aan WordPress berichten, pagina's en widgets. FB, Twitter, Pinterest, LinkedIn."
+
+#: bws_menu/product_list.php:395
+msgid "Configure SMTP server to receive email messages from WordPress to Gmail, Yahoo, Hotmail and other services."
+msgstr "Configureer de SMTP-server om e-mailberichten van WordPress naar Gmail, Yahoo, Hotmail en andere diensten te ontvangen."
+
+#: bws_menu/product_list.php:388
+msgid "The best responsive slider plugin for your WordPress website. Create beautifully animated slides just in a few clicks."
+msgstr "De beste responsive slider plugin voor je WordPress site. Maak met een paar klikken prachtig geanimeerde slides."
+
+#: bws_menu/product_list.php:378
+msgid "Send bulk email messages to WordPress users. Custom templates, advanced settings and detailed reports."
+msgstr "Verzend bulk e-mailberichten naar WordPress gebruikers. Aangepaste templates, geavanceerde instellingen en gedetailleerde rapporten."
+
+#: bws_menu/product_list.php:361
+msgid "Create your personal real estate WordPress website. Sell, rent and buy properties. Add, search and browse listings easily."
+msgstr "Maak je persoonlijke WordPress site voor onroerend goed. Vastgoed verkopen, verhuren en kopen. Gemakkelijk lijsten toevoegen, zoeken en doorbladeren."
+
+#: bws_menu/product_list.php:351
+msgid "Add rating plugin to your WordPress website to receive feedback from your customers."
+msgstr "Voeg een waardering plugin toe aan je WordPress site om feedback van je klanten te ontvangen."
+
+#: bws_menu/product_list.php:344
+msgid "Add customizable quotes and tips blocks to WordPress posts, pages and widgets."
+msgstr "Voeg aanpasbare citaten en tips blokken toe aan WordPress berichten, pagina's en widgets."
+
+#: bws_menu/product_list.php:334
+msgid "Add and display HTML advertisement banner on WordPress website. Customize bar styles and appearance."
+msgstr "HTML advertentie banner toevoegen en weergeven op de WordPress site. Pas barstijlen en uiterlijk aan."
+
+#: bws_menu/product_list.php:324
+msgid "Add extra fields to default WordPress user profile. The easiest way to create and manage additional custom values."
+msgstr "Voeg extra velden toe aan het standaard WordPress gebruikersprofiel. De gemakkelijkste manier om extra aangepaste waarden te maken en te beheren."
+
+#: bws_menu/product_list.php:314
+msgid "Export WordPress posts to CSV file format easily. Configure data order."
+msgstr "Exporteer WordPress berichten eenvoudig naar CSV-bestandsformaat. Configureer de gegevensvolgorde."
+
+#: bws_menu/product_list.php:304
+msgid "Create your personal portfolio WordPress website. Manage and showcase past projects to get more clients."
+msgstr "Maak je persoonlijke portfolio WordPress site. Beheer en presenteer eerdere projecten om meer klanten te krijgen."
+
+#: bws_menu/product_list.php:294
+msgid "Add Pinterest Follow, Pin It buttons and profile widgets (Pin, Board, Profile) to WordPress posts, pages and widgets."
+msgstr "Voeg Pinterest Follow, Pin It-knoppen en profiel widgets (Pin, Board, Profile) toe aan WordPress berichten, pagina's en widgets."
+
+#: bws_menu/product_list.php:284
+msgid "Generate PDF files and print WordPress posts/pages. Customize document header/footer styles and appearance."
+msgstr "Genereer PDF bestanden en druk WordPress berichten/pagina's af. Pas de stijlen en het uiterlijk van de header/footer van documenten aan."
+
+#: bws_menu/product_list.php:274
+msgid "Add customizable pagination to WordPress website. Split long content to multiple pages for better navigation."
+msgstr "Voeg aanpasbare paginering toe aan de WordPress site. Splits lange inhoud over meerdere pagina's voor betere navigatie."
+
+#: bws_menu/product_list.php:264
+msgid "Translate WordPress website content to other languages manually. Create multilingual pages, posts, widgets, menus, etc."
+msgstr "Vertaal de inhoud van WordPress sites handmatig naar andere talen. Maak meertalige pagina's, berichten, widgets, menu's, enz."
+
+#: bws_menu/product_list.php:254
+msgid "Add LinkedIn Share and Follow buttons to WordPress posts, pages and widgets. 5 plugins included – profile, insider, etc."
+msgstr "Voeg LinkedIn- Share- en Follow-knoppen toe aan WordPress-berichten, pagina's en widgets. 5 plugins inbegrepen - profiel, insider, etc."
+
+#: bws_menu/product_list.php:244
+msgid "Protect WordPress website against brute force attacks. Limit rate of login attempts."
+msgstr "Bescherm de WordPress site tegen brute force aanvallen. Beperk het aantal login pogingen."
+
+#: bws_menu/product_list.php:237
+msgid "Create your personal job board and listing WordPress website. Search jobs, submit CV/resumes, choose candidates."
+msgstr "Maak je persoonlijke vacaturebank en vermeld je WordPress site. Zoek vacatures, dien cv/cv in, kies kandidaten."
+
+#: bws_menu/product_list.php:227
+msgid "Protect WordPress website – allow and deny access for certain IP addresses, hostnames, etc."
+msgstr "Bescherm de WordPress site - sta toegang toe en weiger bepaalde IP-adressen, host namen, enz."
+
+#: bws_menu/product_list.php:209
+msgid "Replace external WordPress website links with Google shortlinks and track click stats."
+msgstr "Vervang externe WordPress sitelinks door Google shortlinks en houd klikstatistieken bij."
+
+#: bws_menu/product_list.php:199
+msgid "Generate and add XML sitemap to WordPress website. Help search engines index your blog."
+msgstr "Genereer een XML-sitemap en voeg deze toe aan de WordPress site. Help zoekmachines je blog te indexeren."
+
+#: bws_menu/product_list.php:189
+msgid "Add customized Google maps to WordPress posts, pages and widgets."
+msgstr "Voeg aangepaste Google-kaarten toe aan WordPress berichten, pagina's en widgets."
+
+#: bws_menu/product_list.php:169
+msgid "Add Google Analytics code to WordPress website and track basic stats."
+msgstr "Voeg Google Analytics code toe aan de WordPress site en houd basisstatistieken bij."
+
+#: bws_menu/product_list.php:159
+msgid "Add Adsense ads to WordPress website pages, posts, custom posts, search results, categories, tags, and widgets."
+msgstr "Voeg Adsense advertenties toe aan WordPress webpagina's, berichten, aangepaste berichten, zoekresultaten, categorieën, tags en widgets."
+
+#: bws_menu/product_list.php:139
+msgid "Add beautiful galleries, albums & images to your WordPress website in a few clicks."
+msgstr "Voeg met een paar klikken prachtige galerijen, albums & afbeeldingen toe aan je WordPress site."
+
+#: bws_menu/product_list.php:129
+msgid "Add Facebook Follow, Like, and Share buttons to WordPress posts, pages, and widgets."
+msgstr "Voeg Facebook Follow, Like en Share knoppen toe aan WordPress berichten, pagina's en widgets."
+
+#: bws_menu/product_list.php:122
+msgid "Get latest error log messages to diagnose website problems. Define and fix issues faster."
+msgstr "Ontvang de laatste fout-log berichten om siteproblemen te diagnosticeren. Definieer en los problemen sneller op."
+
+#: bws_menu/product_list.php:115
+msgid "Add PayPal and 2CO donate buttons to receive charity payments."
+msgstr "Voeg PayPal en 2CO donatieknoppen toe om liefdadigheidsbetalingen te ontvangen."
+
+#: bws_menu/product_list.php:105
+msgid "Add custom post types and taxonomies to WordPress website search results."
+msgstr "Voeg aangepaste berichttypen en taxonomieën toe aan de zoekresultaten van WordPress sites."
+
+#: bws_menu/product_list.php:95
+msgid "Add unlimited custom pages to WordPress admin dashboard."
+msgstr "Voeg onbeperkt aangepaste pagina's toe aan het WordPress beheerder dashboard."
+
+#: bws_menu/product_list.php:85
+msgid "Save and manage Contact Form messages. Never lose important data."
+msgstr "Bewaar en beheer contactformulierberichten. Verlies nooit belangrijke gegevens."
+
+#: bws_menu/product_list.php:75
+msgid "Add unlimited number of contact forms to WordPress website."
+msgstr "Voeg een onbeperkt aantal contactformulieren toe aan de WordPress site."
+
+#: bws_menu/product_list.php:65
+msgid "Allow customers to reach you using secure contact form plugin any website must have."
+msgstr "Sta klanten toe je te bereiken met behulp van een beveiligde contactformulier plugin die elke site moet hebben."
+
+#: includes/forms.php:373
+msgid "Click the BACK button on your browser and try again."
+msgstr "Klik op de knop TERUG in je browser en probeer het opnieuw."
+
+#: google-captcha.php:1056
+msgid "More than one reCAPTCHA has been found in the current form. Please remove all unnecessary reCAPTCHA fields to make it work properly."
+msgstr "Er is meer dan één reCAPTCHA gevonden in de huidige vorm. Verwijder alle onnodige reCAPTCHA-velden om het correct te laten werken."
+
+#: google-captcha.php:1047
+msgid "Secret Key is missing."
+msgstr "Geheime sleutel ontbreekt."
+
+#: google-captcha.php:282
+msgid "Failed to load Google reCAPTCHA. Please check your internet connection and reload this page."
+msgstr "Kan Google reCAPTCHA niet laden. Controleer je internetverbinding en laad deze pagina opnieuw."
+
+#: google-captcha.php:281
+msgid "Please wait until Google reCAPTCHA is loaded."
+msgstr "Wacht tot Google reCAPTCHA is geladen."
+
+#: bws_menu/bws_functions.php:123
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+#: bws_menu/deprecated.php:231
+msgid "Congratulations! Pro version of the plugin is  installed and activated successfully."
+msgstr "Gefeliciteerd! Pro versie van de plugin is met succes geïnstalleerd en geactiveerd."
+
+#: bws_menu/deprecated.php:187
+msgid "Congratulations! The Pro license of the plugin is activated successfully."
+msgstr "Gefeliciteerd! De Pro licentie van de plugin is succesvol geactiveerd."
+
+#: bws_menu/class-bws-settings.php:1211
+msgid "Start Your Free Trial"
+msgstr "Start je gratis proefperiode"
+
+#: bws_menu/class-bws-settings.php:1197
+msgid "Watch the Video"
+msgstr "Bekijk de video"
+
+#: bws_menu/class-bws-settings.php:1192
+msgid "Read the Instruction"
+msgstr "Lees de instructie"
+
+#: bws_menu/class-bws-settings.php:942
+msgid "Manage active licenses, download BWS products, and view your payment history using BestWebSoft Client Area."
+msgstr "Beheer actieve licenties, download BWS producten en bekijk je betalingsgeschiedenis met BestWebSoft Client Area."
+
+#: bws_menu/class-bws-settings.php:940
+msgid "Login to Client Area"
+msgstr "Log in op het klantengedeelte"
+
+#: bws_menu/class-bws-settings.php:938
+msgid "Manage License Settings"
+msgstr "Beheer licentie instellingen"
+
+#: bws_menu/class-bws-settings.php:927
+msgid "If necessary, you can check if the license key is correct or reenter it in the field below."
+msgstr "Indien nodig kan je controleren of de licentiesleutel correct is of deze opnieuw invoeren in het onderstaande veld."
+
+#: bws_menu/class-bws-settings.php:901
+msgid "Enter your license key to activate %s and get premium plugin features."
+msgstr "Voer je licentiesleutel in om %s te activeren en premium plugin functies te krijgen."
+
+#: bws_menu/class-bws-settings.php:837
+#: includes/class-gglcptch-settings-tabs.php:25
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: bws_menu/class-bws-settings.php:703
+msgid "Import / Export"
+msgstr "Importeren / Exporteren"
+
+#: bws_menu/class-bws-settings.php:688
+msgid "This will restore plugin settings to defaults."
+msgstr "Dit herstelt de standaardinstellingen van de plugin."
+
+#: bws_menu/class-bws-settings.php:687
+msgid "Restore Settings"
+msgstr "Instellingen herstellen"
+
+#: bws_menu/class-bws-settings.php:685
+msgid "Default Settings"
+msgstr "Standaard instellingen"
+
+#: bws_menu/class-bws-settings.php:680
+msgid "Enable to allow tracking plugin usage anonymously in order to make it better."
+msgstr "Schakel het anoniem volgen van het gebruik van plugins in om het beter te maken."
+
+#: bws_menu/class-bws-settings.php:671
+msgid "Track Usage"
+msgstr "Gebruik bijhouden"
+
+#: bws_menu/class-bws-settings.php:665
+msgid "Enable to display plugin Pro options."
+msgstr "Schakel in om plugin Pro opties weer te geven."
+
+#: bws_menu/class-bws-settings.php:656
+msgid "Pro Options"
+msgstr "Pro opties"
+
+#: bws_menu/class-bws-settings.php:645 bws_menu/class-bws-settings.php:719
+msgid "It is prohibited to view %1$s settings on this site in the %2$s network settings."
+msgstr "Het is verboden om %1$s instellingen op deze site te bekijken in de %2$s netwerkinstellingen."
+
+#: bws_menu/class-bws-settings.php:640 bws_menu/class-bws-settings.php:714
+msgid "It is prohibited to change %1$s settings on this site in the %2$s network settings."
+msgstr "Het is verboden om %1$s instellingen op deze site te wijzigen in de %2$s netwerkinstellingen."
+
+#: bws_menu/class-bws-settings.php:629
+msgid "Miscellaneous Settings"
+msgstr "Diverse instellingen"
+
+#: bws_menu/class-bws-settings.php:586
+msgid "Activate custom %s code."
+msgstr "Activeer aangepaste %s code."
+
+#: bws_menu/class-bws-settings.php:562
+msgid "These code will be added to the header on all pages of your site."
+msgstr "Deze code wordt aan de header op alle pagina's van je site toegevoegd."
+
+#: bws_menu/class-bws-settings.php:531
+#: includes/class-gglcptch-settings-tabs.php:24
+msgid "Custom Code"
+msgstr "Aangepaste code"
+
+#: bws_menu/class-bws-settings.php:368
+msgid "All plugin settings were restored."
+msgstr "Alle plugin instellingen zijn hersteld."
+
+#: bws_menu/class-bws-settings.php:221
+#: includes/class-gglcptch-settings-tabs.php:61
+#: includes/class-gglcptch-settings-tabs.php:62
+msgid "Version"
+msgstr "Versie"
+
+#: bws_menu/class-bws-settings.php:217
+msgid "Status"
+msgstr "Toestand"
+
+#: bws_menu/class-bws-settings.php:214
+msgid "License"
+msgstr "Licentie"
+
+#: bws_menu/class-bws-settings.php:208
+msgid "Active"
+msgstr "Actief"
+
+#: bws_menu/class-bws-settings.php:206
+msgid "Renew Now"
+msgstr "Vernieuw nu"
+
+#: bws_menu/class-bws-settings.php:206
+msgid "Expired on %s"
+msgstr "Verlopen op %s"
+
+#: bws_menu/class-bws-settings.php:200
+msgid "%s day(-s) left"
+msgstr "%s dag(en) resterend"
+
+#: bws_menu/class-bws-settings.php:197
+msgid "Expired"
+msgstr "Verlopen"
+
+#: bws_menu/class-bws-settings.php:189
+msgid "Inactive"
+msgstr "Inactief"
+
+#: bws_menu/class-bws-settings.php:174
+msgid "Information"
+msgstr "Informatie"
+
+#: bws_menu/bws_menu.php:238
+msgid "WP DB version"
+msgstr "WP DB versie"
+
+#: bws_menu/bws_menu.php:236
+msgid "Database"
+msgstr "Database"
+
+#: bws_menu/bws_menu.php:217
+msgid "Server Environment"
+msgstr "Serveromgeving"
+
+#: bws_menu/bws_menu.php:213 bws_menu/bws_menu.php:258
+#: bws_menu/bws_menu.php:261
+msgid "by %s"
+msgstr "door %s"
+
+#: bws_menu/bws_menu.php:212
+msgid "WP Memory Limit"
+msgstr "WP geheugenlimiet"
+
+#: bws_menu/bws_menu.php:211
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: bws_menu/bws_menu.php:210
+msgid "WP Version"
+msgstr "WP versie"
+
+#: bws_menu/bws_menu.php:209
+msgid "Website URL"
+msgstr "Site URL"
+
+#: bws_menu/bws_menu.php:206
+msgid "WordPress Environment"
+msgstr "Wordpress omgeving"
+
+#: bws_menu/bws_menu.php:153
+msgid "Congratulations! Pro Membership license is activated successfully."
+msgstr "Gefeliciteerd! Pro lidmaatschapslicentie is succesvol geactiveerd."
+
+#: bws_menu/bws_functions.php:1076
+msgid "Are you sure you want to restore default settings?"
+msgstr "Weet je zeker dat je de standaardinstellingen wil herstellen?"
+
+#: bws_menu/bws_functions.php:656
+msgid "You can always look at premium options by checking the \"Pro Options\" in the \"Misc\" tab."
+msgstr "Je kunt premium opties altijd bekijken door de \"Pro Opties\" in het \"Misc\" tabblad te controleren."
+
+#: bws_menu/bws_functions.php:555
+msgid "Thank you for choosing %s plugin!"
+msgstr "Bedankt voor het kiezen van de %s plugin!"
+
+#: bws_menu/bws_functions.php:267
+msgid "Your license key for %1$s expires on %2$s and you won't be granted TOP-PRIORITY SUPPORT or UPDATES."
+msgstr "Je licentiesleutel voor %1$s vervalt op %2$s en je krijgt geen TOP-PRIORITY ONDERSTEUNING of UPDATES."
+
+#: bws_menu/bws_functions.php:380
+msgid "This function(-s) will be removed over time. Please update the product(-s)."
+msgstr "Deze functie(s) wordt na verloop van tijd verwijderd. Werk het product(en) bij."
+
+#: bws_menu/bws_functions.php:362
+msgid "Deprecated function(-s) is used on the site here:"
+msgstr "De verouderde functie(s) wordt hier op de site gebruikt:"
+
+#: bws_menu/bws_functions.php:303
+msgid "Thank you for installing %s plugin!"
+msgstr "Bedankt voor het installeren van de %s plugin!"
+
+#: bws_menu/bws_functions.php:127
+msgid "Want to support the plugin?"
+msgstr "Wil je de plugin ondersteunen?"
+
+#: bws_menu/bws_functions.php:114
+msgid "Rate it"
+msgstr "Waardeer het"
+
+#: bws_menu/bws_functions.php:112
+msgid "Like the plugin?"
+msgstr "Vind je de plugin leuk?"
+
+#. Plugin URI of the plugin
+msgid "https://bestwebsoft.com/products/wordpress/plugins/google-captcha/"
+msgstr "https://bestwebsoft.com/products/wordpress/plugins/google-captcha/"
+
+#: includes/allowlist.php:399
+msgid "Search results for"
+msgstr "Zoekresultaten voor"
+
+#: includes/allowlist.php:397
+msgid "You have not entered any IP in to the search form."
+msgstr "Je hebt geen IP ingevoerd in het zoekformulier."
+
+#: includes/allowlist.php:394
+msgid "You have not entered any IP."
+msgstr "Je hebt geen IP ingevoerd."
+
+#: includes/allowlist.php:387
+msgid "One IP was deleted successfully."
+msgstr "Een IP is succesvol verwijderd."
+
+#: includes/allowlist.php:370
+msgid "%s IP was deleted successfully."
+msgid_plural "%s IPs were deleted successfully."
+msgstr[0] "%s IP is succesvol verwijderd."
+msgstr[1] "%s IP's zijn succesvol verwijderd."
+
+#: includes/allowlist.php:353
+msgid "Invalid IP. See allowed formats."
+msgstr "Ongeldig IP. Zie toegestane formaten."
+
+#: includes/allowlist.php:350
+msgid "IP is already in the allow list."
+msgstr "IP staat al in de toegestane lijst."
+
+#: includes/allowlist.php:347 includes/allowlist.php:374
+#: includes/allowlist.php:391
+msgid "Some errors occurred."
+msgstr "Er zijn enkele fouten opgetreden."
+
+#: includes/allowlist.php:345
+msgid "IP added to the allow list successfully."
+msgstr "IP met succes toegevoegd aan de toegestane lijst."
+
+#: includes/allowlist.php:190
+msgid "Date Added"
+msgstr "Datum toegevoegd"
+
+#: includes/allowlist.php:189
+msgid "IP Address"
+msgstr "IP adres"
+
+#: includes/allowlist.php:180
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: includes/allowlist.php:119
+msgid "Search IP"
+msgstr "Zoek IP"
+
+#: includes/allowlist.php:98
+msgid "Allowed diapason"
+msgstr "Toegestane diapason"
+
+#: includes/allowlist.php:91
+msgid "My IP"
+msgstr "Mijn IP"
+
+#: includes/pro_banners.php:48
+msgid "tab, new line or carriage return."
+msgstr "tab, nieuwe regel of regel terugloop."
+
+#: includes/pro_banners.php:48
+msgid "Allowed separators for reasons: a comma"
+msgstr "Toegestane scheidingstekens om redenen: een komma"
+
+#: includes/pro_banners.php:45
+msgid "ordinary space, tab, new line or carriage return."
+msgstr "gewone spatie, tab, nieuwe regel of regel terugloop."
+
+#: includes/pro_banners.php:45 includes/pro_banners.php:48
+msgid "semicolon"
+msgstr "puntkomma"
+
+#: includes/pro_banners.php:45
+msgid "Allowed separators for IPs: a comma"
+msgstr "Toegestane scheidingstekens voor IP's: een komma"
+
+#: includes/allowlist.php:96 includes/pro_banners.php:44
+msgid "Allowed formats"
+msgstr "Toegestane formaten"
+
+#: includes/pro_banners.php:46
+msgid "Reason"
+msgstr "Reden"
+
+#: includes/pro_banners.php:19
+msgid "This options is available in Pro version of plugin"
+msgstr "Deze optie is beschikbaar in de Pro versie van de plugin"
+
+#: bws_menu/bws_menu.php:645
+msgid "Not installed"
+msgstr "Niet geïnstalleerd"
+
+#: bws_menu/bws_menu.php:171
+msgid "Please enter your license key."
+msgstr "Alstublieft je licentie sleutel invoeren."
+
+#. Description of the plugin
+msgid "Protect WordPress website forms from spam entries with Google Captcha (reCaptcha)."
+msgstr "Bescherm WordPress siteformulieren tegen spam-inzendingen met Google Captcha (reCaptcha)."
+
+#: bws_menu/deactivation-form.php:88
+msgid "Other"
+msgstr "Andere"
+
+#: bws_menu/product_list.php:15
+msgid "Security"
+msgstr "Veiligheid"
+
+#: bws_menu/bws_menu.php:792
+msgid "Browse More WordPress Themes"
+msgstr "Blader door meer WordPress thema's"
+
+#: bws_menu/bws_menu.php:720
+msgid "Nothing found. Try another criteria."
+msgstr "Niets gevonden. Probeer een ander criterium."
+
+#: bws_menu/bws_menu.php:707
+msgid "Install this plugin"
+msgstr "Installeer deze plugin"
+
+#: bws_menu/bws_functions.php:128 bws_menu/bws_menu.php:679
+msgid "Donate"
+msgstr "Doneer"
+
+#: bws_menu/bws_menu.php:673 bws_menu/class-bws-settings.php:202
+#: bws_menu/class-bws-settings.php:1207 google-captcha.php:76
+#: includes/pro_banners.php:31
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: bws_menu/bws_menu.php:652
+msgid "Update to v %s"
+msgstr "Update naar v %s"
+
+#: bws_menu/bws_menu.php:649
+msgid "Renew to get updates"
+msgstr "Verleng om updates te krijgen"
+
+#: bws_menu/bws_menu.php:552 bws_menu/bws_menu.php:725
+msgid "Category"
+msgstr "Categorie"
+
+#: bws_menu/bws_menu.php:549
+msgid "Filter results"
+msgstr "Filter resultaten"
+
+#: bws_menu/bws_menu.php:542
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: bws_menu/bws_menu.php:511
+msgid "Return to BestWebSoft Panel"
+msgstr "Keer terug naar BestWebSoft paneel"
+
+#: bws_menu/bws_menu.php:460
+msgid "Plugin <strong>activated</strong>."
+msgstr "Plugin <strong>geactiveerd</strong>."
+
+#: bws_menu/bws_menu.php:455
+msgid "Plugin could not be activated because it triggered a <strong>fatal error</strong>."
+msgstr "Plugin kan niet worden geactiveerd omdat deze een <strong>fatale fout</strong> heeft veroorzaakt."
+
+#: bws_menu/bws_menu.php:453
+msgid "The plugin generated %d characters of <strong>unexpected output</strong> during activation. If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
+msgstr "De plugin genereerde %d tekens van <strong>onverwachte uitvoer</strong> tijdens activering. Als je \"headers al verzonden\" berichten, problemen met syndication feeds of andere problemen opmerkt, probeer dan deze plugin te deactiveren of te verwijderen."
+
+#: bws_menu/bws_menu.php:448
+msgid "Upload Plugin"
+msgstr "Upload plugin"
+
+#: bws_menu/bws_menu.php:397
+msgid "Subscribe to Pro Membership"
+msgstr "Abonneer je op Pro lidmaatschap"
+
+#: bws_menu/bws_menu.php:415
+msgid "Enter your license key"
+msgstr "Voer je licentiesleutel in"
+
+#: bws_menu/bws_menu.php:395
+msgid "Get Access to %s+ Premium Plugins"
+msgstr "Krijg toegang tot %s+ Premium Plugins"
+
+#: bws_menu/bws_menu.php:386
+msgid "Manage purchased licenses & subscriptions"
+msgstr "Beheer gekochte licenties & abonnementen"
+
+#: bws_menu/bws_menu.php:136
+msgid "Log in"
+msgstr "Log in"
+
+#: bws_menu/bws_menu.php:136
+msgid "This license key is bound to another site. Change it via personal Client Area."
+msgstr "Deze licentiesleutel is gebonden aan een andere site. Verander het via persoonlijke Client Area."
+
+#: bws_menu/class-bws-settings.php:558
+msgid "This PHP code will be hooked to the %s Action and will be printed on front end only."
+msgstr "Deze PHP-code wordt aangesloten op de %s actie en zal alleen op de site worden getoond."
+
+#: bws_menu/bws_functions.php:852
+msgid "Add BWS Shortcode"
+msgstr "BWS shortcode toevoegen"
+
+#: bws_menu/deprecated.php:160 bws_menu/deprecated.php:255
+msgid "(your username is the email address specified during the purchase)."
+msgstr "(je gebruikersnaam is het e-mailadres dat is opgegeven tijdens de aankoop)."
+
+#: bws_menu/deprecated.php:158 bws_menu/deprecated.php:253
+msgid "License key can be found in the"
+msgstr "Licentiesleutel is te vinden in het"
+
+#: bws_menu/deprecated.php:251
+msgid "version of the plugin."
+msgstr "versie van de plugin."
+
+#: bws_menu/deprecated.php:249
+msgid "Enter your license key to install and activate"
+msgstr "Voer je licentiesleutel in om te installeren en activeren"
+
+#: bws_menu/bws_functions.php:331
+msgid "Less Details"
+msgstr "Minder details"
+
+#: bws_menu/bws_functions.php:330
+msgid "More Details"
+msgstr "Meer details"
+
+#: bws_menu/bws_functions.php:328
+msgid "Thank you for installing plugins by BestWebSoft!"
+msgstr "Bedankt voor het installeren van plugins door BestWebSoft!"
+
+#: bws_menu/deprecated.php:29
+msgid "System Status"
+msgstr "Systeem status"
+
+#: google-captcha.php:1125
+msgid "The verification is successfully completed."
+msgstr "De authenticatie is succesvol afgerond."
+
+#: google-captcha.php:1054
+msgid "User response is invalid"
+msgstr "Gebruikersantwoord is ongeldig"
+
+#: google-captcha.php:1052
+msgid "and enter it again"
+msgstr "en voer het opnieuw in"
+
+#: google-captcha.php:1051
+msgid "Check your domain configurations"
+msgstr "Controleer je domeinconfiguraties"
+
+#: google-captcha.php:1050
+msgid "Secret Key is invalid."
+msgstr "Geheime sleutel is ongeldig."
+
+#: google-captcha.php:1104
+msgid "Test verification"
+msgstr "Test verificatie"
+
+#: google-captcha.php:1098
+msgid "Please complete the captcha and submit \"Test verification\""
+msgstr "Vul de captcha in en verzend \"Test verificatie"
+
+#: bws_menu/class-bws-settings.php:597
+msgid "Learn more about %s"
+msgstr "Meer informatie over %s"
+
+#: bws_menu/class-bws-settings.php:574
+msgid "Browsing"
+msgstr "Bladeren"
+
+#: bws_menu/class-bws-settings.php:554
+msgid "These styles will be added to the header on all pages of your site."
+msgstr "Deze stijlen worden toegevoegd aan de header op alle pagina's van je site."
+
+#: bws_menu/class-bws-settings.php:548
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr "Je hebt niet voldoende rechten om plugins voor deze site te bewerken."
+
+#: bws_menu/bws_functions.php:557
+msgid "Suggest a Feature"
+msgstr "Stel een functie voor"
+
+#: bws_menu/bws_functions.php:556
+msgid "If you have a feature, suggestion or idea you'd like to see in the plugin, we'd love to hear about it!"
+msgstr "Als je een functie, suggestie of idee hebt die je in de plugin zou willen zien, horen we dat graag!"
+
+#: google-captcha.php:296
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: includes/forms.php:39
+msgid "WordPress default"
+msgstr "WordPress standaard"
+
+#: bws_menu/bws_functions.php:1217
+msgid "Submit a Request"
+msgstr "Dien een aanvraag in"
+
+#: bws_menu/bws_functions.php:1216 bws_menu/bws_menu.php:497
+#: bws_menu/class-bws-settings.php:872
+msgid "Video Instructions"
+msgstr "Video Instructies"
+
+#: bws_menu/bws_functions.php:1215 bws_menu/bws_menu.php:495
+#: bws_menu/class-bws-settings.php:870
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: bws_menu/bws_functions.php:1214
+msgid "For more information:"
+msgstr "Voor meer info:"
+
+#: bws_menu/bws_functions.php:124 bws_menu/bws_functions.php:1203
+#: bws_menu/class-bws-settings.php:1194
+msgid "Visit Help Center"
+msgstr "Ga naar het helpcentrum"
+
+#: bws_menu/bws_functions.php:875
+msgid "Add BestWebSoft plugins' shortcodes using this button."
+msgstr "Voeg met deze knop de shortcodes van BestWebSoft plugins toe."
+
+#: bws_menu/bws_functions.php:875
+msgid "Add shortcode"
+msgstr "Voeg shortcode toe"
+
+#: bws_menu/bws_functions.php:1156
+msgid "The shortcode will be inserted"
+msgstr "De shortcode wordt ingevoegd"
+
+#: bws_menu/bws_functions.php:1151
+msgid "Shortcode settings"
+msgstr "Shortcode instellingen"
+
+#: bws_menu/bws_functions.php:1142
+msgid "Plugin"
+msgstr "Plugin"
+
+#: bws_menu/bws_functions.php:853
+msgid "Add BWS Plugins Shortcode"
+msgstr "Voeg BWS plugins shortcode toe"
+
+#: bws_menu/bws_functions.php:634
+msgid "The plugin's settings have been changed."
+msgstr "De instellingen van de plugin zijn gewijzigd."
+
+#: bws_menu/bws_functions.php:238 bws_menu/bws_functions.php:263
+#: bws_menu/bws_functions.php:313 bws_menu/bws_functions.php:323
+#: bws_menu/bws_functions.php:560 bws_menu/bws_functions.php:593
+msgid "Close notice"
+msgstr "Sluit bericht"
+
+#: bws_menu/bws_functions.php:309 bws_menu/bws_functions.php:341
+#: includes/allowlist.php:52
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: bws_menu/bws_functions.php:305
+msgid "Let's get started"
+msgstr "Laten we beginnen"
+
+#: bws_menu/deprecated.php:242
+msgid "Show Pro features"
+msgstr "Toon Pro functies"
+
+#: bws_menu/bws_functions.php:285
+msgid "or higher! We do not guarantee that our plugin will work correctly. Please upgrade to WordPress latest version."
+msgstr "of hoger! We kunnen niet garanderen dat onze plugin correct werkt. Upgrade naar de nieuwste versie van WordPress."
+
+#. Author URI of the plugin
+msgid "https://bestwebsoft.com/"
+msgstr "http://bestwebsoft.com/"
+
+#. Author of the plugin
+msgid "BestWebSoft"
+msgstr "BestWebSoft"
+
+#: bws_menu/bws_menu.php:385 google-captcha.php:1161
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: google-captcha.php:916 includes/forms.php:371
+msgid "Error"
+msgstr "Fout"
+
+#: google-captcha.php:638
+msgid "plugin setting page"
+msgstr "plugin instellingen pagina"
+
+#: google-captcha.php:636
+msgid "and enter them on the"
+msgstr "en voer ze in op het"
+
+#: google-captcha.php:635
+msgid "here"
+msgstr "hier"
+
+#: google-captcha.php:634
+msgid "To use reCaptcha you must get the keys from"
+msgstr "Om reCaptcha te gebruiken, moet je de sleutels ophalen van"
+
+#: bws_menu/bws_functions.php:635 bws_menu/class-bws-settings.php:235
+#: bws_menu/class-bws-settings.php:263
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: bws_menu/bws_functions.php:634 bws_menu/class-bws-settings.php:640
+#: bws_menu/class-bws-settings.php:645 bws_menu/class-bws-settings.php:714
+#: bws_menu/class-bws-settings.php:719
+msgid "Notice"
+msgstr "Merk op"
+
+#: bws_menu/bws_functions.php:1208 google-captcha.php:1160
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/class-gglcptch-settings-tabs.php:138
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: includes/class-gglcptch-settings-tabs.php:100
+msgid "Enter secret key"
+msgstr "Voer de geheime sleutel in"
+
+#: includes/class-gglcptch-settings-tabs.php:94
+#: includes/class-gglcptch-settings-tabs.php:101
+msgid "WARNING: The captcha will not be displayed until you fill key fields."
+msgstr "WAARSCHUWING: de captcha wordt pas weergegeven als je sleutelvelden invult."
+
+#: includes/class-gglcptch-settings-tabs.php:93
+msgid "Enter site key"
+msgstr "Voer de sitesleutel in"
+
+#: includes/forms.php:15
+msgid "Comments form"
+msgstr "Reacties formulier"
+
+#: includes/forms.php:14
+msgid "Reset password form"
+msgstr "Wachtwoord opnieuw instellen"
+
+#: includes/forms.php:13
+msgid "Registration form"
+msgstr "Registratieformulier"
+
+#: includes/forms.php:12
+msgid "Login form"
+msgstr "Login formulier"
+
+#: includes/class-gglcptch-settings-tabs.php:54
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: includes/class-gglcptch-settings-tabs.php:49
+msgid "Site Key"
+msgstr "Sitesleutel"
+
+#: includes/pro_banners.php:252
+msgid "Compact"
+msgstr "Compact"
+
+#: includes/pro_banners.php:251
+msgid "Normal"
+msgstr "Normaal"
+
+#: bws_menu/bws_menu.php:818
+msgid "Send to custom email &#187;"
+msgstr "Verzenden naar aangepast e-mailadres & #187;"
+
+#: bws_menu/bws_menu.php:811
+msgid "Send to support"
+msgstr "Stuur naar ondersteuning"
+
+#: bws_menu/bws_menu.php:249
+msgid "Inactive Plugins"
+msgstr "Inactieve plugins"
+
+#: bws_menu/bws_menu.php:244
+msgid "Active Plugins"
+msgstr "Actieve plugins"
+
+#: bws_menu/bws_menu.php:780
+msgid "Already Installed"
+msgstr "Al geïnstalleerd"
+
+#: bws_menu/bws_menu.php:771
+msgid "By %s"
+msgstr "Door %s"
+
+#: bws_menu/bws_menu.php:707 includes/forms.php:126 includes/forms.php:151
+#: includes/forms.php:153
+msgid "Install Now"
+msgstr "Installeer nu"
+
+#: bws_menu/bws_menu.php:693 bws_menu/bws_menu.php:702
+msgid "Activate this plugin"
+msgstr "Activeer deze plugin"
+
+#: bws_menu/bws_functions.php:306 bws_menu/bws_functions.php:339
+#: bws_menu/bws_menu.php:685 bws_menu/bws_menu.php:687 google-captcha.php:50
+#: google-captcha.php:1145 google-captcha.php:1158
+#: includes/class-gglcptch-settings-tabs.php:22
+msgid "Settings"
+msgstr "Instellingen"
+
+#: bws_menu/product_list.php:14
+msgid "Recommended"
+msgstr "Aangeraden"
+
+#: bws_menu/bws_menu.php:534 bws_menu/bws_menu.php:782
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: bws_menu/bws_menu.php:526 bws_menu/bws_menu.php:561
+#: bws_menu/bws_menu.php:734
+msgid "All"
+msgstr "Alles"
+
+#: bws_menu/bws_menu.php:335 bws_menu/bws_menu.php:367
+#: bws_menu/bws_menu.php:759 bws_menu/deprecated.php:28
+msgid "Themes"
+msgstr "Thema's"
+
+#: bws_menu/bws_menu.php:325 bws_menu/bws_menu.php:356
+#: bws_menu/bws_menu.php:447 bws_menu/deprecated.php:27
+msgid "Plugins"
+msgstr "Plugins"
+
+#: bws_menu/bws_menu.php:344 bws_menu/bws_menu.php:378
+#: bws_menu/bws_menu.php:795
+msgid "System status"
+msgstr "Systeem status"
+
+#: bws_menu/bws_menu.php:507
+msgid "Client Area"
+msgstr "Klantengebied"
+
+#: bws_menu/class-bws-settings.php:1190
+msgid "Need Help?"
+msgstr "Hulp nodig?"
+
+#: bws_menu/bws_menu.php:300
+msgid "Sorry, email message could not be delivered."
+msgstr "E-mailbericht kon niet worden bezorgd."
+
+#: bws_menu/bws_menu.php:276
+msgid "Thank you for contacting us."
+msgstr "Bedankt dat je contact met ons hebt opgenomen."
+
+#: bws_menu/bws_menu.php:272
+msgid "Email with system info is sent to %s."
+msgstr "E-mail met systeeminformatie wordt verzonden naar %s."
+
+#: bws_menu/bws_menu.php:270
+msgid "Please enter a valid email address."
+msgstr "Geef een geldig e-mailadres op."
+
+#: bws_menu/bws_menu.php:213
+msgid "Active Theme"
+msgstr "Actief thema"
+
+#: bws_menu/bws_menu.php:208
+msgid "Home URL"
+msgstr "Startpagina URL"
+
+#: bws_menu/bws_menu.php:230
+msgid "PHP XML support"
+msgstr "PHP XML ondersteuning"
+
+#: bws_menu/bws_menu.php:229
+msgid "PHP IPTC support"
+msgstr "PHP IPTC ondersteuning"
+
+#: bws_menu/bws_menu.php:228
+msgid "PHP Exif support"
+msgstr "PHP Exif support"
+
+#: bws_menu/bws_menu.php:227
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Uitvoertijd"
+
+#: bws_menu/bws_menu.php:226
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: bws_menu/bws_menu.php:225
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: bws_menu/bws_menu.php:223
+msgid "PHP Memory Limit"
+msgstr "PHP Geheugenlimiet"
+
+#: bws_menu/bws_menu.php:222
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: bws_menu/bws_menu.php:221
+msgid "PHP Version"
+msgstr "PHP versie"
+
+#: bws_menu/bws_menu.php:240
+msgid "SQL Mode"
+msgstr "SQL-modus"
+
+#: bws_menu/bws_menu.php:239
+msgid "MySQL version"
+msgstr "MySQL versie"
+
+#: bws_menu/bws_menu.php:224
+msgid "Memory Usage"
+msgstr "Geheugengebruik"
+
+#: bws_menu/bws_menu.php:220
+msgid "Server"
+msgstr "Server"
+
+#: bws_menu/bws_menu.php:219
+msgid "Operating System"
+msgstr "Besturingssysteem"
+
+#: bws_menu/bws_menu.php:193 bws_menu/bws_menu.php:194
+#: bws_menu/bws_menu.php:195 bws_menu/bws_menu.php:199
+msgid "No"
+msgstr "Nee"
+
+#: bws_menu/bws_menu.php:193 bws_menu/bws_menu.php:194
+#: bws_menu/bws_menu.php:195 bws_menu/bws_menu.php:199
+msgid "Yes"
+msgstr "Ja"
+
+#: bws_menu/bws_menu.php:187 bws_menu/bws_menu.php:188
+#: bws_menu/bws_menu.php:189 bws_menu/bws_menu.php:190
+#: bws_menu/bws_menu.php:191 bws_menu/bws_menu.php:192
+#: bws_menu/bws_menu.php:201
+msgid "N/A"
+msgstr "N/A"
+
+#: bws_menu/bws_menu.php:186
+msgid "Off"
+msgstr "Uit"
+
+#: bws_menu/bws_menu.php:186
+msgid "On"
+msgstr "Aan"
+
+#: bws_menu/bws_menu.php:183
+msgid "Not set"
+msgstr "Niet ingesteld"
+
+#: bws_menu/bws_functions.php:1080
+msgid "No, go back to the settings page"
+msgstr "Nee, ga terug naar de instellingenpagina"
+
+#: bws_menu/bws_functions.php:1079
+msgid "Yes, restore all settings"
+msgstr "Ja, herstel alle instellingen"
+
+#: bws_menu/deprecated.php:209
+msgid "Restore settings"
+msgstr "Instellingen herstellen"
+
+#: bws_menu/deprecated.php:207
+msgid "Restore all plugin settings to defaults"
+msgstr "Herstel alle plugin instellingen naar de standaardwaarden"
+
+#: bws_menu/bws_functions.php:984 includes/class-gglcptch-settings-tabs.php:291
+#: includes/class-gglcptch-settings-tabs.php:319
+#: includes/class-gglcptch-settings-tabs.php:346
+#: includes/class-gglcptch-settings-tabs.php:384 includes/pro_banners.php:22
+msgid "Close"
+msgstr "Sluit"
+
+#: bws_menu/bws_functions.php:201
+msgid "The Pro Trial license will expire on"
+msgstr "De Pro trial licentie verloopt op"
+
+#: bws_menu/bws_functions.php:198
+msgid "Notice: You are using the Pro Trial license of plugin."
+msgstr "Let op: je gebruikt de Pro trial licentie van de plugin."
+
+#: bws_menu/bws_functions.php:196
+msgid "Notice: You are using the Pro Trial license of %s plugin."
+msgstr "Opmerking: je gebruikt de Pro trial licentie van de %s plugin."
+
+#: bws_menu/bws_functions.php:176 bws_menu/bws_functions.php:267
+msgid "Learn more"
+msgstr "Meer informatie"
+
+#: bws_menu/bws_functions.php:176
+msgid "Your license has expired. To continue getting top-priority support and plugin updates, you should extend it."
+msgstr "Je licentie is verlopen. Als je ondersteuning en updates van plugins met de hoogste prioriteit wil blijven ontvangen, moet je deze uitbreiden."
+
+#: bws_menu/bws_functions.php:174
+msgid "Notice: Your Pro Trial license has expired. To continue using the plugin, you should buy a Pro license"
+msgstr "Opmerking: je Pro trial licentie is verlopen. Om de plugin te blijven gebruiken, moet je een Pro licentie kopen"
+
+#: bws_menu/bws_functions.php:155
+msgid "You can use one license of the Pro plugin for one domain only. Please check and edit your license or domain if necessary using your personal Client Area. We strongly recommend you to solve the problem within 24 hours, otherwise the Pro plugin will be deactivated."
+msgstr "Je kunt één licentie van de Pro plugin slechts voor één domein gebruiken. Controleer en bewerk je licentie of domein indien nodig met je persoonlijke klant gebied. We raden je ten zeerste aan om het probleem binnen 24 uur op te lossen, anders wordt de Pro plugin gedeactiveerd."
+
+#: bws_menu/bws_functions.php:155
+msgid "WARNING: Illegal use notification"
+msgstr "WAARSCHUWING: bericht van illegaal gebruik"
+
+#: bws_menu/bws_menu.php:407 bws_menu/bws_menu.php:428
+#: bws_menu/class-bws-settings.php:925 bws_menu/deprecated.php:133
+msgid "Check license key"
+msgstr "Controleer licentiesleutel"
+
+#: bws_menu/deprecated.php:129
+msgid "(your username is the email address specified during the purchase). If necessary, please submit \"Lost your password?\" request."
+msgstr "(je gebruikersnaam is het e-mailadres dat is opgegeven tijdens de aankoop). Dien indien nodig een \"Wachtwoord vergeten?\" aanvraag in."
+
+#: bws_menu/deprecated.php:129
+msgid "If necessary, you can check if the license key is correct or reenter it in the field below. You can find your license key on your personal page - Client Area - on our website"
+msgstr "Indien nodig kan je controleren of de licentiesleutel correct is of deze opnieuw invoeren in het onderstaande veld. Je kan je licentiesleutel vinden op je persoonlijke pagina - Client Area - op onze site"
+
+#: bws_menu/bws_menu.php:150 bws_menu/class-bws-settings.php:1022
+msgid "Your license will expire on"
+msgstr "Je licentie verloopt op"
+
+#: bws_menu/bws_menu.php:148 bws_menu/class-bws-settings.php:1018
+msgid "The license key is valid."
+msgstr "De licentiesleutel is geldig."
+
+#: bws_menu/class-bws-settings.php:1016
+msgid "The Pro Trial license key is valid."
+msgstr "De Pro trial licentiesleutel is geldig."
+
+#: bws_menu/class-bws-settings.php:1011
+msgid "Unfortunately, the Pro Trial licence was already installed to this domain. The Pro Trial license can be installed only once."
+msgstr "Helaas was de Pro trial licentie al op dit domein geïnstalleerd. De Pro trial licentie kan slechts één keer worden geïnstalleerd."
+
+#: bws_menu/class-bws-settings.php:1009
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr "Helaas heb je het aantal beschikbare pogingen overschreden."
+
+#: bws_menu/class-bws-settings.php:1007
+msgid "This license key is valid, but Your license has expired. If you want to update our plugin in future, you should extend the license."
+msgstr "Deze licentiesleutel is geldig, maar je licentie is verlopen. Als je onze plugin in de toekomst wil updaten, moet je de licentie verlengen."
+
+#: bws_menu/class-bws-settings.php:1005 bws_menu/class-bws-settings.php:1121
+msgid "This license key is bound to another site."
+msgstr "Deze licentiesleutel is gebonden aan een andere site."
+
+#: bws_menu/bws_menu.php:134 bws_menu/class-bws-settings.php:1003
+#: bws_menu/class-bws-settings.php:1119
+msgid "Wrong license key."
+msgstr "Verkeerde licentiesleutel."
+
+#: bws_menu/bws_menu.php:138 bws_menu/bws_menu.php:405
+#: bws_menu/deprecated.php:172
+msgid "Unfortunately, you have exceeded the number of available tries per day."
+msgstr "Helaas heb je het aantal beschikbare pogingen per dag overschreden."
+
+#: bws_menu/deprecated.php:155
+msgid "After that, you can activate it by entering your license key."
+msgstr "Daarna kan je het activeren door je licentiesleutel in te voeren."
+
+#: bws_menu/class-bws-settings.php:1029 bws_menu/deprecated.php:155
+msgid "In order to continue using the plugin it is necessary to buy a %s license."
+msgstr "Om de plugin te kunnen blijven gebruiken, moet je een %s licentie kopen."
+
+#: bws_menu/bws_menu.php:426 bws_menu/bws_menu.php:693
+#: bws_menu/bws_menu.php:702 bws_menu/class-bws-settings.php:898
+#: bws_menu/deprecated.php:170 bws_menu/deprecated.php:178
+#: bws_menu/deprecated.php:268 bws_menu/deprecated.php:281
+#: includes/forms.php:124 includes/forms.php:148
+msgid "Activate"
+msgstr "Activeren"
+
+#: bws_menu/class-bws-settings.php:908 bws_menu/deprecated.php:260
+msgid "Start Your Free %s-Day Trial Now"
+msgstr "Start jouw gratis %s-proefabonnement nu"
+
+#: bws_menu/bws_functions.php:308 bws_menu/bws_menu.php:397
+#: bws_menu/class-bws-settings.php:908 bws_menu/class-bws-settings.php:1197
+#: bws_menu/class-bws-settings.php:1210 bws_menu/deprecated.php:260
+msgid "or"
+msgstr "of"
+
+#: bws_menu/deprecated.php:189 bws_menu/deprecated.php:233
+msgid "the setting page"
+msgstr "instellingenpagina"
+
+#: bws_menu/deprecated.php:189 bws_menu/deprecated.php:233
+msgid "Please, go to"
+msgstr "Ga naar"
+
+#: bws_menu/class-bws-settings.php:1174
+msgid "Please, enter Your license key"
+msgstr "Alstublieft je licentie sleutel invoeren"
+
+#: bws_menu/bws_menu.php:160 bws_menu/class-bws-settings.php:1137
+msgid "Something went wrong. Try again later or upload the plugin manually. We are sorry for inconvenience."
+msgstr "Er is iets fout gegaan. Probeer het later opnieuw of upload de plugin handmatig. Excuses voor het ongemak."
+
+#: bws_menu/bws_menu.php:142 bws_menu/class-bws-settings.php:1127
+msgid "Unfortunately, the Pro licence was already installed to this domain. The Pro Trial license can be installed only once."
+msgstr "Helaas was de Pro licentie al op dit domein geïnstalleerd. De Pro trial licentie kan slechts één keer worden geïnstalleerd."
+
+#: bws_menu/bws_menu.php:140
+msgid "Unfortunately, Your license has expired. To continue getting top-priority support and plugin updates, you should extend it in your %s"
+msgstr "Helaas is je licentie verlopen. Als je ondersteuning en updates van plugins met de hoogste prioriteit wil blijven ontvangen, moet je deze uitbreiden in je %s"
+
+#: bws_menu/class-bws-settings.php:904 bws_menu/class-bws-settings.php:1123
+#: bws_menu/deprecated.php:275
+msgid "Unfortunately, you have exceeded the number of available tries per day. Please, upload the plugin manually."
+msgstr "Helaas heb je het aantal beschikbare pogingen per dag overschreden. Upload de plugin handmatig."
+
+#: bws_menu/bws_menu.php:127 bws_menu/class-bws-settings.php:997
+#: bws_menu/class-bws-settings.php:1074 bws_menu/class-bws-settings.php:1113
+msgid "We are sorry for inconvenience."
+msgstr "Excuses voor het ongemak."
+
+#: bws_menu/bws_menu.php:127 bws_menu/class-bws-settings.php:997
+#: bws_menu/class-bws-settings.php:1074 bws_menu/class-bws-settings.php:1113
+msgid "Something went wrong. Please try again later. If the error appears again, please contact us"
+msgstr "Er is iets fout gegaan. Probeer het later opnieuw. Neem contact met ons op als de fout opnieuw verschijnt"
+
+#: bws_menu/bws_menu.php:105 bws_menu/class-bws-settings.php:971
+msgid "Wrong license key"
+msgstr "Verkeerde licentiesleutel"
+
+#: bws_menu/bws_functions.php:155 bws_menu/bws_functions.php:247
+#: bws_menu/bws_menu.php:774 bws_menu/class-bws-settings.php:189
+msgid "Learn More"
+msgstr "Meer lezen"
+
+#: bws_menu/bws_functions.php:244
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Breid de standaard plugin functionaliteit uit met nieuwe geweldige opties."
+
+#: bws_menu/bws_functions.php:243
+msgid "version!"
+msgstr "versie!"
+
+#: bws_menu/bws_functions.php:243
+msgid "to"
+msgstr "naar"
+
+#: bws_menu/bws_functions.php:243
+msgid "It’s time to upgrade your"
+msgstr "Het is tijd om je"
+
+#: bws_menu/bws_functions.php:90
+msgid "Plugins page"
+msgstr "Plugins pagina"
+
+#: bws_menu/bws_functions.php:88
+msgid "Back to the WordPress"
+msgstr "Terug naar de WordPress"
+
+#: bws_menu/bws_functions.php:87
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr "of hoger, daarom is het gedeactiveerd! Upgrade WordPress en probeer het opnieuw."
+
+#: bws_menu/bws_functions.php:85 bws_menu/bws_functions.php:283
+msgid "requires"
+msgstr "vereist"

@@ -1,0 +1,4557 @@
+# Translation of Plugins - Frontend Admin by DynamiApps - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Frontend Admin by DynamiApps - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-27 11:37:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Frontend Admin by DynamiApps - Stable (latest release)\n"
+
+#: main/frontend/fields/post/class-post-content.php:104
+msgid "Blocks Editor (NEW!)"
+msgstr "Éditeur de blocs (nouveau !)"
+
+#: main/frontend/fields/general/class-blocks-editor.php:24
+msgid "Block Editor"
+msgstr "Éditeur de bloc"
+
+#: main/frontend/fields/general/class-upload-file.php:188
+msgid "Files will not appear in the WP library"
+msgstr "Les fichiers n’apparaîtront pas dans la bibliothèque WP"
+
+#: main/frontend/fields/general/class-upload-file.php:184
+msgid "Hide from library"
+msgstr "Masquer depuis la bibliothèque"
+
+#: main/frontend/module.php:108
+msgid "Appears in shortcode when field returns no value. If left blank nothing will show. Each individual field has this setting as well and that will overwrite this."
+msgstr "Apparaît en code court lorsque le champ ne renvoie aucune valeur. Si laissé vide, rien ne s’affichera. Chaque champ individuel a également ce réglage et cela l’écrasera."
+
+#: main/frontend/module.php:91
+msgid "Group Shortcode"
+msgstr "Code court de groupe"
+
+#: main/frontend/fields/general/class-upload-file.php:169
+msgid "Block external access to this directory. (Takes affect when file is added. Requires .htaccess support)"
+msgstr "Bloque l’accès externe à ce répertoire. (Prend effet lorsque le fichier est ajouté. Nécessite la prise en charge de .htaccess)"
+
+#: main/frontend/fields/general/class-upload-file.php:165
+msgid "Secure Directory"
+msgstr "Sécuriser le répertoire"
+
+#: main/frontend/fields/general/class-upload-file.php:146
+msgid "Folder Name"
+msgstr "Nom du dossier"
+
+#: main/frontend/fields/general/class-upload-file.php:140
+msgid "Save files in a custom directory under the wp-content/uploads directory"
+msgstr "Enregistrer les fichiers dans un répertoire personnalisé sous le répertoire wp-content/uploads"
+
+#: main/frontend/fields/general/class-upload-file.php:136
+msgid "Custom Directory"
+msgstr "Répertoire personnalisé"
+
+#: main/admin/admin-pages/subscriptions/list.php:92
+msgid "No subscriptions avaliable."
+msgstr "Aucun abonnement disponible."
+
+#: main/admin/admin-pages/subscriptions/list.php:21
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: main/admin/admin-pages/subscriptions/crud.php:141
+#: main/admin/admin-pages/subscriptions/crud.php:157
+#: main/admin/admin-pages/subscriptions/list.php:22
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: main/admin/admin-pages/plans/list.php:114
+#: main/admin/admin-pages/subscriptions/list.php:114
+msgid "Never"
+msgstr "Jamais"
+
+#: main/frontend/fields/general/class-list-items.php:142
+msgid "Duplicate Item Label"
+msgstr "Dupliquer le libellé de l’élément"
+
+#: main/frontend/fields/general/class-list-items.php:124
+msgid "Add Button Label"
+msgstr "Ajouter le libellé du bouton"
+
+#: main/frontend/fields/user/class-username.php:157
+msgid "Allow users to change their username. WARNING: allowing your users to change their username might affect existing urls and their SEO rating."
+msgstr "Permettez aux internautes de modifier leur identifiant. Avertissement : permettre aux internautes de modifier leur identifiant peut affecter les URL existantes et leur note de référencement."
+
+#: main/admin/admin-pages/forms/settings.php:564
+msgid "Save Changes"
+msgstr "Enregistrer le modifications"
+
+#: main/admin/admin-pages/forms/settings.php:538
+#: main/gutenberg/build/frontend-block-editor/index.js:42
+msgid "Add title"
+msgstr "Ajouter un titre"
+
+#: main/frontend/fields/post/class-post-author.php:53
+msgid "Invalid nonce."
+msgstr "Nonce invalide."
+
+#: main/frontend/fields/general/class-url.php:161
+msgid "Value must be a valid URL"
+msgstr "La valeur doit être une URL valide"
+
+#: main/frontend/fields/general/class-url.php:26
+msgid "Url"
+msgstr "URL"
+
+#: main/frontend/fields/general/class-true-false.php:26
+msgid "True / False"
+msgstr "Vrai/Faux"
+
+#: main/frontend/fields/general/class-select.php:680
+msgid "%1$s is not one of %2$s"
+msgstr "%1$s n’est pas l’un des %2$s"
+
+#: main/frontend/fields/general/class-select.php:457
+msgid "Use AJAX to lazy load choices?"
+msgstr "Utiliser AJAX pour un chargement différé des choix ?"
+
+#: main/frontend/fields/general/class-select.php:447
+#: main/frontend/fields/general/class-true-false.php:198
+msgid "Use a stylized checkbox using select2"
+msgstr "Utiliser une case à cocher stylisée avec select2"
+
+#: main/frontend/fields/general/class-select.php:446
+#: main/frontend/fields/general/class-true-false.php:197
+msgid "Stylized UI"
+msgstr "UI stylisée"
+
+#: main/frontend/fields/general/class-select.php:403
+msgid "Select multiple values?"
+msgstr "Sélectionner plusieurs valeurs ?"
+
+#: main/frontend/fields/general/class-select.php:388
+msgid "Specify the value returned"
+msgstr "Spécifier la valeur retournée"
+
+#: main/frontend/fields/general/class-select.php:256
+msgctxt "verb"
+msgid "Select"
+msgstr "Sélectionner"
+
+#: main/frontend/fields/general/class-select.php:119
+msgctxt "Select2 JS load_fail"
+msgid "Loading failed"
+msgstr "Chargement échoué"
+
+#: main/frontend/fields/general/class-select.php:118
+msgctxt "Select2 JS searching"
+msgid "Searching&hellip;"
+msgstr "Recherche en cours…"
+
+#: main/frontend/fields/general/class-select.php:117
+msgctxt "Select2 JS load_more"
+msgid "Loading more results&hellip;"
+msgstr "Charger plus de résultats…"
+
+#: main/frontend/fields/general/class-select.php:116
+msgctxt "Select2 JS selection_too_long_n"
+msgid "You can only select %d items"
+msgstr "Vous pouvez sélectionner uniquement %d éléments"
+
+#: main/frontend/fields/general/class-select.php:115
+msgctxt "Select2 JS selection_too_long_1"
+msgid "You can only select 1 item"
+msgstr "Vous pouvez sélectionner uniquement un élément"
+
+#: main/frontend/fields/general/class-select.php:114
+msgctxt "Select2 JS input_too_long_n"
+msgid "Please delete %d characters"
+msgstr "Veuillez supprimer %d caractères"
+
+#: main/frontend/fields/general/class-select.php:113
+msgctxt "Select2 JS input_too_long_1"
+msgid "Please delete 1 character"
+msgstr "Veuillez supprimer 1 caractère"
+
+#: main/frontend/fields/general/class-select.php:112
+msgctxt "Select2 JS input_too_short_n"
+msgid "Please enter %d or more characters"
+msgstr "Veuillez saisir %d caractères ou plus"
+
+#: main/frontend/fields/general/class-select.php:111
+msgctxt "Select2 JS input_too_short_1"
+msgid "Please enter 1 or more characters"
+msgstr "Veuillez saisir 1 caractère ou plus"
+
+#: main/frontend/fields/general/class-select.php:110
+msgctxt "Select2 JS matches_0"
+msgid "No matches found"
+msgstr "Aucune correspondance trouvée"
+
+#: main/frontend/fields/general/class-select.php:109
+msgctxt "Select2 JS matches_n"
+msgid "%d results are available, use up and down arrow keys to navigate."
+msgstr "%d résultats sont disponibles, utilisez les flèches haut et bas pour naviguer."
+
+#: main/frontend/fields/general/class-select.php:108
+msgctxt "Select2 JS matches_1"
+msgid "One result is available, press enter to select it."
+msgstr "Un résultat est disponible, appuyez sur « Entrée » pour le sélectionner."
+
+#: main/frontend/fields/general/class-related-items.php:690
+msgid "Selected elements will be displayed in each result"
+msgstr "Les éléments sélectionnés seront affichés dans chaque résultat"
+
+#: main/frontend/fields/general/class-related-items.php:689
+msgid "Elements"
+msgstr "Éléments"
+
+#: main/frontend/fields/general/class-related-items.php:669
+msgid "Maximum posts"
+msgstr "Maximum de publications"
+
+#: main/frontend/fields/general/class-related-items.php:659
+msgid "Minimum posts"
+msgstr "Minimum de publications"
+
+#: main/frontend/fields/general/class-related-items.php:636
+msgid "Post Object"
+msgstr "Objet de la publication"
+
+#: main/frontend/fields/general/class-related-items.php:631
+#: main/frontend/fields/general/class-select.php:387
+msgid "Return Format"
+msgstr "Format de retour"
+
+#: main/frontend/fields/general/class-related-items.php:621
+msgid "Search"
+msgstr "Recherche"
+
+#: main/frontend/fields/general/class-related-items.php:616
+msgid "Filters"
+msgstr "Filtres"
+
+#: main/frontend/fields/general/class-related-items.php:414
+msgid "Select taxonomy"
+msgstr "Sélectionner une taxonomie"
+
+#: main/frontend/fields/general/class-related-items.php:405
+msgid "Select post type"
+msgstr "Sélectionner un type de publication"
+
+#: main/frontend/fields/general/class-related-items.php:79
+msgid "No matches found"
+msgstr "Aucune correspondance trouvée"
+
+#: main/frontend/fields/general/class-related-items.php:78
+msgid "Loading"
+msgstr "Chargement en cours"
+
+#: main/frontend/fields/general/class-related-items.php:77
+msgid "Maximum values reached ( {max} values )"
+msgstr "Valeurs maximales atteintes ( {max} values )"
+
+#: main/frontend/fields/general/class-related-items.php:26
+msgid "Relationship"
+msgstr "Relation"
+
+#: main/frontend/fields/general/class-range.php:26
+msgid "Range"
+msgstr "Plage"
+
+#: main/frontend/fields/general/class-radio.php:132
+msgid "Save 'other' values to the field's choices"
+msgstr "Enregistrer les valeurs « Autres » dans les choix des champs"
+
+#: main/frontend/fields/general/class-radio.php:128
+msgid "Save Other Choice"
+msgstr "Enregistrer un autre choix"
+
+#: main/frontend/fields/general/class-radio.php:121
+msgid "Add 'other' choice to allow for custom values"
+msgstr "Ajouter un choix « Autre » pour autoriser une valeur personnalisée"
+
+#: main/frontend/fields/general/class-radio.php:117
+msgid "Allow Other Choice"
+msgstr "Autoriser un autre choix"
+
+#: main/frontend/fields/general/class-radio.php:26
+msgid "Radio Button"
+msgstr "Bouton radio"
+
+#: main/frontend/fields/general/class-number.php:251
+msgid "Value must be equal to or lower than %d"
+msgstr "La valeur doit être inférieure ou égale à %d"
+
+#: main/frontend/fields/general/class-number.php:244
+msgid "Value must be equal to or higher than %d"
+msgstr "La valeur doit être être supérieure ou égale à %d"
+
+#: main/frontend/fields/general/class-number.php:229
+msgid "Value must be a number"
+msgstr "La valeur doit être un nombre"
+
+#: main/frontend/fields/general/class-number.php:173
+#: main/frontend/fields/general/class-range.php:202
+msgid "Step Size"
+msgstr "Taille de l’étape"
+
+#: main/frontend/fields/general/class-link.php:104
+msgid "Link URL"
+msgstr "URL du lien"
+
+#: main/frontend/fields/general/class-link.php:103
+msgid "Link Array"
+msgstr "Tableau du lien"
+
+#: main/frontend/fields/general/class-link.php:26
+msgid "Link"
+msgstr "Lien"
+
+#: main/frontend/fields/general/class-email.php:165
+#: main/frontend/fields/user/class-user-email.php:84
+msgid "'%s' is not a valid email address"
+msgstr "« %s » n’est pas une adresse e-mail valide"
+
+#: main/frontend/fields/general/class-color.php:24
+msgid "Color"
+msgstr "Couleur"
+
+#: main/frontend/fields/general/class-checkbox.php:384
+msgid "Prepend an extra checkbox to toggle all choices"
+msgstr "Ajouter une case à cocher pour ouvrir/fermer tous les choix"
+
+#: main/frontend/fields/general/class-checkbox.php:383
+msgid "Add Toggle All"
+msgstr "Ajouter « Tout ouvrir/fermer »"
+
+#: main/frontend/fields/general/class-checkbox.php:346
+msgid "Save 'custom' values to the field's choices"
+msgstr "Enregistrer les valeurs personnalisées dans les choix du champs"
+
+#: main/frontend/fields/general/class-checkbox.php:342
+msgid "Save Custom Values"
+msgstr "Enregistrer les valeurs personnalisées"
+
+#: main/frontend/fields/general/class-checkbox.php:335
+msgid "Allow 'custom' values to be added"
+msgstr "Autoriser l’ajout de valeurs « personnalisées »"
+
+#: main/frontend/fields/general/class-checkbox.php:331
+msgid "Allow Custom Values"
+msgstr "Autoriser les valeurs personnalisées"
+
+#: main/frontend/fields/general/class-checkbox.php:312
+#: main/frontend/fields/general/class-radio.php:88
+#: main/frontend/fields/general/class-select.php:395
+msgid "Both (Array)"
+msgstr "Les deux (tableau)"
+
+#: main/frontend/fields/general/class-checkbox.php:295
+#: main/frontend/fields/general/class-select.php:377
+msgid "Enter each default value on a new line"
+msgstr "Saisissez chaque valeur par défaut sur une nouvelle ligne"
+
+#: main/frontend/fields/general/class-checkbox.php:285
+#: main/frontend/fields/general/class-radio.php:61
+#: main/frontend/fields/general/class-select.php:366
+msgid "red : Red"
+msgstr "rouge : Rouge"
+
+#: main/frontend/fields/general/class-checkbox.php:285
+#: main/frontend/fields/general/class-radio.php:61
+#: main/frontend/fields/general/class-select.php:366
+msgid "For more control, you may specify both a value and label like this:"
+msgstr "Pour plus de contrôle, vous pouvez spécifier une valeur et un libellé de cette manière :"
+
+#: main/frontend/fields/general/class-checkbox.php:285
+#: main/frontend/fields/general/class-radio.php:61
+#: main/frontend/fields/general/class-select.php:366
+msgid "Enter each choice on a new line."
+msgstr "Saisissez chaque choix sur une nouvelle ligne."
+
+#: main/frontend/fields/general/class-checkbox.php:170
+msgid "Add new choice"
+msgstr "Ajouter un nouveau choix"
+
+#: main/frontend/fields/general/class-checkbox.php:107
+msgid "Toggle All"
+msgstr "Tout ouvrir/fermer"
+
+#: main/frontend/fields/general/class-checkbox.php:81
+msgid "Checkbox custom values cannot be empty. Uncheck any empty values."
+msgstr "Les valeurs personnalisées des cases à cocher ne peuvent pas être vides. Décochez toutes les valeurs vides."
+
+#: main/admin/module.php:60
+msgid "If you have any questions at all please feel welcome to email support at <a href=\"mailto:%1$s\"/>%1$s</a> or on whatsapp <a href=\"%2$s\">%3$s</a>"
+msgstr "Si vous avez la moindre question, veuillez nous envoyer un e-mail de support à <a href=\"mailto:%1$s\"/>%1$s</a> ou sur WhatsApp <a href=\"%2$s\">%3$s</a>."
+
+#: main/admin/admin-pages/forms/settings.php:499
+msgid "Selection is less than"
+msgstr "La sélection est inférieure à"
+
+#: main/admin/admin-pages/forms/settings.php:498
+msgid "Selection is greater than"
+msgstr "La sélection est supérieure à"
+
+#: main/admin/admin-pages/forms/settings.php:497
+msgid "Value is less than"
+msgstr "La valeur est inférieure à"
+
+#: main/admin/admin-pages/forms/settings.php:496
+msgid "Value is greater than"
+msgstr "La valeur est supérieure à"
+
+#: main/admin/admin-pages/forms/settings.php:495
+msgid "Value contains"
+msgstr "La valeur contient"
+
+#: main/admin/admin-pages/forms/settings.php:494
+msgid "Value matches pattern"
+msgstr "Valeur correspond à la composition"
+
+#: main/admin/admin-pages/forms/settings.php:493
+msgid "Value is not equal to"
+msgstr "La valeur n’est pas égale à"
+
+#: main/admin/admin-pages/forms/settings.php:492
+msgid "Value is equal to"
+msgstr "La valeur est égale à"
+
+#: main/admin/admin-pages/forms/settings.php:491
+msgid "Has no value"
+msgstr "N’a aucune valeur"
+
+#: main/admin/admin-pages/forms/settings.php:490
+msgid "Has any value"
+msgstr "A n’importe quelle valeur"
+
+#: main/admin/admin-pages/forms/settings.php:480
+msgid "Field moved to other group"
+msgstr "Champ déplacé vers un autre groupe"
+
+#: main/admin/admin-pages/forms/settings.php:479
+msgid "Close modal"
+msgstr "Fermer la modale"
+
+#: main/admin/admin-pages/forms/settings.php:476
+msgid "Move field group to trash?"
+msgstr "Déplacer le groupe de champs vers la corbeille ?"
+
+#: main/admin/admin-pages/forms/settings.php:436
+msgid "Step %1$s/%2$s"
+msgstr "Étape %1$s/%2$s"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:104
+msgid "View Submissions List"
+msgstr "Voir la liste des envois"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:102
+msgid "View Submissions"
+msgstr "Voir les envois"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:100
+msgid "Submit Form"
+msgstr "Envoyer le formulaire"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:95
+msgid "Logged in users will always be able to view and edit their own submissions if they as long as they can submit forms."
+msgstr "Les internautes connectés seront toujours en mesure de voir et de modifier leurs propres envois tant qu’ils pourront envoyer des formulaires."
+
+#: main/admin/admin-pages/forms/sections/permissions.php:93
+msgid "Permissions given..."
+msgstr "Droits donnés…"
+
+#: main/admin/admin-pages/submissions/crud.php:301
+msgid "Submission not found. Did you erase it?"
+msgstr "Envoi non trouvé. L’avez-vous effacé ?"
+
+#: main/frontend/forms/classes/form-submit.php:558
+msgid "Post Added. No Field found to update."
+msgstr "Publication ajoutée. Aucun champ trouvé à mettre à jour."
+
+#: main/frontend/fields/general/class-datetime-input.php:24
+msgid "Date Time"
+msgstr "Date et heure"
+
+#: main/admin/admin-pages/forms/post-types.php:136
+msgid "Template draft updated."
+msgstr "Brouillon du modèle mis à jour."
+
+#: main/admin/admin-pages/forms/post-types.php:134
+msgid "Template submitted."
+msgstr "Modèle envoyé."
+
+#: main/admin/admin-pages/forms/post-types.php:133
+msgid "Template saved."
+msgstr "Modèle enregistré."
+
+#: main/admin/admin-pages/forms/post-types.php:132
+msgid "Template published."
+msgstr "Modèle publié."
+
+#: main/admin/admin-pages/forms/post-types.php:127
+#: main/admin/admin-pages/forms/post-types.php:130
+msgid "Template updated."
+msgstr "Modèle mis à jour."
+
+#: main/elementor/widgets/general/acf-form.php:81
+msgid "ACF Form"
+msgstr "Formulaire ACF"
+
+#. Plugin Name of the plugin
+msgid "Frontend Admin"
+msgstr "Frontend Admin"
+
+#: main/frontend/forms/classes/form-display.php:1476
+msgid "Error: field not found"
+msgstr "Erreur : champ non trouvé"
+
+#: main/frontend/module.php:73
+msgid "Appears in shortcode when field returns no value. If left blank nothing will show."
+msgstr "Apparaît dans le code court lorsque le champ ne renvoie aucune valeur. Si laissé vide, rien ne s’affichera."
+
+#: main/frontend/module.php:72 main/frontend/module.php:107
+msgid "No Value Messge"
+msgstr "Message « Aucune valeur »"
+
+#: main/frontend/fields/general/class-upload-file.php:418
+#: main/frontend/fields/general/class-upload-files.php:972
+msgid "%s value is required."
+msgstr "La valeur %s est nécessaire."
+
+#: main/frontend/forms/classes/form-display.php:1471
+msgid "Save"
+msgstr "Enregistrer"
+
+#: main/frontend/fields/general/class-text-editor.php:301
+msgid "Click to initialize TinyMCE"
+msgstr "Cliquez pour initialiser TinyMCE"
+
+#: main/frontend/fields/general/class-text-editor.php:294
+msgid "Visual"
+msgstr "Visuel"
+
+#: main/frontend/module.php:56
+msgid "Field Shortcode"
+msgstr "Code court du champ"
+
+#: main/admin/admin-pages/forms/settings.php:161
+msgid "Form Shortcode"
+msgstr "Code court du Formulaire"
+
+#: main/frontend/fields/general/class-related-items.php:954
+msgid "Limit Editing to Post Author"
+msgstr "Limiter la modification à l’auteur ou l’autrice de la publication"
+
+#: main/frontend/fields/general/class-related-items.php:484
+msgid "Search..."
+msgstr "Rechercher…"
+
+#: main/admin/admin-pages/forms/settings.php:219
+#: main/admin/admin-pages/forms/settings.php:228
+msgid "Custom Field"
+msgstr "Champ personnalisé"
+
+#. Author URI of the plugin
+msgid "https://www.dynamiapps.com/"
+msgstr "https://www.dynamiapps.com/"
+
+#: main/gutenberg/build/blocks/admin-form/block.json
+msgctxt "block title"
+msgid "Frontend Admin Form"
+msgstr "Formulaire d’administration via l’interface publique"
+
+#: main/gutenberg/build/blocks/submissions/block.json
+msgctxt "block title"
+msgid "Frontend Admin Submissions"
+msgstr "Envois de l’administration de l’interface publique"
+
+#: main/admin/admin-pages/plans/crud.php:202
+msgid "Basic"
+msgstr "Basique"
+
+#: main/frontend/forms/classes/form-display.php:1216
+msgid "Leave empty if the image is purely decorative."
+msgstr "Laissez vide si l’image est purement décorative."
+
+#: main/frontend/forms/classes/form-display.php:1215
+msgid "Alternative Text"
+msgstr "Texte alternatif"
+
+#: main/admin/admin-pages/forms/tools/import.php:140
+msgid "Imported 1 form"
+msgid_plural "Imported %s forms"
+msgstr[0] "1 formulaire importé"
+msgstr[1] "%s formulaires importés"
+
+#: main/admin/admin-pages/forms/tools/import.php:109
+msgid "Import file empty"
+msgstr "Fichier d’importation vide"
+
+#: main/admin/admin-pages/forms/tools/import.php:100
+msgid "Incorrect file type"
+msgstr "Type de fichier incorrect"
+
+#: main/admin/admin-pages/forms/tools/import.php:95
+msgid "Error uploading file. Please try again"
+msgstr "Erreur de téléversement du fichier. Veuillez réessayer"
+
+#: main/admin/admin-pages/forms/tools/import.php:65
+msgid "Import File"
+msgstr "Importer le fichier"
+
+#: main/admin/admin-pages/forms/tools/import.php:48
+msgid "Select the JSON file you would like to import. When you click the import button below, your forms be imported."
+msgstr "Sélectionnez le fichier JSON que vous souhaitez importer. Lorsque vous cliquez sur le bouton d’importation ci-dessous, vos formulaires sont importés."
+
+#: main/admin/admin-pages/forms/tools/import.php:28
+msgid "Import Admin Forms"
+msgstr "Importer des formulaires d’administration"
+
+#: main/admin/admin-pages/forms/tools/export.php:328
+msgid "Export File"
+msgstr "Exporter le fichier"
+
+#: main/admin/admin-pages/forms/tools/export.php:323
+msgid "Select the forms you would like to export and then select your export method. Use the download button to export to a .json file which you can then import to another WP installation."
+msgstr "Sélectionnez les formulaires que vous souhaitez exporter, puis sélectionnez votre méthode d’exportation. Utilisez le bouton « Télécharger » pour exporter vers un fichier .json que vous pourrez ensuite importer vers une autre installation WP."
+
+#: main/admin/admin-pages/forms/tools/export.php:230
+#: main/admin/admin-pages/forms/tools/export.php:258
+msgid "Select Forms"
+msgstr "Sélectionner des formulaires"
+
+#: main/admin/admin-pages/forms/tools/export.php:171
+msgid "Exported 1 field group."
+msgid_plural "Exported %s forms."
+msgstr[0] "1 groupe de champs exporté."
+msgstr[1] "%s formulaires exportés."
+
+#: main/admin/admin-pages/forms/tools/export.php:102
+#: main/admin/admin-pages/forms/tools/export.php:136
+msgid "No forms selected"
+msgstr "Aucun formulaire sélectionné"
+
+#: main/admin/admin-pages/forms/tools/export.php:47
+msgid "Generate PHP"
+msgstr "Générer le PHP"
+
+#: main/admin/admin-pages/forms/tools/export.php:43
+msgid "Export Admin Forms"
+msgstr "Exporter les formulaires d’administration"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:70
+msgid "New Post Submitted: [post:title]"
+msgstr "Nouvelle publication envoyée : [post:title]"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:68
+msgid "By default, the submission title will be the first string value in the form. Dynamically set this to something more descriptive."
+msgstr "Par défaut, le titre de l’envoi sera la première valeur de chaine dans le formulaire. Définissez dynamiquement ceci pour quelque chose de plus descriptif."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:66
+msgid "Submission Title"
+msgstr "Titre de l’envoi"
+
+#: main/frontend/fields/general/class-delete-object.php:51
+msgid "Invalid Delete Button"
+msgstr "Bouton de suppression invalide"
+
+#: main/frontend/fields/user/class-delete-user.php:36
+msgid "Your profile has been deleted"
+msgstr "Votre profil a été supprimé"
+
+#: main/frontend/fields/term/class-delete-term.php:35
+msgid "Your term has been deleted"
+msgstr "Votre terme a été supprimé"
+
+#: main/frontend/fields/general/class-recaptcha.php:451
+msgid "Something is wrong with the recaptcha."
+msgstr "Il y a un problème avec le reCAPTCHA."
+
+#: main/frontend/fields/general/class-custom-terms.php:36
+msgid "Type your values and click enter"
+msgstr "Saisissez vos valeurs et cliquez sur « Entrée »"
+
+#: main/frontend/fields/general/class-custom-terms.php:26
+msgid "Custom Choices"
+msgstr "Choix personnalisés"
+
+#: main/admin/admin-pages/main/legacy.php:20
+msgid "Show Elementor widgets with legacy settings"
+msgstr "Afficher les widgets Elementor avec les réglages existants"
+
+#: main/admin/admin-pages/main/apis.php:91
+msgid "V3"
+msgstr "V3"
+
+#: main/admin/admin-pages/main/apis.php:54
+msgid "V2"
+msgstr "V2"
+
+#: main/frontend/fields/general/class-recaptcha.php:394
+msgid "Something went wrong. Recaptcha failed"
+msgstr "Un problème est survenu. Échec de reCAPTCHA"
+
+#: main/frontend/fields/general/class-recaptcha.php:347
+msgid "Please fill the captcha"
+msgstr "Veuillez remplir le CAPTCHA"
+
+#: main/frontend/fields/general/class-fields-select.php:123
+msgid "Select one or more fields from the field groups to exclude"
+msgstr "Sélectionnez un ou plusieurs champs parmi les groupes de champs à exclure"
+
+#: main/frontend/fields/general/class-fields-select.php:122
+msgid "Exlude Fields from Field Groups"
+msgstr "Exclure des champs des groupes de champs"
+
+#: main/elementor/widgets/products/new_product.php:45
+msgid "Add Product Form"
+msgstr "Formulaire d’ajout de produit"
+
+#: main/elementor/widgets/products/delete_product.php:44
+msgid "Trash/Delete Product"
+msgstr "Mettre à la corbeille/supprimer le produit"
+
+#: main/admin/module.php:203
+msgid "Addon Not Found"
+msgstr "Module non trouvé"
+
+#: main/admin/admin-pages/main/apis.php:79
+#: main/admin/admin-pages/main/apis.php:116
+msgid "Google reCaptcha Secret Key"
+msgstr "Clé secrète Google reCAPTCHA"
+
+#: main/admin/admin-pages/main/apis.php:67
+#: main/admin/admin-pages/main/apis.php:104
+msgid "Google reCaptcha Site Key"
+msgstr "Clé reCAPTCHA du site"
+
+#: main/admin/admin-pages/main/apis.php:43
+msgid "<a href=\"%s\" target=\"_blank\">reCAPTCHA</a> is a free service by Google that protects your website from spam and abuse. It does this while letting your valid users pass through with ease."
+msgstr "<a href=\"%s\" target=\"_blank\">reCAPTCHA</a>est un service gratuit de Google qui protège votre site contre les indésirables et les abus. Il le fait tout en laissant passer sans problème vos internautes valides."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:20
+msgid "Submission Only"
+msgstr "Envoi uniquement"
+
+#: main/elementor/widgets/general/acf-form.php:299
+msgid "Submit Actions"
+msgstr "Actions d’envoi"
+
+#: main/elementor/widgets/general/acf-form.php:341
+msgid "No Page Reload"
+msgstr "Aucun rechargement de la page"
+
+#: main/frontend/fields/general/class-true-false.php:182
+msgid "Text shown when inactive"
+msgstr "Texte affiché lorsqu’inactif"
+
+#: main/frontend/fields/general/class-true-false.php:166
+msgid "Text shown when active"
+msgstr "Texte affiché lorsqu’il est actif"
+
+#: main/frontend/fields/general/class-true-false.php:136
+msgid "Displays text alongside the checkbox"
+msgstr "Affiche le texte à côté de la case à cocher"
+
+#: main/admin/admin-pages/forms/settings.php:475
+msgid "Field group title is required"
+msgstr "Le titre du groupe de champ est nécessaire"
+
+#: main/admin/admin-pages/forms/settings.php:486
+msgid "Show this field group if"
+msgstr "Afficher ce groupe de champs si"
+
+#: main/admin/admin-pages/forms/settings.php:505
+msgid "Gallery (Pro only)"
+msgstr "Galerie (Pro uniquement)"
+
+#: main/admin/admin-pages/forms/settings.php:504
+msgid "Clone (Pro only)"
+msgstr "Cloner (Pro uniquement)"
+
+#: main/admin/admin-pages/forms/settings.php:503
+msgid "Flexible Content (Pro only)"
+msgstr "Contenu Flexible (Pro uniquement)"
+
+#: main/admin/admin-pages/forms/settings.php:502
+msgid "Repeater (Pro only)"
+msgstr "Répéteur (Pro uniquement)"
+
+#: main/elementor/widgets/general/acf-form.php:192
+msgid "Choose Form..."
+msgstr "Choisir un formulaire…"
+
+#: main/elementor/widgets/general/acf-form.php:184
+msgid "Build in Widget"
+msgstr "Widget intégré"
+
+#: main/admin/admin-pages/forms/settings.php:432
+msgid "Open Form"
+msgstr "Ouvrir le formulaire"
+
+#: main/helpers.php:37
+msgid "Delete Term Button"
+msgstr "Bouton de suppression de terme"
+
+#: main/helpers.php:32
+msgid "Delete User Button"
+msgstr "Bouton de suppression de compte"
+
+#. Description of the plugin
+msgid "This awesome plugin allows you to easily display admin forms to the frontend of your site so your clients can easily edit content on their own from the frontend."
+msgstr "Cette extension géniale vous permet d’afficher facilement des formulaires d’administration sur l’interface publique de votre site afin que vos clients puissent facilement modifier eux-mêmes le contenu à partir de cette interface."
+
+#: main/frontend/fields/user/class-user-url.php:26
+msgid "Website"
+msgstr "Site"
+
+#: main/gutenberg/build/blocks/submissions/block.json
+msgctxt "block description"
+msgid "Display frontend submissions so that site admins can update content from the frontend."
+msgstr "Affichez les envois depuis l’interface publique afin que les administrateurs et administratrices du site puissent mettre à jour le contenu depuis l’interface publique."
+
+#: main/frontend/module.php:125
+msgid "Mailchimp"
+msgstr "MailChimp"
+
+#: main/elementor/classes/content_tab.php:33
+msgid "no"
+msgstr "non"
+
+#: main/elementor/classes/content_tab.php:32
+msgid "yes"
+msgstr "oui"
+
+#: main/frontend/fields/post/class-post-to-edit.php:460
+msgid "New Post Text"
+msgstr "Texte de la nouvelle publication"
+
+#: main/frontend/fields/post/class-post-to-edit.php:450
+msgid "Add New Post?"
+msgstr "Ajouter une nouvelle publication ?"
+
+#: main/frontend/fields/general/class-related-items.php:609
+#: main/frontend/fields/post/class-post-to-edit.php:434
+msgid "All taxonomies"
+msgstr "Toutes les taxonomies"
+
+#: main/frontend/fields/general/class-related-items.php:601
+#: main/frontend/fields/post/class-post-to-edit.php:426
+msgid "Filter by Taxonomy"
+msgstr "Filtrer par taxonomie"
+
+#: main/frontend/fields/general/class-related-items.php:594
+#: main/frontend/fields/post/class-post-to-edit.php:418
+msgid "All post types"
+msgstr "Tous les types de publication"
+
+#: main/frontend/fields/general/class-related-items.php:586
+#: main/frontend/fields/post/class-post-to-edit.php:410
+msgid "Filter by Post Type"
+msgstr "Filtrer par type de publication"
+
+#: main/frontend/fields/post/class-post-to-edit.php:396
+msgid "Only show posts by the following users"
+msgstr "Afficher uniquement les publications des comptes suivants"
+
+#: main/frontend/fields/post/class-post-to-edit.php:395
+msgid "Filter by User"
+msgstr "Filtrer par compte"
+
+#: main/admin/admin-pages/main/dashboard.php:97
+msgid "Frontend Dashboard Slug"
+msgstr "Slug du tableau de bord de l’interface publique"
+
+#: main/elementor/widgets/general/acf-form.php:220
+#: main/frontend/forms/classes/form-display.php:1499
+msgid "Create New Form"
+msgstr "Créer un nouveau formulaire"
+
+#: main/frontend/forms/classes/form-display.php:1357
+#: main/gutenberg/module.php:108
+msgid "No Submissions Found"
+msgstr "Aucun envoi trouvé"
+
+#: main/frontend/forms/classes/form-display.php:982
+msgid "Submission #%d"
+msgstr "Envoi #%d"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:124
+msgid "Limit the amount of submissions loaded each time. Default is 10"
+msgstr "Limiter le nombre d’envois chargés à chaque fois. La valeur par défaut est 10"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:122
+msgid "Number of Submissions Per Load"
+msgstr "Nombre d’envois par chargement"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:115
+msgid "Limit the amount of shown in total."
+msgstr "Limiter le nombre affiché en total."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:113
+msgid "Total Submissions"
+msgstr "Total des envois"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:108
+msgid "There are no submissions for this form."
+msgstr "Il n’y a aucun envoi pour ce formulaire."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:105
+msgid "Show a message if no submissions have been received yet. Leave blank for no message."
+msgstr "Afficher un message si aucun envoi n’a encore été reçu. Laissez vide pour aucun message."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:103
+msgid "No Submissions Message"
+msgstr "Aucun message d’envoi"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:96
+msgid "Use this shortcode to show a list of this form's submissions."
+msgstr "Utilisez ce code court pour afficher une liste des envois de ce formulaire."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:94
+msgid "Submissions Approval Shortcode"
+msgstr "Code court pour l’approbation des envois."
+
+#: main/frontend/forms/classes/form-submit.php:29
+#: main/frontend/forms/classes/form-submit.php:105
+#: main/frontend/forms/classes/form-submit.php:225
+msgid "Spam Detected"
+msgstr "Indésirable détecté"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:48
+#: main/admin/admin-pages/main/submissions.php:13
+#: main/elementor/classes/content_tab.php:30
+msgid "Save Form Submissions"
+msgstr "Enregistrer les envois de formulaire"
+
+#: main/admin/admin-pages/forms/sections/steps.php:20
+#: main/elementor/classes/content_tab.php:1734
+msgid "Validate Each Step"
+msgstr "Valider chaque étape"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:78
+msgid "Give this rule an identifier"
+msgstr "Donner un identifiant à cette règle"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:70
+msgid "Remove Rule"
+msgstr "Retirer la règle"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:69
+msgid "Add Rule"
+msgstr "Ajouter une règle"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:63
+msgid "The form will show if any of these conditions are met."
+msgstr "Le formulaire affichera si l’une de ces conditions est remplie."
+
+#: main/admin/admin-pages/forms/sections/permissions.php:61
+msgid "Conditions"
+msgstr "Conditions"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:8
+#: main/admin/admin-pages/forms/sections/permissions.php:86
+msgid "Administrators"
+msgstr "Administrateurs/administratrices"
+
+#: main/frontend/fields/general/class-upload-file.php:640
+msgid "No File Text"
+msgstr "Texte pour « Aucun fichier »"
+
+#: main/elementor/classes/modal.php:118
+msgid "Open Modal"
+msgstr "Ouvrir la modale"
+
+#: main/admin/admin-pages/forms/sections/steps.php:126
+msgid "Use [current_step] to display the current step and [total_steps] to show the total amount of steps"
+msgstr "Utilisez [current_step] pour afficher l’étape actuelle et [total_steps] pour afficher le nombre total d’étapes"
+
+#: main/admin/admin-pages/forms/sections/steps.php:124
+msgid "Counter Text"
+msgstr "Texte du compteur"
+
+#: main/frontend/fields/general/class-related-terms.php:805
+msgid "Add Term Button"
+msgstr "Bouton « Ajouter un terme »"
+
+#: main/frontend/fields/general/class-related-terms.php:796
+msgid "Allow terms to be created and edited whilst editing"
+msgstr "Autoriser la création et la modification de termes pendant la modification"
+
+#: main/frontend/fields/general/class-related-terms.php:795
+msgid "Add and Edit Terms"
+msgstr "Ajouter et modifier des termes"
+
+#: main/frontend/fields/general/class-delete-object.php:293
+msgid "Form Default"
+msgstr "Valeur par défaut du formulaire"
+
+#: main/frontend/fields/general/class-related-items.php:1277
+#: main/helpers.php:540
+msgid "All fields from %s"
+msgstr "Tous les champs depuis %s"
+
+#: main/frontend/fields/general/class-upload-image.php:381
+#: main/frontend/fields/general/class-upload-image.php:418
+msgid "Image size"
+msgstr "Taille de l’image"
+
+#: main/frontend/fields/general/class-recaptcha.php:28
+msgid "Security"
+msgstr "Sécurité"
+
+#: main/admin/admin-pages/forms/sections/steps.php:142
+msgid "Step Number In Tabs"
+msgstr "Numéro de l’étape dans les onglets"
+
+#: main/admin/admin-pages/forms/sections/steps.php:102
+msgid "Tabs Align"
+msgstr "Alignement des onglets"
+
+#: main/admin/admin-pages/forms/sections/steps.php:79
+msgid "Display Counter On..."
+msgstr "Afficher le compteur sur…"
+
+#: main/admin/admin-pages/forms/sections/steps.php:56
+msgid "Display Tabs On..."
+msgstr "Afficher les onglets sur…"
+
+#: main/frontend/fields/user/class-role.php:169
+msgid "Show all"
+msgstr "Tout afficher"
+
+#: main/frontend/fields/user/class-role.php:166
+msgid "Select the roles the user can choose from"
+msgstr "Sélectionnez les rôles parmi lesquels l’internaute peut choisir"
+
+#: main/frontend/fields/user/class-role.php:154
+msgid "Appears when creating a new user"
+msgstr "Apparaît à la création d’un nouvel compte"
+
+#: main/frontend/fields/user/class-role.php:153
+msgid "Default Role"
+msgstr "Rôle par défaut"
+
+#: main/frontend/fields/user/class-role.php:86
+#: main/frontend/fields/user/class-role.php:89
+msgid "Invalid role option selected."
+msgstr "Option de rôle non valide sélectionnée."
+
+#: main/frontend/module.php:213 assets/js/copy-shortcode-min.js:1
+#: assets/js/copy-shortcode.js:13 assets/js/copy-shortcode.js:16
+msgid "Code Copied"
+msgstr "Code copié"
+
+#: main/frontend/fields/general/class-delete-object.php:234
+msgid "Reassign Posts to..."
+msgstr "Réaffecter les publications à…"
+
+#: main/frontend/fields/general/class-delete-object.php:146
+msgid "Are you sure you want to delete this "
+msgstr "Confirmez-vous vouloir supprimer ceci "
+
+#: main/admin/module.php:264
+msgid "Passwords Match"
+msgstr "Correspondance des mots de passe"
+
+#: main/admin/admin-pages/main/local_avatar.php:105
+msgid "Please create an image type field within a form or a field group in order to proceed."
+msgstr "Veuillez créer un champ de type image dans un formulaire ou un groupe de champs pour pouvoir poursuivre."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:98
+#: main/admin/admin-pages/forms/settings.php:167
+#: main/admin/admin-pages/forms/settings.php:279 main/frontend/module.php:62
+#: main/frontend/module.php:97 main/frontend/module.php:212
+#: assets/js/copy-shortcode-min.js:1 assets/js/copy-shortcode.js:13
+#: assets/js/copy-shortcode.js:16
+msgid "Copy Code"
+msgstr "Copier le code"
+
+#: main/frontend/fields/post/class-post-author.php:356
+msgid "All user roles"
+msgstr "Tous les rôles de compte"
+
+#: main/frontend/fields/post/class-post-author.php:348
+msgid "Filter by role"
+msgstr "Filtrer par rôle"
+
+#: main/frontend/fields/post/class-post-author.php:91
+msgid "Invalid request."
+msgstr "Requête invalide."
+
+#: main/frontend/fields/post/class-post-author.php:86
+msgid "Error loading field."
+msgstr "Erreur au chargement du champ."
+
+#: main/frontend/fields/general/class-delete-object.php:123
+msgid "No object found to delete"
+msgstr "Aucun objet trouvé à supprimer"
+
+#: main/frontend/fields/general/class-delete-object.php:36
+msgid "Delete Button Key Not Found"
+msgstr "Touche de suppression non trouvée"
+
+#: main/frontend/fields/general/class-delete-object.php:23
+#: main/frontend/fields/general/class-delete-object.php:32
+#: main/frontend/forms/classes/form-submit.php:166
+#: main/frontend/forms/classes/form-submit.php:176
+msgid "No Form Data"
+msgstr "Aucune donnée de formulaire"
+
+#: main/frontend/fields/general/class-delete-object.php:241
+msgid "Delete Posts"
+msgstr "Supprimer les publications"
+
+#: main/frontend/fields/user/class-delete-user.php:31
+msgid "Are you sure you want to delete this user?"
+msgstr "Confirmez-vous vouloir supprimer ce compte ?"
+
+#: main/frontend/fields/term/class-delete-term.php:31
+msgid "Are you sure you want to delete this term?"
+msgstr "Confirmez-vous vouloir supprimer ce terme ?"
+
+#: main/frontend/fields/general/class-delete-object.php:270
+msgid "Delete Message"
+msgstr "Supprimer le message"
+
+#: main/frontend/fields/general/class-delete-object.php:251
+msgid "Skip Trash"
+msgstr "Passer la corbeille"
+
+#: main/frontend/fields/general/class-delete-object.php:216
+msgid "Confirmation Text"
+msgstr "Texte de confirmation"
+
+#: main/frontend/fields/post/class-delete-post.php:31
+msgid "Are you sure you want to delete this post?"
+msgstr "Confirmez-vous vouloir supprimer cette publication ?"
+
+#: main/frontend/fields/post/class-delete-post.php:26
+msgid "Delete Post"
+msgstr "Supprimer la publication"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:49
+msgid "Whether to use the WordPress media library for file fields or just a basic upload button"
+msgstr "Utilisation de la médiathèque WordPress pour les champs fichiers ou simplement d’un bouton de téléversement basique."
+
+#: main/frontend/fields/general/class-upload-file.php:304
+msgid "Invalid Key"
+msgstr "Clé invalide"
+
+#: main/frontend/fields/general/class-upload-file.php:295
+msgid "Missing file name"
+msgstr "Nom de fichier manquant"
+
+#: main/frontend/fields/general/class-upload-file.php:290
+#: main/frontend/forms/classes/form-submit.php:16
+msgid "Invalid Nonce"
+msgstr "Nonce invalide"
+
+#: main/admin/admin-pages/forms/settings.php:542 main/helpers.php:21
+msgid "Frontend Form"
+msgstr "Formulaire depuis l’interface publique"
+
+#: main/frontend/fields/general/class-delete-object.php:19
+#: main/frontend/forms/classes/form-display.php:1362
+#: main/frontend/forms/classes/form-submit.php:161
+msgid "Nonce Error"
+msgstr "Erreur de nonce"
+
+#: main/plugin.php:198
+msgid "Try %s <b>Pro</b> free for 7 days!"
+msgstr "Essayez %s <b>Pro</b> gratuit pendant 7 jours !"
+
+#: main/plugin.php:238
+msgid "Hey, I noticed you've received over %1$d submissions on %2$s already - that's awesome! I am so glad you are enjoying my plugin! Please take a minute to help our business grow by leaving a review."
+msgstr "Hé, j’ai remarqué que vous avez déjà reçu plus de %1$d envois sur %2$s - c’est génial ! Je suis très heureux que vous appréciez mon extension ! Veuillez prendre une minute pour aider notre entreprise à se développer en laissant un avis."
+
+#: main/plugin.php:244
+msgid "Nope, maybe later"
+msgstr "Non, peut-être ultérieurement"
+
+#: main/plugin.php:243
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: main/plugin.php:242
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: main/plugin.php:201
+msgid "Dismiss notice"
+msgstr "Ignorer la notification"
+
+#: main/plugin.php:198
+msgid "Free trial!"
+msgstr "Essai gratuit !"
+
+#: main/frontend/fields/user/class-user-password.php:226
+msgid "Cancel Button"
+msgstr "Bouton « Annuler »"
+
+#: main/frontend/fields/user/class-user-password.php:201
+msgid "Force User to edit the password when editing their account."
+msgstr "Forcer l’internaute à modifier le mot de passe lors de la modification de son compte."
+
+#: main/frontend/fields/general/class-related-items.php:1015
+#: main/frontend/fields/general/class-related-terms.php:851
+msgid "Select an existing field group or form or the current field group or form"
+msgstr "Sélectionnez un groupe de champs ou un formulaire existant ou, le groupe de champs ou le formulaire actuel."
+
+#: main/frontend/fields/general/class-related-items.php:1013
+#: main/frontend/fields/general/class-related-terms.php:849
+msgid "Forms/Field Groups"
+msgstr "Formulaires/groupes de champs"
+
+#: main/frontend/fields/general/class-related-items.php:1003
+#: main/frontend/fields/general/class-related-items.php:1062
+#: main/frontend/fields/general/class-related-items.php:1170
+#: main/frontend/fields/general/class-related-terms.php:839
+msgid "Current Form/Field Group"
+msgstr "Formulaire/groupe de champs actuel"
+
+#: main/frontend/fields/post/class-post-status.php:138
+msgid "Stylised UI"
+msgstr "Interface utilisateur stylisée"
+
+#: main/frontend/fields/post/class-post-status.php:114
+msgid "Any post status"
+msgstr "Tout état de publication"
+
+#: main/frontend/fields/post/class-post-status.php:100
+msgid "All statuses will show"
+msgstr "Tous les états s’afficheront"
+
+#: main/frontend/fields/post/class-post-status.php:92
+msgid "Statuses to choose from"
+msgstr "États à choisir depuis"
+
+#: main/frontend/module.php:41
+msgid "Lets you show the editable field or display the value only. You may also hide the field, which is useful if you need to pass hidden data"
+msgstr "Vous permet d’afficher le champ modifiable ou d’afficher uniquement la valeur. Vous pouvez également masquer le champ, ce qui est utile si vous devez transmettre des données masquées"
+
+#: main/frontend/module.php:40
+msgid "Display Mode"
+msgstr "Mode d’affichage"
+
+#: main/frontend/forms/classes/form-submit.php:461
+msgid "Please click <a href=\"%s\">here</a> to verify your email. Thank you."
+msgstr "Veuillez cliquer <a href=\"%s\">ici</a> pour vérifier votre e-mail. Merci."
+
+#: main/frontend/forms/classes/form-submit.php:457
+msgid "Please verify your email."
+msgstr "Veuillez vérifier votre e-mail."
+
+#: main/frontend/forms/classes/form-display.php:1035
+msgid "Email Verified Successfully"
+msgstr "E-mail bien vérifié"
+
+#: main/frontend/forms/actions/user.php:133
+#: main/frontend/forms/actions/user.php:167
+#: main/frontend/forms/actions/user.php:278
+#: main/frontend/forms/actions/user.php:285
+msgid "Specific User"
+msgstr "Compte spécifique"
+
+#: main/frontend/forms/actions/post.php:472
+#: main/frontend/forms/actions/term.php:123
+#: main/frontend/forms/actions/term.php:157
+#: main/frontend/forms/actions/term.php:301
+msgid "Specific Term"
+msgstr "Terme spécifique"
+
+#: main/frontend/forms/actions/comment.php:77
+#: main/frontend/forms/actions/comment.php:87
+#: main/frontend/forms/actions/post.php:204
+#: main/frontend/forms/actions/post.php:238
+#: main/frontend/forms/actions/post.php:410
+#: main/frontend/forms/actions/post.php:416
+msgid "Specific Post"
+msgstr "Publication spécifique"
+
+#: main/helpers.php:536
+msgid "Unknown field group"
+msgstr "Groupe de champs inconnu"
+
+#: main/helpers.php:504 main/gutenberg/build/frontend-block-editor/index.js:23
+msgid "(no title)"
+msgstr "(aucun titre)"
+
+#: main/helpers.php:500
+msgid "Unknown field"
+msgstr "Champs inconnu"
+
+#: main/frontend/fields/general/class-fields-select.php:106
+msgid "Select one or more fields or field groups"
+msgstr "Sélectionnez un ou plusieurs champs ou groupes de champs"
+
+#: main/frontend/fields/general/class-fields-select.php:105
+msgid "Fields or Field Groups"
+msgstr "Champs ou groupes de champs"
+
+#: main/admin/module.php:151 main/admin/module.php:190
+msgid "Nonce error"
+msgstr "Erreur de nonce"
+
+#: main/admin/admin-pages/submissions/crud.php:103
+msgid "Email Verified"
+msgstr "E-mail vérifié"
+
+#: main/admin/admin-pages/submissions/crud.php:101
+msgid "Pending Email Verification"
+msgstr "Vérification de l’e-mail en attente"
+
+#: main/admin/admin-pages/submissions/crud.php:99
+msgid "Pending Approval"
+msgstr "En attente d’approbation"
+
+#: main/admin/admin-pages/submissions/crud.php:343
+msgid "Submission has been approved. Data has been saved."
+msgstr "L’envoi a été approuvé. Les données ont été enregistrées."
+
+#: main/admin/admin-pages/submissions/crud.php:339
+msgid "Data has been updated."
+msgstr "Les données ont été mises à jour."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:83
+#: main/elementor/classes/content_tab.php:50
+msgid "Email is Verified"
+msgstr "L’e-mail est vérifié"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:78
+msgid "Data will not be saved until these requirements are met."
+msgstr "Les données ne seront pas enregistrées tant que ces prérequis ne seront pas remplis."
+
+#: main/admin/admin-pages/forms/sections/submissions.php:76
+msgid "Submission Requirements"
+msgstr "Prérequis d’envoi"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:174
+msgid "Unverified"
+msgstr "Non vérifié"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:173
+msgid "Verified"
+msgstr "Vérifié"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:168
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: main/elementor/widgets/posts/duplicate_post.php:52 main/helpers.php:25
+msgid "Duplicate Post Form"
+msgstr "Dupliquer le formulaire de publication"
+
+#: main/admin/admin-pages/forms/post-types.php:72
+msgid "Form draft updated."
+msgstr "Brouillon de formulaire mis à jour."
+
+#: main/admin/admin-pages/forms/post-types.php:70
+msgid "Form submitted."
+msgstr "Formulaire envoyé."
+
+#: main/admin/admin-pages/forms/post-types.php:69
+msgid "Form saved."
+msgstr "Formulaire enregistré."
+
+#: main/admin/admin-pages/forms/post-types.php:68
+msgid "Form published."
+msgstr "Formulaire publié."
+
+#: main/admin/admin-pages/forms/post-types.php:65
+#: main/admin/admin-pages/forms/post-types.php:129
+msgid "Custom field deleted."
+msgstr "Champ personnalisé supprimé."
+
+#: main/admin/admin-pages/forms/post-types.php:64
+#: main/admin/admin-pages/forms/post-types.php:128
+msgid "Custom field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: main/admin/admin-pages/forms/post-types.php:63
+#: main/admin/admin-pages/forms/post-types.php:66
+msgid "Form updated."
+msgstr "Formulaire mis à jour."
+
+#: main/admin/admin-pages/forms/settings.php:562
+msgid "Add Field"
+msgstr "Ajouter un champ"
+
+#: main/elementor/classes/content_tab.php:2016
+msgid "Subscribers"
+msgstr "Abonnés/abonnées"
+
+#: main/elementor/classes/content_tab.php:2010
+msgid "Add Limiting Rules"
+msgstr "Ajouter des règles de limitation"
+
+#: main/elementor/classes/content_tab.php:1982
+msgid "Enter a commma seperated list of user ids"
+msgstr "Saisissez une liste d’ID de compte séparés par des virgules"
+
+#: main/elementor/classes/content_tab.php:1979
+#: main/elementor/classes/content_tab.php:1992
+msgid "Limit By User"
+msgstr "Limiter par compte"
+
+#: main/elementor/classes/content_tab.php:1964
+msgid "Limit By Role"
+msgstr "Limiter par rôle"
+
+#: main/elementor/classes/content_tab.php:1951
+msgid "Limit For Everyone"
+msgstr "Limiter pour tout le monde"
+
+#: main/elementor/classes/content_tab.php:1942
+msgid "Allowed Submissions"
+msgstr "Envois autorisés"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:75
+#: main/elementor/classes/content_tab.php:1932
+#: main/elementor/classes/content_tab.php:1934
+msgid "Rule Name"
+msgstr "Nom de la règle"
+
+#: main/elementor/classes/content_tab.php:1916
+msgid "Reached Limit Content"
+msgstr "Limite de contenu atteinte"
+
+#: main/elementor/classes/content_tab.php:1907
+msgid "you have already submitted this form the maximum amount of times that you are allowed"
+msgstr "Vous avez déjà envoyé ce formulaire le nombre maximum de fois qu’il  vous est autorisé"
+
+#: main/elementor/classes/content_tab.php:1906
+msgid "You have already submitted this form the maximum amount of times that you are allowed"
+msgstr "Vous avez déjà envoyé ce formulaire le nombre maximum de fois qu’il  vous est autorisé"
+
+#: main/elementor/classes/content_tab.php:1902
+msgid "Reached Limit Message"
+msgstr "Limite de message atteinte"
+
+#: main/elementor/classes/content_tab.php:1895
+msgid "Nothing"
+msgstr "Rien"
+
+#: main/elementor/classes/content_tab.php:1893
+msgid "Limit Message"
+msgstr "Message de limite"
+
+#: main/elementor/classes/content_tab.php:1888
+msgid "Limit Reached Message"
+msgstr "Message de limite atteinte"
+
+#: main/admin/admin-pages/forms/sections/steps.php:158
+#: main/elementor/classes/content_tab.php:1871
+msgid "Link to Step in Tabs"
+msgstr "Lien vers l’étape dans les onglets"
+
+#: main/elementor/classes/content_tab.php:1860
+msgid "hide"
+msgstr "masquer"
+
+#: main/elementor/classes/content_tab.php:1859
+msgid "show"
+msgstr "afficher"
+
+#: main/elementor/classes/content_tab.php:1857
+msgid "Step Number in Tabs"
+msgstr "Numéro de l’étape dans les onglets"
+
+#: main/elementor/classes/content_tab.php:1843
+msgid "Counter Suffix"
+msgstr "Suffixe de compteur"
+
+#: main/elementor/classes/content_tab.php:1830
+#: main/elementor/classes/content_tab.php:1831
+msgid "Step "
+msgstr "Étape "
+
+#: main/elementor/classes/content_tab.php:1828
+msgid "Counter Prefix"
+msgstr "Préfixe du compteur"
+
+#: main/elementor/classes/content_tab.php:1806
+msgid "Step Counter Display"
+msgstr "Affichage du compteur d’étape"
+
+#: main/admin/admin-pages/forms/sections/steps.php:113
+#: main/elementor/classes/content_tab.php:1795
+msgid "Side"
+msgstr "Côté"
+
+#: main/admin/admin-pages/forms/sections/steps.php:112
+#: main/elementor/classes/content_tab.php:1794
+msgid "Top"
+msgstr "En haut"
+
+#: main/elementor/classes/content_tab.php:1790
+msgid "Tabs Position"
+msgstr "Position des onglets"
+
+#: main/admin/admin-pages/forms/sections/steps.php:68
+#: main/admin/admin-pages/forms/sections/steps.php:91
+#: main/elementor/classes/content_tab.php:1780
+#: main/elementor/classes/content_tab.php:1818
+msgid "Mobile"
+msgstr "Mobile"
+
+#: main/admin/admin-pages/forms/sections/steps.php:67
+#: main/admin/admin-pages/forms/sections/steps.php:90
+#: main/elementor/classes/content_tab.php:1779
+#: main/elementor/classes/content_tab.php:1817
+msgid "Tablet"
+msgstr "Tablette"
+
+#: main/admin/admin-pages/forms/sections/steps.php:66
+#: main/admin/admin-pages/forms/sections/steps.php:89
+#: main/elementor/classes/content_tab.php:1778
+#: main/elementor/classes/content_tab.php:1816
+msgid "Desktop"
+msgstr "Ordinateur de bureau"
+
+#: main/elementor/classes/content_tab.php:1769
+msgid "Step Tabs Display"
+msgstr "Affichage des onglets d’étape"
+
+#: main/elementor/classes/content_tab.php:1761
+msgid "Responsive visibility will take effect only on preview or live page, and not while editing in Elementor."
+msgstr "La visibilité responsive prendra effet uniquement sur l’aperçu ou la page en ligne, et non lors de la modification avec Elementor."
+
+#: main/admin/admin-pages/forms/sections/steps.php:50
+#: main/elementor/classes/content_tab.php:1753
+msgid "Counter"
+msgstr "Compteur"
+
+#: main/admin/admin-pages/forms/sections/steps.php:36
+#: main/elementor/classes/content_tab.php:1744
+msgid "Steps Display"
+msgstr "Affichage des étapes"
+
+#: main/admin/admin-pages/submissions/crud.php:105
+msgid "Pending Payment"
+msgstr "Paiement en attente"
+
+#: main/frontend/forms/classes/form-display.php:188
+msgid "There has been an error."
+msgstr "Une erreur est survenue."
+
+#: main/admin/admin-pages/submissions/list.php:155
+msgid "Status"
+msgstr "État"
+
+#: main/admin/admin-pages/submissions/list.php:153
+msgid "Submitted By"
+msgstr "Envoyé par"
+
+#: main/admin/admin-pages/submissions/crud.php:107
+msgid "Approved"
+msgstr "Approuvé"
+
+#: main/admin/admin-pages/submissions/crud.php:97
+msgid "In Progress"
+msgstr "En cours"
+
+#: main/admin/admin-pages/submissions/list.php:79
+msgid "Anonymous"
+msgstr "Anonyme"
+
+#: main/admin/admin-pages/submissions/list.php:70
+msgid "Review"
+msgstr "Avis"
+
+#: main/admin/admin-pages/submissions/list.php:38
+msgid "No submissions avaliable."
+msgstr "Aucun envoi disponible."
+
+#: main/admin/admin-pages/submissions/list.php:24
+msgid "Submission"
+msgstr "Envoi"
+
+#: main/admin/admin-pages/payments/crud.php:212
+#: main/admin/admin-pages/submissions/crud.php:342
+#: main/admin/admin-pages/submissions/list.php:117
+msgid "Approve"
+msgstr "Approuver"
+
+#: main/admin/admin-pages/main/local_avatar.php:83
+#: main/admin/admin-pages/main/local_avatar.php:104
+msgid "Avatar Field"
+msgstr "Champ d’avatar"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:82
+#: main/elementor/classes/content_tab.php:49
+msgid "Admin Approval"
+msgstr "Approbation par l’admin"
+
+#: main/elementor/classes/content_tab.php:44
+msgid "Save Data After..."
+msgstr "Enregistrer les données après…"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:34
+#: main/elementor/widgets/general/acf-form.php:264
+msgid "Allow Unfiltered HTML"
+msgstr "Autoriser le HTML non filtré"
+
+#: main/admin/admin-pages/forms/sections/actions.php:7
+msgid "Reload Current Page"
+msgstr "Recharger la page actuelle"
+
+#: main/admin/admin-pages/forms/settings.php:347
+#: main/admin/admin-pages/submissions/crud.php:286
+#: main/admin/admin-pages/submissions/crud.php:402
+#: main/admin/admin-pages/submissions/list.php:25
+#: main/elementor/widgets/general/acf-form.php:507
+msgid "Submissions"
+msgstr "Envois"
+
+#: main/elementor/classes/content_tab.php:340
+msgid "Enter the a comma-seperated list of user ids. Dynamic Options: "
+msgstr "Saisissez une liste d’ID de compte, séparés par des virgules. Options dynamiques : "
+
+#: main/elementor/classes/content_tab.php:336
+msgid "Filter by Users"
+msgstr "Filtrer par compte"
+
+#: main/frontend/fields/general/class-upload-files.php:26
+msgid "Multiple Uploads"
+msgstr "Téléversements multiples"
+
+#: main/frontend/fields/general/class-upload-file.php:26
+msgid "Upload File"
+msgstr "Téléverser un fichier"
+
+#: main/admin/admin-pages/forms/tools/import.php:54
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:2781
+#: assets/js/frontend-admin.js:4020
+msgid "Select File"
+msgstr "Sélectionner un fichier"
+
+#: main/frontend/fields/general/class-upload-file.php:569
+msgid "File name"
+msgstr "Nom de fichier"
+
+#: main/frontend/fields/general/class-upload-file.php:39
+#: main/frontend/fields/general/class-upload-file.php:520
+#: main/frontend/fields/general/class-upload-file.php:652
+msgid "Add File"
+msgstr "Ajouter un fichier"
+
+#: main/admin/admin-pages/forms/tools/import.php:87
+#: main/frontend/fields/general/class-upload-file.php:40
+#: main/frontend/fields/general/class-upload-file.php:591
+#: main/frontend/fields/general/class-upload-file.php:643
+#: main/frontend/fields/general/class-upload-image.php:218
+msgid "No file selected"
+msgstr "Aucun fichier sélectionné"
+
+#: main/frontend/fields/general/class-recaptcha.php:360
+msgid "An error has occured."
+msgstr "Une erreur est survenue."
+
+#: main/frontend/fields/general/class-recaptcha.php:353
+msgid "reCaptcha has expired."
+msgstr "reCaptcha a expiré."
+
+#: main/frontend/fields/general/class-recaptcha.php:179
+#: main/frontend/fields/general/class-recaptcha.php:219
+msgid "Enter the secret key. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">reCaptcha API Admin</a>"
+msgstr "Saisissez la clé secrète. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">Admin de l’API reCaptcha</a>"
+
+#: main/frontend/fields/general/class-recaptcha.php:178
+#: main/frontend/fields/general/class-recaptcha.php:218
+msgid "Secret key"
+msgstr "Clé secrète"
+
+#: main/frontend/fields/general/class-recaptcha.php:159
+#: main/frontend/fields/general/class-recaptcha.php:199
+msgid "Enter the site key. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">reCaptcha API Admin</a>"
+msgstr "Saisissez la clé du site. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">Admin de l’API reCaptcha</a>"
+
+#: main/frontend/fields/general/class-recaptcha.php:158
+#: main/frontend/fields/general/class-recaptcha.php:198
+msgid "Site key"
+msgstr "Clé du site"
+
+#: main/frontend/fields/general/class-recaptcha.php:138
+msgid "Hide the reCaptcha logo"
+msgstr "Masquer le logo du reCaptcha"
+
+#: main/frontend/fields/general/class-recaptcha.php:137
+msgid "Hide logo"
+msgstr "Masquer le logo"
+
+#: main/frontend/fields/general/class-recaptcha.php:114
+msgid "Select the reCaptcha size"
+msgstr "Sélectionner la taille du reCaptcha"
+
+#: main/frontend/fields/general/class-recaptcha.php:90
+msgid "Select the reCaptcha theme"
+msgstr "Sélectionner le thème reCaptcha"
+
+#: main/frontend/fields/general/class-recaptcha.php:89
+msgid "Theme"
+msgstr "Thème"
+
+#: main/frontend/fields/general/class-recaptcha.php:80
+msgid "reCaptcha V3"
+msgstr "reCaptcha V3"
+
+#: main/frontend/fields/general/class-recaptcha.php:79
+msgid "reCaptcha V2"
+msgstr "reCaptcha V2"
+
+#: main/frontend/fields/general/class-recaptcha.php:75
+msgid "Select the reCaptcha version"
+msgstr "Sélectionner la version de reCaptcha"
+
+#: main/frontend/fields/general/class-recaptcha.php:27
+msgid "Google reCaptcha"
+msgstr "Google reCAPTCHA"
+
+#: main/frontend/fields/general/class-text.php:184
+#: main/frontend/fields/general/class-textarea.php:234
+msgid "Value must not exceed %d characters"
+msgstr "La valeur ne doit pas dépasser %d caractères"
+
+#: main/frontend/fields/general/class-email.php:142
+#: main/frontend/fields/general/class-number.php:194
+#: main/frontend/fields/general/class-password.php:103
+#: main/frontend/fields/general/class-range.php:224
+#: main/frontend/fields/general/class-text.php:148
+msgid "Appears after the input"
+msgstr "Apparaît après l’entrée"
+
+#: main/frontend/fields/general/class-email.php:132
+#: main/frontend/fields/general/class-number.php:184
+#: main/frontend/fields/general/class-password.php:93
+#: main/frontend/fields/general/class-range.php:214
+#: main/frontend/fields/general/class-text.php:137
+msgid "Appears before the input"
+msgstr "Apparaît avant l’entrée"
+
+#: main/frontend/fields/general/class-list-items.php:133
+msgid "Remove Item Label"
+msgstr "Retirer le libellé de l’élément"
+
+#: main/elementor/widgets/general/acf-form.php:428
+msgid "Error Message"
+msgstr "Message d’erreur"
+
+#: main/elementor/widgets/general/acf-form.php:62
+msgid "Your site has been updated successfully."
+msgstr "Votre site a bien été mise à jour."
+
+#: main/elementor/classes/content_tab.php:1521
+msgid "Select Field Type"
+msgstr "Sélectionner le type de champ"
+
+#: main/admin/admin-pages/forms/settings.php:143
+#: main/elementor/classes/content_tab.php:1268
+msgid "Select Type"
+msgstr "Sélectionner un type"
+
+#: main/admin/admin-pages/forms/settings.php:222
+msgid "User ID"
+msgstr "ID du compte"
+
+#: main/frontend/forms/actions/user.php:131
+msgid "Form Post Author"
+msgstr "Auteur/autrice de la publication du formulaire"
+
+#: main/frontend/forms/actions/term.php:107
+msgid "Term to Edit"
+msgstr "Terme à modifier"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:24
+#: main/elementor/widgets/general/acf-form.php:481
+msgid "Site Options"
+msgstr "Options du site"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:33
+#: main/elementor/widgets/general/acf-form.php:465
+msgid "Save Custom Fields to..."
+msgstr "Enregistrer les champs personnalisés dans…"
+
+#: main/admin/admin-pages/forms/sections/actions.php:92
+#: main/elementor/widgets/general/acf-form.php:431
+msgid "There has been an error. Form has been submitted successfully, but some actions might not have been completed."
+msgstr "Une erreur est survenue. Le formulaire a bien été envoyé, mais certaines actions ne se sont peut-être pas terminées."
+
+#: main/admin/admin-pages/forms/sections/actions.php:90
+#: main/elementor/widgets/general/acf-form.php:430
+msgid "There shouldn't be any problems with the form submission, but if there are, this is what your users will see. If you are expeiencing issues, try and changing your cache settings and reach out to "
+msgstr "Il ne devrait pas y avoir de problème avec l’envoi du formulaire, mais si c’est le cas, c’est ce que vos utilisateurs et utilisatrices verront. Si vous rencontrez des problèmes, essayez de modifier les réglages de votre cache et contactez  "
+
+#: main/admin/admin-pages/forms/settings.php:206
+msgid "All Fields"
+msgstr "Tous les champs"
+
+#: main/admin/admin-pages/forms/settings.php:709
+msgid "Dynamic Value"
+msgstr "Valeur dynamique"
+
+#: main/frontend/fields/term/class-term-description.php:26 main/helpers.php:421
+msgid "Term Description"
+msgstr "Description du terme"
+
+#: main/frontend/fields/term/class-term-slug.php:26 main/helpers.php:420
+msgid "Term Slug"
+msgstr "Slug du terme"
+
+#: main/frontend/fields/user/class-user-bio.php:26
+msgid "Bio"
+msgstr "Bio"
+
+#: main/frontend/fields/general/class-list-items.php:117
+msgid "Row"
+msgstr "Rangée"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: main/frontend/fields/general/class-list-items.php:116
+#: main/gutenberg/build/frontend-block-editor/index.js:21
+#: main/gutenberg/build/frontend-block-editor/index.js:23
+msgid "Block"
+msgstr "Bloc"
+
+#: main/frontend/fields/general/class-list-items.php:115
+msgid "Table"
+msgstr "Tableau"
+
+#: main/frontend/fields/general/class-list-items.php:93
+msgid "Sub Fields"
+msgstr "Sous-champs"
+
+#: main/frontend/fields/general/class-list-items.php:389
+msgid "Click to toggle"
+msgstr "Cliquez pour permuter"
+
+#: main/frontend/fields/general/class-list-items.php:374
+msgid "Drag to reorder"
+msgstr "Faites glisser pour réorganiser"
+
+#: main/frontend/fields/general/class-list-items.php:69
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:3563
+msgid "Maximum rows reached ({max} rows)"
+msgstr "Maximum de lignes atteint ({max} lignes)"
+
+#: main/frontend/fields/general/class-list-items.php:68
+#: main/frontend/fields/general/class-list-items.php:529
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:3726
+msgid "Minimum rows reached ({min} rows)"
+msgstr "Nombre minimal de lignes atteinte ({min} lignes)"
+
+#: main/frontend/fields/general/class-list-items.php:34
+#: main/frontend/fields/general/class-list-items.php:232
+msgid "Remove Item"
+msgstr "Retirer l’élément"
+
+#: main/frontend/fields/general/class-list-items.php:33
+#: main/frontend/fields/general/class-list-items.php:229
+msgid "Duplicate Item"
+msgstr "Dupliquer l’élément"
+
+#: main/frontend/fields/general/class-list-items.php:32
+#: main/frontend/fields/general/class-list-items.php:226
+msgid "Add Item"
+msgstr "Ajouter un élément"
+
+#: main/frontend/fields/general/class-list-items.php:26
+msgid "List Items"
+msgstr "Lister les éléments"
+
+#: main/frontend/fields/post/class-post-type.php:126
+msgid "Default Post Type"
+msgstr "Type de publication par défaut"
+
+#: main/frontend/fields/post/class-allow-comments.php:26 main/helpers.php:392
+msgid "Allow Comments"
+msgstr "Autoriser les commentaires"
+
+#: main/elementor/classes/content_tab.php:807
+#: main/frontend/fields/user/class-user-password.php:200
+msgid "Force Edit"
+msgstr "Forcer la modification"
+
+#: main/frontend/module.php:22
+msgid "Lets you hide the field on the backend to avoid duplicate fields."
+msgstr "Vous permet de masquer le champ dans l’interface d’administration pour éviter les champs dupliqués."
+
+#: main/frontend/module.php:21
+msgid "Show On Frontend Only"
+msgstr "Afficher uniquement sur l’interface publique"
+
+#: main/frontend/fields/user/class-user-password-confirm.php:26
+msgid "Password Confirm"
+msgstr "Confirmer le mot de passe"
+
+#: main/frontend/fields/user/class-display-name.php:36
+msgid "Start typing or choose one of the options"
+msgstr "Commencez à saisir ou choisissez une des options"
+
+#: main/frontend/fields/general/class-textarea.php:170
+#: main/frontend/fields/post/class-post-content.php:307
+msgid "No Formatting"
+msgstr "Aucun formatage"
+
+#: main/frontend/fields/general/class-textarea.php:169
+#: main/frontend/fields/post/class-post-content.php:306
+msgid "Automatically add &lt;br&gt;"
+msgstr "Ajouter automatiquement <br />"
+
+#: main/frontend/fields/general/class-textarea.php:168
+#: main/frontend/fields/post/class-post-content.php:305
+msgid "Automatically add paragraphs"
+msgstr "Ajouter automatiquement des paragraphes"
+
+#: main/frontend/fields/general/class-textarea.php:164
+#: main/frontend/fields/post/class-post-content.php:301
+msgid "Controls how new lines are rendered"
+msgstr "Contrôle la façon dont les nouvelles lignes sont rendus"
+
+#: main/frontend/fields/general/class-textarea.php:163
+#: main/frontend/fields/post/class-post-content.php:300
+msgid "New Lines"
+msgstr "Nouvelles lignes"
+
+#: main/frontend/fields/general/class-textarea.php:143
+#: main/frontend/fields/post/class-post-content.php:280
+msgid "Sets the textarea height"
+msgstr "Définit la hauteur de la zone de texte"
+
+#: main/frontend/fields/general/class-textarea.php:142
+#: main/frontend/fields/post/class-post-content.php:279
+msgid "Rows"
+msgstr "Rangées"
+
+#: main/frontend/fields/general/class-text.php:159
+#: main/frontend/fields/general/class-textarea.php:122
+#: main/frontend/fields/post/class-post-content.php:260
+msgid "Leave blank for no limit"
+msgstr "Laisser vide pour aucune limite"
+
+#: main/frontend/fields/general/class-text.php:158
+#: main/frontend/fields/general/class-textarea.php:121
+#: main/frontend/fields/post/class-post-content.php:259
+msgid "Character Limit"
+msgstr "Limite de caractères"
+
+#: main/frontend/fields/general/class-email.php:122
+#: main/frontend/fields/general/class-number.php:164
+#: main/frontend/fields/general/class-password.php:83
+#: main/frontend/fields/general/class-text.php:126
+#: main/frontend/fields/general/class-textarea.php:154
+#: main/frontend/fields/general/class-url.php:121
+#: main/frontend/fields/post/class-post-content.php:240
+msgid "Appears within the input"
+msgstr "Apparaît dans l’entrée"
+
+#: main/frontend/fields/general/class-email.php:121
+#: main/frontend/fields/general/class-number.php:163
+#: main/frontend/fields/general/class-password.php:82
+#: main/frontend/fields/general/class-text.php:125
+#: main/frontend/fields/general/class-textarea.php:153
+#: main/frontend/fields/general/class-url.php:120
+#: main/frontend/fields/post/class-post-content.php:239
+msgid "Placeholder Text"
+msgstr "Texte indicatif"
+
+#: main/frontend/fields/general/class-text-editor.php:346
+#: main/frontend/fields/post/class-post-content.php:214
+msgid "TinyMCE will not be initialized until field is clicked"
+msgstr "TinyMCE ne sera pas initialisé jusqu’à ce que le champ soit cliqué"
+
+#: main/frontend/fields/general/class-text-editor.php:345
+#: main/frontend/fields/post/class-post-content.php:213
+msgid "Delay initialization?"
+msgstr "Retarder l’initialisation ?"
+
+#: main/frontend/fields/general/class-text-editor.php:418
+#: main/frontend/fields/post/class-post-content.php:192
+msgid "Show Media Upload Buttons?"
+msgstr "Afficher les boutons de téléversement de médias ?"
+
+#: main/frontend/fields/general/class-text-editor.php:402
+#: main/frontend/fields/post/class-post-content.php:166
+msgid "Toolbar"
+msgstr "Barre d’outils"
+
+#: main/frontend/fields/general/class-text-editor.php:394
+#: main/frontend/fields/post/class-post-content.php:148
+msgid "Text Only"
+msgstr "Texte uniquement"
+
+#: main/frontend/fields/general/class-text-editor.php:393
+#: main/frontend/fields/post/class-post-content.php:147
+msgid "Visual Only"
+msgstr "Visuel uniquement"
+
+#: main/frontend/fields/general/class-text-editor.php:392
+#: main/frontend/fields/post/class-post-content.php:146
+msgid "Visual & Text"
+msgstr "Visuel & texte"
+
+#: main/admin/admin-pages/forms/sections/steps.php:49
+#: main/elementor/classes/content_tab.php:1752
+#: main/frontend/fields/general/class-text-editor.php:387
+#: main/frontend/fields/post/class-post-content.php:141
+msgid "Tabs"
+msgstr "Onglets"
+
+#: main/frontend/fields/general/class-color.php:52
+#: main/frontend/fields/general/class-date.php:104
+#: main/frontend/fields/general/class-datetime-input.php:104
+#: main/frontend/fields/general/class-email.php:102
+#: main/frontend/fields/general/class-number.php:114
+#: main/frontend/fields/general/class-radio.php:71
+#: main/frontend/fields/general/class-range.php:150
+#: main/frontend/fields/general/class-text-editor.php:336
+#: main/frontend/fields/general/class-text.php:114
+#: main/frontend/fields/general/class-textarea.php:102
+#: main/frontend/fields/general/class-time.php:104
+#: main/frontend/fields/general/class-upload-image.php:300
+#: main/frontend/fields/general/class-url.php:101
+#: main/frontend/fields/post/class-post-content.php:131
+#: main/frontend/fields/post/class-post-type.php:127
+msgid "Appears when creating a new post"
+msgstr "Apparaît lors de la création d’une nouvelle publication"
+
+#: main/frontend/fields/post/class-post-content.php:103
+msgid "Wysiwyg"
+msgstr "WYSIWYG"
+
+#: main/frontend/fields/post/class-post-excerpt.php:26
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: main/frontend/forms/classes/permissions.php:109
+msgid "Select By Capabilities"
+msgstr "Sélectionner par permissions"
+
+#: main/frontend/fields/post/class-post-type.php:139
+msgid "Select the types to choose from"
+msgstr "Sélectionnez les types depuis lesquels choisir"
+
+#: main/frontend/fields/post/class-post-type.php:138
+msgid "Post Types"
+msgstr "Types de publication"
+
+#: main/elementor/classes/content_tab.php:362
+msgid "New Product Text"
+msgstr "Texte du nouveau produit"
+
+#: main/elementor/classes/content_tab.php:349
+msgid "Add/Edit Product"
+msgstr "Ajouter/modifier un produit"
+
+#: main/gutenberg/build/blocks/admin-form/block.json
+msgctxt "block description"
+msgid "Display a frontend admin form so that your users can update content from the frontend."
+msgstr "Affichez un formulaire d’administration de l’interface publique afin que vos utilisateurs et utilisatrices puissent mettre à jour le contenu depuis l’interface publique."
+
+#: main/admin/admin-pages/forms/post-types.php:33
+msgid "Filter forms list"
+msgstr "Filtrer la liste des formulaires"
+
+#: main/admin/admin-pages/forms/post-types.php:32
+msgid "Forms list navigation"
+msgstr "Navigation dans la liste des formulaires"
+
+#: main/admin/admin-pages/forms/post-types.php:29
+msgid "Forms list"
+msgstr "Liste des formulaires"
+
+#: main/admin/admin-pages/forms/post-types.php:28
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: main/admin/admin-pages/forms/post-types.php:27
+msgid "Not found"
+msgstr "Non trouvé"
+
+#: main/admin/admin-pages/forms/post-types.php:26
+msgid "Search Form"
+msgstr "Rechercher un formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:25
+msgid "View Form"
+msgstr "Voir le formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:24
+msgid "Update Form"
+msgstr "Mettre à jour le formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:22
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:20
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:18
+msgid "Form Archives"
+msgstr "Archives de formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:16
+#: main/admin/admin-pages/forms/post-types.php:19
+msgid "Forms"
+msgstr "Formulaires"
+
+#: main/admin/admin-pages/forms/post-types.php:15
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr "Formulaire"
+
+#: main/admin/admin-pages/forms/post-types.php:14
+msgctxt "Post Type General Name"
+msgid "Forms"
+msgstr "Formulaires"
+
+#: main/admin/admin-pages/forms/settings.php:487
+msgid "Null"
+msgstr "Vide"
+
+#: main/admin/admin-pages/forms/settings.php:485
+msgid "or"
+msgstr "ou"
+
+#: main/admin/admin-pages/forms/settings.php:484
+msgid "copy"
+msgstr "copier"
+
+#: main/admin/admin-pages/forms/settings.php:483
+msgid "(this field)"
+msgstr "(ce champ)"
+
+#: main/admin/admin-pages/forms/settings.php:482
+msgid "(no label)"
+msgstr "(aucun libellé)"
+
+#: main/admin/admin-pages/forms/settings.php:481
+msgid "Checked"
+msgstr "Coché"
+
+#: main/admin/admin-pages/forms/settings.php:478
+msgid "Move Custom Field"
+msgstr "Déplacer le champ personnalisé"
+
+#: main/admin/admin-pages/forms/settings.php:477
+msgid "No toggle fields available"
+msgstr "Aucun champ de permutation disponible"
+
+#: main/admin/admin-pages/forms/settings.php:474
+msgid "This field cannot be moved until its changes have been saved"
+msgstr "Ce champ ne peut pas être déplacé tant que ses modifications n’ont pas été enregistrées"
+
+#: main/admin/admin-pages/forms/settings.php:473
+msgid "The string \"field_\" may not be used at the start of a field name"
+msgstr "La chaine « field_ » ne peut être utilisée au début d’un nom de champ"
+
+#: main/admin/admin-pages/forms/settings.php:250
+msgid "Shortcode"
+msgstr "Code court"
+
+#: main/frontend/forms/classes/permissions.php:191
+msgid "<p align=\"left\">Click <a target=\"_blank\" href=\""
+msgstr "<p align=\"left\">Cliquez <a target=\"_blank\" href=\""
+
+#: main/elementor/classes/content_tab.php:138
+msgid "Nest this column within the previous column. By default, the previous column will be closed before this one begins."
+msgstr "Imbrique cette colonne dans la colonne précédente. Par défaut, la colonne précédente sera fermée avant que celle-ci ne commence."
+
+#: main/elementor/classes/content_tab.php:123
+msgid "End the previous column here. By default, the previous column will be stay opened until the next column or until the end of the form."
+msgstr "Clore la colonne précédente ici. Par défaut, la colonne précédente restera ouverte jusqu’à la colonne suivante ou jusqu’à la fin du formulaire."
+
+#: main/elementor/widgets/products/delete_product.php:151
+msgid "Whether or not to completely delete the products right away."
+msgstr "Suppression complète ou non des produits dans l’immédiat."
+
+#: main/frontend/fields/post/class-post-title.php:110
+msgid "Post Slug"
+msgstr "Slug de la publication"
+
+#: main/frontend/fields/user/class-user-email.php:175
+msgid "Set as Username"
+msgstr "Définir comme identifiant"
+
+#: main/frontend/fields/user/class-user-email.php:108
+#: main/frontend/fields/user/class-username.php:97
+msgid "The username %s is taken. Please try a different username"
+msgstr "L’identifiant %s est pris. Veuillez essayer un autre identifiant"
+
+#: main/elementor/module.php:93
+msgid "FRONTEND SITE MANAGEMENT"
+msgstr "Gestion de l’interface publique du site"
+
+#: main/elementor/widgets/users/delete_user.php:133
+msgid "If left empty, all of the user's posts will be deleted."
+msgstr "Si laissé vide, toutes les publications de l’utilisateur/utilisatrice seront supprimées."
+
+#: main/elementor/widgets/users/delete_user.php:123
+msgid "Enter user ID. If left empty, all of the user's posts will be deleted."
+msgstr "Saisissez l’ID du compte. Si laissé vide, toutes les publications du compte seront supprimés."
+
+#: main/elementor/widgets/users/delete_user.php:122
+#: main/elementor/widgets/users/delete_user.php:132
+msgid "Reassign Posts To..."
+msgstr "Réassigner les publications à…"
+
+#: main/elementor/classes/content_tab.php:1287
+msgid "Allow Backorders"
+msgstr "Autoriser les commandes de produit en rupture de stock"
+
+#: main/elementor/classes/content_tab.php:1286
+msgid "Stock Quantity"
+msgstr "Quantité en stock"
+
+#: main/elementor/classes/content_tab.php:1285
+msgid "Manage Stock"
+msgstr "Gérer le stock"
+
+#: main/elementor/classes/content_tab.php:1284
+msgid "Stock Status"
+msgstr "État du stock"
+
+#: main/elementor/classes/content_tab.php:1282
+msgid "Product Inventory"
+msgstr "Inventaire des produits"
+
+#: main/elementor/classes/content_tab.php:1276
+msgid "Sale Price"
+msgstr "Prix de vente"
+
+#: main/admin/admin-pages/plans/crud.php:278
+#: main/elementor/classes/content_tab.php:1275
+msgid "Price"
+msgstr "Prix"
+
+#: main/elementor/classes/content_tab.php:474
+#: main/elementor/classes/content_tab.php:1437
+#: main/frontend/fields/general/class-number.php:143
+#: main/frontend/fields/general/class-range.php:180
+msgid "Maximum Value"
+msgstr "Valeur maximum"
+
+#: main/elementor/classes/content_tab.php:461
+#: main/elementor/classes/content_tab.php:1424
+#: main/frontend/fields/general/class-number.php:133
+#: main/frontend/fields/general/class-range.php:169
+msgid "Minimum Value"
+msgstr "Valeur minimum"
+
+#: main/elementor/classes/content_tab.php:433
+#: main/elementor/classes/content_tab.php:1410
+#: main/frontend/fields/general/class-email.php:141
+#: main/frontend/fields/general/class-number.php:193
+#: main/frontend/fields/general/class-password.php:102
+#: main/frontend/fields/general/class-range.php:223
+#: main/frontend/fields/general/class-text.php:147
+msgid "Append"
+msgstr "Suffixe"
+
+#: main/elementor/classes/content_tab.php:419
+#: main/elementor/classes/content_tab.php:1396
+#: main/frontend/fields/general/class-email.php:131
+#: main/frontend/fields/general/class-number.php:183
+#: main/frontend/fields/general/class-password.php:92
+#: main/frontend/fields/general/class-range.php:213
+#: main/frontend/fields/general/class-text.php:136
+msgid "Prepend"
+msgstr "Préfixe"
+
+#: main/elementor/classes/content_tab.php:388
+msgid "No Attributes Message"
+msgstr "Message « Aucun attribut »"
+
+#: main/elementor/classes/content_tab.php:373
+msgid "No Value Message"
+msgstr "Message « Aucune valeur »"
+
+#: main/elementor/classes/content_tab.php:325
+msgid "Save Changes Text"
+msgstr "Texte « Enregistrer les modifications »"
+
+#: main/frontend/forms/actions/options.php:26
+msgid "Options"
+msgstr "Options"
+
+#: main/frontend/fields/general/class-related-terms.php:29
+msgid "Related Terms"
+msgstr "Termes similaires"
+
+#: main/elementor/widgets/terms/delete_term.php:135
+#: main/elementor/widgets/terms/delete_term.php:136
+msgid "You have deleted this term"
+msgstr "Vous avez supprimé ce terme"
+
+#: main/elementor/widgets/terms/delete_term.php:114
+#: main/elementor/widgets/terms/delete_term.php:115
+msgid "The term will be deleted. Are you sure?"
+msgstr "Ce terme sera supprimé. Confirmez-vous ?"
+
+#: main/elementor/widgets/terms/delete_term.php:44
+#: main/frontend/fields/term/class-delete-term.php:26
+msgid "Delete Term"
+msgstr "Supprimer le terme"
+
+#: main/elementor/widgets/users/delete_user.php:169
+#: main/elementor/widgets/users/delete_user.php:170
+msgid "You have deleted this user"
+msgstr "Vous avez supprimé ce compte"
+
+#: main/elementor/widgets/users/delete_user.php:148
+#: main/elementor/widgets/users/delete_user.php:149
+msgid "The user will be deleted. Are you sure?"
+msgstr "Ce compte sera supprimé. Confirmez-vous ?"
+
+#: main/elementor/widgets/users/delete_user.php:44
+#: main/frontend/fields/user/class-delete-user.php:26
+msgid "Delete User"
+msgstr "Supprimer le compte"
+
+#: main/elementor/widgets/posts/delete_post.php:44
+msgid "Trash/Delete Post"
+msgstr "Mettre à la corbeille/supprimer la publication"
+
+#: main/elementor/classes/content_tab.php:1243
+#: main/elementor/classes/content_tab.php:1250
+msgid "Add Value"
+msgstr "Ajouter une valeur"
+
+#: main/elementor/classes/content_tab.php:1241
+msgid "Value(s)"
+msgstr "Valeur(s)"
+
+#: main/elementor/classes/content_tab.php:1236
+msgid "Used for variations"
+msgstr "Utilisé pour les variations"
+
+#: main/elementor/classes/content_tab.php:1235
+msgid "Visible on the product page"
+msgstr "Visible sur la page produit"
+
+#: main/elementor/classes/content_tab.php:1233
+msgid "Locations"
+msgstr "Emplacements"
+
+#: main/elementor/classes/content_tab.php:1172
+msgid "Products Page"
+msgstr "Page produits"
+
+#: main/elementor/classes/content_tab.php:404
+#: main/elementor/classes/content_tab.php:1149
+#: main/elementor/classes/content_tab.php:1323
+msgid "Instructions"
+msgstr "Instructions"
+
+#: main/elementor/classes/content_tab.php:1070
+#: main/elementor/classes/content_tab.php:1083
+msgid "Manage Fields"
+msgstr "Gérer les champs"
+
+#: main/elementor/classes/content_tab.php:783
+msgid "WARNING: allowing your users to change term slugs might affect your existing urls and their SEO rating"
+msgstr "Avertissement : autoriser vos utilisateurs/utilisatrices à modifier les slugs des termes peut affecter vos URL existantes et leur classement SEO"
+
+#: main/elementor/classes/content_tab.php:779
+#: main/frontend/fields/term/class-term-name.php:145
+msgid "Change Slug"
+msgstr "Modifier le slug"
+
+#: main/elementor/classes/content_tab.php:681
+#: main/elementor/classes/content_tab.php:694
+msgid "Default Terms"
+msgstr "Termes par défaut"
+
+#: main/frontend/forms/actions/term.php:315
+msgid "Enter the URL query parameter containing the id of the term you want to edit"
+msgstr "Saisissez le paramètre de requête d’URL contenant l’ID du terme que vous souhaitez modifier"
+
+#: main/frontend/forms/actions/term.php:312
+#: main/frontend/forms/actions/term.php:313
+msgid "term_id"
+msgstr "term_id"
+
+#: main/frontend/fields/general/class-related-terms.php:1041
+msgid "Add"
+msgstr "Ajouter"
+
+#: main/frontend/fields/general/class-related-terms.php:1028
+#: main/frontend/fields/post/class-post-to-edit.php:279
+msgid "Parent"
+msgstr "Parent"
+
+#: main/admin/admin-pages/forms/custom-fields.php:21
+#: main/elementor/classes/content_tab.php:1226
+#: main/elementor/classes/content_tab.php:1228
+#: main/frontend/fields/general/class-related-terms.php:1006
+msgid "Name"
+msgstr "Nom"
+
+#: main/frontend/fields/general/class-related-terms.php:990
+msgid "%s added"
+msgstr "%s ajouté"
+
+#: main/frontend/fields/general/class-related-terms.php:954
+msgid "%s already exists"
+msgstr "%s existe déjà"
+
+#: main/frontend/fields/general/class-related-terms.php:902
+msgid "Term ID"
+msgstr "ID du terme"
+
+#: main/frontend/fields/general/class-related-terms.php:901
+msgid "Term Object"
+msgstr "Objet du terme"
+
+#: main/frontend/fields/general/class-related-terms.php:885
+msgid "Load value from posts terms"
+msgstr "Charger la valeur depuis les termes des publications"
+
+#: main/frontend/fields/general/class-related-terms.php:884
+msgid "Load Terms"
+msgstr "Charger les termes"
+
+#: main/frontend/fields/general/class-related-terms.php:873
+msgid "Connect selected terms to the post"
+msgstr "Associer les termes sélectionnés à la publication"
+
+#: main/frontend/fields/general/class-related-terms.php:872
+msgid "Save Terms"
+msgstr "Enregistrer les termes"
+
+#: main/frontend/fields/general/class-radio.php:106
+#: main/frontend/fields/general/class-related-terms.php:779
+#: main/frontend/fields/general/class-select.php:425
+msgid "Allow Null?"
+msgstr "Autoriser une valeur vide ?"
+
+#: main/frontend/fields/general/class-related-terms.php:752
+#: main/frontend/fields/general/class-select.php:26
+#: main/frontend/fields/post/class-post-status.php:129
+#: main/frontend/fields/post/class-post-type.php:159
+#: main/frontend/fields/user/class-role.php:145
+msgctxt "noun"
+msgid "Select"
+msgstr "Sélection"
+
+#: main/frontend/fields/general/class-checkbox.php:26
+#: main/frontend/fields/general/class-related-terms.php:747
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: main/frontend/fields/general/class-related-terms.php:746
+msgid "Multiple Values"
+msgstr "Valeurs multiples"
+
+#: main/frontend/fields/general/class-related-terms.php:741
+#: main/frontend/fields/post/class-post-status.php:123
+#: main/frontend/fields/post/class-post-type.php:153
+#: main/frontend/fields/user/class-role.php:139
+msgid "Select the appearance of this field"
+msgstr "Sélectionner l’apparence de ce champ"
+
+#: main/frontend/fields/general/class-related-terms.php:728
+msgid "Select the taxonomy to be displayed"
+msgstr "Sélectionner la taxonomie à afficher"
+
+#: main/frontend/fields/general/class-related-terms.php:686
+msgctxt "No terms"
+msgid "No %s"
+msgstr "Aucun %s"
+
+#: main/elementor/widgets/general/acf-form.php:574
+msgid "Edit Draft Label"
+msgstr "Libellé de « Modifier le brouillon »"
+
+#: main/elementor/widgets/general/acf-form.php:545
+#: main/elementor/widgets/general/acf-form.php:546
+#: main/frontend/fields/general/class-save-progress.php:127
+msgid "Progress Saved"
+msgstr "Progression enregistrée"
+
+#: main/elementor/widgets/general/acf-form.php:543
+msgid "Progress Saved Message"
+msgstr "Message progression de l’enregistrement"
+
+#: main/elementor/widgets/general/acf-form.php:529
+#: main/elementor/widgets/general/acf-form.php:530
+#: main/frontend/fields/general/class-save-progress.php:26
+#: main/frontend/fields/general/class-save-progress.php:29
+msgid "Save Progress"
+msgstr "Enregistrer la progression"
+
+#: main/elementor/widgets/general/acf-form.php:527
+msgid "Save Progress Text"
+msgstr "Texte « Enregistrer la progression »"
+
+#: main/elementor/widgets/general/acf-form.php:517
+msgid "Save Progress Option"
+msgstr "Option « Enregistrer la progression »"
+
+#: main/frontend/fields/general/class-delete-object.php:261
+msgid "Show Delete Message"
+msgstr "Afficher le message de suppression"
+
+#: main/frontend/forms/actions/user.php:130
+#: main/frontend/forms/actions/user.php:283
+msgid "Current Author"
+msgstr "Auteur actuel/autrice actuelle"
+
+#: main/elementor/widgets/posts/duplicate_post.php:34
+msgid "Your post has been duplicated successfully."
+msgstr "Votre publication a bien été dupliquée."
+
+#: main/frontend/forms/actions/post.php:153
+#: main/frontend/forms/actions/post.php:392
+msgid "Duplicate Post"
+msgstr "Dupliquer la publication"
+
+#: main/elementor/widgets/products/delete_product.php:134
+#: main/elementor/widgets/products/delete_product.php:135
+msgid "You have deleted this product"
+msgstr "Vous avez supprimé ce produit"
+
+#: main/elementor/widgets/posts/delete_post.php:134
+#: main/elementor/widgets/posts/delete_post.php:135
+msgid "You have deleted this post"
+msgstr "Vous avez supprimé cette publication"
+
+#: main/elementor/classes/content_tab.php:136
+msgid "Nested"
+msgstr "Imbriqué"
+
+#: main/frontend/fields/term/class-term-name.php:94
+#: main/frontend/fields/term/class-term-slug.php:75
+msgid "The term "
+msgstr "Le terme "
+
+#: main/helpers.php:372
+msgid "Column"
+msgstr "Colonne"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:47
+#: main/frontend/forms/classes/permissions.php:177
+msgid "WP Media Library"
+msgstr "Médiathèque WP"
+
+#: main/helpers.php:35
+msgid "New Term Form"
+msgstr "Nouveau formulaire de terme"
+
+#: main/frontend/forms/actions/term.php:72
+#: main/frontend/forms/actions/term.php:267
+msgid "New Term"
+msgstr "Nouveau terme"
+
+#: main/elementor/classes/content_tab.php:315
+#: main/elementor/classes/content_tab.php:1198
+#: main/frontend/fields/general/class-delete-object.php:207
+#: main/frontend/fields/general/class-save-progress.php:104
+#: main/frontend/fields/general/class-submit-button.php:99
+#: main/frontend/fields/general/class-upload-file.php:649
+#: main/frontend/fields/general/class-upload-files.php:306
+#: main/frontend/fields/general/class-upload-image.php:98
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: main/frontend/fields/general/class-upload-image.php:327
+msgid "Shown when entering data"
+msgstr "Affiché lors de la saisie des données"
+
+#: main/frontend/fields/general/class-upload-image.php:326
+msgid "Preview Size"
+msgstr "Taille de prévisualisation"
+
+#: main/frontend/fields/general/class-upload-image.php:317
+msgid "Image ID"
+msgstr "ID de l’image"
+
+#: main/frontend/fields/general/class-upload-image.php:316
+msgid "Image URL"
+msgstr "URL de l’image"
+
+#: main/frontend/fields/general/class-upload-image.php:315
+msgid "Image Array"
+msgstr "Tableau de l’image"
+
+#: main/frontend/fields/general/class-checkbox.php:305
+#: main/frontend/fields/general/class-link.php:98
+#: main/frontend/fields/general/class-radio.php:81
+#: main/frontend/fields/general/class-upload-image.php:310
+msgid "Specify the returned value on front end"
+msgstr "Spécifiez la valeur retournée sur l’interface publique"
+
+#: main/frontend/fields/general/class-checkbox.php:304
+#: main/frontend/fields/general/class-link.php:97
+#: main/frontend/fields/general/class-radio.php:80
+#: main/frontend/fields/general/class-related-terms.php:896
+#: main/frontend/fields/general/class-upload-image.php:309
+msgid "Return Value"
+msgstr "Valeur de retour"
+
+#: main/frontend/fields/general/class-upload-image.php:40
+#: main/frontend/fields/post/class-featured-image.php:39
+msgid "No Image selected"
+msgstr "Aucune image sélectionnée"
+
+#: main/frontend/fields/general/class-upload-image.php:86
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:2402
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: main/frontend/fields/general/class-upload-files.php:309
+#: main/frontend/fields/general/class-upload-image.php:39
+#: main/frontend/fields/general/class-upload-image.php:101
+#: main/frontend/fields/general/class-upload-image.php:152
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: main/frontend/fields/general/class-upload-image.php:26
+msgid "Upload Image"
+msgstr "Téléverser une image"
+
+#: main/frontend/fields/general/class-related-items.php:775
+#: main/frontend/fields/general/class-upload-files.php:979
+msgid "%1$s requires at least %2$s selection"
+msgid_plural "%1$s requires at least %2$s selections"
+msgstr[0] "%1$s nécessite au moins %2$s sélection"
+msgstr[1] "%1$s nécessite au moins %2$s sélections"
+
+#: main/frontend/fields/general/class-upload-files.php:904
+#: main/frontend/fields/general/class-upload-image.php:429
+msgid "Comma separated list. Leave blank for all types"
+msgstr "Liste séparée par une virgule. Laissez vide pour tous les types"
+
+#: main/frontend/fields/general/class-upload-files.php:903
+#: main/frontend/fields/general/class-upload-image.php:428
+msgid "Allowed file types"
+msgstr "Types de fichiers autorisés"
+
+#: main/frontend/fields/general/class-upload-files.php:866
+#: main/frontend/fields/general/class-upload-image.php:391
+msgid "Maximum"
+msgstr "Maximum"
+
+#: main/frontend/fields/general/class-upload-file.php:573
+#: main/frontend/fields/general/class-upload-files.php:856
+#: main/frontend/fields/general/class-upload-files.php:893
+msgid "File size"
+msgstr "Taille du fichier"
+
+#: main/frontend/fields/general/class-upload-files.php:844
+#: main/frontend/fields/general/class-upload-files.php:881
+#: main/frontend/fields/general/class-upload-image.php:369
+#: main/frontend/fields/general/class-upload-image.php:406
+msgid "Height"
+msgstr "Hauteur"
+
+#: main/frontend/fields/general/class-upload-files.php:830
+#: main/frontend/fields/general/class-upload-files.php:867
+#: main/frontend/fields/general/class-upload-image.php:355
+#: main/frontend/fields/general/class-upload-image.php:392
+msgid "Restrict which images can be uploaded"
+msgstr "Restreindre quelles images peuvent être téléversées"
+
+#: main/frontend/fields/general/class-upload-files.php:829
+#: main/frontend/fields/general/class-upload-image.php:354
+msgid "Minimum"
+msgstr "Minimum"
+
+#: main/frontend/fields/general/class-upload-files.php:820
+#: main/frontend/fields/general/class-upload-image.php:345
+msgid "Uploaded to post"
+msgstr "Téléversée sur la publication"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:172
+#: main/admin/admin-pages/forms/sections/submissions.php:117
+#: main/frontend/fields/general/class-upload-files.php:819
+#: main/frontend/fields/general/class-upload-image.php:89
+#: main/frontend/fields/general/class-upload-image.php:344 main/helpers.php:108
+msgid "All"
+msgstr "Toutes"
+
+#: main/frontend/fields/general/class-upload-files.php:814
+#: main/frontend/fields/general/class-upload-image.php:339
+msgid "Limit the media library choice"
+msgstr "Limiter le choix de la bibliothèque de médias"
+
+#: main/frontend/fields/general/class-upload-files.php:813
+#: main/frontend/fields/general/class-upload-image.php:338
+msgid "Library"
+msgstr "Bibliothèque"
+
+#: main/frontend/fields/general/class-upload-files.php:804
+msgid "Prepend to the beginning"
+msgstr "Insérer au début"
+
+#: main/frontend/fields/general/class-upload-files.php:803
+msgid "Append to the end"
+msgstr "Ajouter à la fin"
+
+#: main/frontend/fields/general/class-upload-files.php:799
+msgid "Specify where new attachments are added"
+msgstr "Spécifiez où les nouveaux fichiers joints sont ajoutés"
+
+#: main/frontend/fields/general/class-upload-files.php:798
+msgid "Insert"
+msgstr "Insérer"
+
+#: main/frontend/fields/general/class-upload-files.php:787
+msgid "Maximum Selection"
+msgstr "Sélection maximale"
+
+#: main/frontend/fields/general/class-upload-files.php:776
+msgid "Minimum Selection"
+msgstr "Sélection minimale"
+
+#: main/frontend/fields/general/class-upload-files.php:677
+msgid "Close"
+msgstr "Fermer"
+
+#: main/frontend/fields/general/class-upload-files.php:727
+msgid "Reverse current order"
+msgstr "Inverser l’ordre actuel"
+
+#: main/frontend/fields/general/class-upload-files.php:726
+msgid "Sort by title"
+msgstr "Trier par titre"
+
+#: main/frontend/fields/general/class-upload-files.php:725
+msgid "Sort by date modified"
+msgstr "Trier par date de modification"
+
+#: main/frontend/fields/general/class-upload-files.php:724
+msgid "Sort by date uploaded"
+msgstr "Trier par date de téléversement"
+
+#: main/frontend/fields/general/class-upload-files.php:723
+msgid "Bulk actions"
+msgstr "Actions groupées"
+
+#: main/admin/admin-pages/payments/list.php:148
+#: main/admin/admin-pages/plans/list.php:142
+#: main/admin/admin-pages/subscriptions/list.php:142
+#: main/elementor/classes/content_tab.php:1273
+#: main/frontend/fields/general/class-upload-files.php:433
+#: main/frontend/forms/classes/form-display.php:1227
+msgid "Description"
+msgstr "Description"
+
+#: main/frontend/fields/general/class-upload-files.php:409
+#: main/frontend/forms/classes/form-display.php:1221
+msgid "Caption"
+msgstr "Légende"
+
+#: main/frontend/fields/general/class-upload-file.php:579
+#: main/frontend/fields/general/class-upload-files.php:384
+#: main/frontend/fields/general/class-upload-files.php:634
+#: main/frontend/fields/general/class-upload-files.php:654
+#: main/frontend/fields/general/class-upload-image.php:213
+msgid "Remove"
+msgstr "Retirer"
+
+#: main/frontend/fields/general/class-upload-files.php:362
+msgid "Length"
+msgstr "Longueur"
+
+#: main/frontend/fields/general/class-upload-files.php:40
+#: main/frontend/fields/general/class-upload-files.php:537
+msgid "Add Images"
+msgstr "Ajouter des images"
+
+#: main/frontend/fields/general/class-upload-image.php:88
+#: main/frontend/forms/classes/form-display.php:1247
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:1805
+#: assets/js/frontend-admin.js:2432
+msgid "Update Image"
+msgstr "Mettre à jour l’image"
+
+#: main/frontend/fields/general/class-upload-image.php:87
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:1804
+#: assets/js/frontend-admin.js:2431
+msgid "Edit Image"
+msgstr "Modifier l’image"
+
+#: main/frontend/fields/general/class-upload-files.php:127
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:1506
+msgid "Add Image to Gallery"
+msgstr "Ajouter une image à la galerie"
+
+#: main/frontend/fields/general/class-upload-files.php:128
+#: assets/js/frontend-admin-min.js:1 assets/js/frontend-admin.js:1495
+msgid "Maximum selection reached"
+msgstr "Sélection maximale atteinte"
+
+#: main/plugin.php:359
+msgid "Video Tutorials"
+msgstr "Tutoriels vidéo"
+
+#: main/frontend/fields/general/class-time.php:24
+msgid "Time"
+msgstr "Heure"
+
+#: main/admin/admin-pages/payments/list.php:153
+#: main/admin/admin-pages/submissions/list.php:156
+#: main/frontend/fields/general/class-date.php:24
+msgid "Date"
+msgstr "Date"
+
+#: main/frontend/forms/actions/user.php:346
+msgid "Log in as new user?"
+msgstr "Se connecter en tant que nouveau compte ?"
+
+#: main/frontend/forms/actions/user.php:333
+msgid "Hide WordPress Admin Area?"
+msgstr "Masquer la zone d’administration de WordPress ?"
+
+#: main/frontend/forms/actions/user.php:321
+msgid "New User Role"
+msgstr "Rôle du nouveau compte"
+
+#: main/frontend/forms/actions/user.php:310
+msgid "Enter user id"
+msgstr "Saisissez un ID de compte"
+
+#: main/frontend/forms/actions/user.php:298
+msgid "Enter the URL query parameter containing the id of the user you want to edit"
+msgstr "Saisissez le paramètre de requête d’URL contenant l’ID du compte que vous souhaitez modifier"
+
+#: main/frontend/forms/actions/user.php:296
+#: main/frontend/forms/actions/user.php:297
+msgid "user_id"
+msgstr "user_id"
+
+#: main/frontend/forms/actions/term.php:326
+msgid "Enter term id"
+msgstr "Saisir l’ID du terme"
+
+#: main/frontend/forms/actions/term.php:295
+msgid "Term To Edit"
+msgstr "Terme à modifier"
+
+#: main/frontend/forms/actions/comment.php:90
+msgid "Commenting must be turned on for that post"
+msgstr "Les commentaires doivent être activés pour cette publication"
+
+#: main/frontend/forms/actions/comment.php:72
+msgid "Post to Comment On"
+msgstr "Publication à commenter"
+
+#: main/elementor/widgets/products/delete_product.php:113
+#: main/elementor/widgets/products/delete_product.php:114
+msgid "The product will be deleted. Are you sure?"
+msgstr "Ce produit sera supprimé. Confirmez-vous ?"
+
+#: main/elementor/classes/content_tab.php:1277
+msgid "SKU"
+msgstr "UGS"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:27
+#: main/elementor/classes/content_tab.php:1271
+#: main/elementor/widgets/general/acf-form.php:483
+#: main/elementor/widgets/products/delete_product.php:190
+msgid "Product"
+msgstr "Produit"
+
+#: main/elementor/widgets/general/acf-form.php:589
+#: main/elementor/widgets/general/acf-form.php:590
+msgid "&mdash; New Post &mdash;"
+msgstr "&mdash; Nouvelle publication &mdash;"
+
+#: main/elementor/widgets/general/acf-form.php:587
+msgid "New Drafts Text"
+msgstr "Texte des « Nouveaux brouillons »"
+
+#: main/elementor/widgets/general/acf-form.php:576
+#: main/elementor/widgets/general/acf-form.php:577
+msgid "Edit a draft"
+msgstr "Modifier un brouillon"
+
+#: main/elementor/widgets/general/acf-form.php:559
+msgid "Show Saved Drafts Selection"
+msgstr "Afficher la sélection des brouillons enregistrés"
+
+#: main/elementor/classes/content_tab.php:684
+#: main/frontend/forms/actions/post.php:486
+msgid "Enter the a comma-seperated list of term ids"
+msgstr "Saisissez une liste d’ID de terme séparés par des virgules"
+
+#: main/elementor/classes/content_tab.php:1248
+#: main/frontend/forms/actions/post.php:483
+#: main/frontend/forms/actions/post.php:494
+msgid "Terms"
+msgstr "Termes"
+
+#: main/frontend/forms/actions/post.php:471
+#: main/frontend/forms/actions/term.php:121
+#: main/frontend/forms/actions/term.php:299
+msgid "Current Term"
+msgstr "Terme actuel"
+
+#: main/frontend/forms/actions/post.php:466
+msgid "New Post Terms"
+msgstr "Nouveaux termes de publication"
+
+#: main/frontend/fields/post/class-post-status.php:11
+#: main/frontend/forms/actions/post.php:514
+msgid "Post Status"
+msgstr "État de la publication"
+
+#: main/admin/admin-pages/forms/post-types.php:17
+#: main/admin/admin-pages/forms/post-types.php:37
+#: main/admin/admin-pages/forms/post-types.php:38
+#: main/admin/admin-pages/forms/settings.php:205
+#: main/admin/admin-pages/submissions/list.php:154
+#: main/elementor/widgets/general/acf-form.php:168
+#: main/elementor/widgets/general/acf-form.php:180
+#: main/elementor/widgets/general/form-container.php:46
+#: main/frontend/fields/general/class-fields-select.php:25
+#: main/frontend/fields/general/class-list-items.php:27
+#: main/frontend/fields/general/class-save-progress.php:27
+#: main/frontend/fields/general/class-submit-button.php:27
+#: main/frontend/module.php:124 main/gutenberg/build/admin-form/index.js:1
+#: main/gutenberg/build/submissions/index.js:1
+msgid "Form"
+msgstr "Formulaire"
+
+#: main/helpers.php:27
+msgid "Post Status Button"
+msgstr "Bouton « État de la publication »"
+
+#: main/elementor/widgets/posts/edit_post.php:65 main/helpers.php:24
+msgid "Edit Post Form"
+msgstr "Formulaire de modification de la publication"
+
+#: main/frontend/forms/actions/user.php:104
+#: main/frontend/forms/actions/user.php:257
+msgid "New User"
+msgstr "Nouveau compte"
+
+#: main/frontend/fields/term/class-term-name.php:26 main/helpers.php:419
+msgid "Term Name"
+msgstr "Nom du terme"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:23
+#: main/admin/admin-pages/forms/settings.php:353
+#: main/elementor/widgets/general/acf-form.php:478
+#: main/elementor/widgets/terms/delete_term.php:181
+#: main/frontend/fields/term/class-delete-term.php:27
+#: main/frontend/fields/term/class-term-description.php:27
+#: main/frontend/fields/term/class-term-name.php:27
+#: main/frontend/fields/term/class-term-slug.php:27
+#: main/frontend/forms/actions/term.php:24
+#: main/frontend/forms/actions/term.php:263
+#: main/frontend/forms/actions/term.php:323 main/helpers.php:34
+#: main/helpers.php:417
+msgid "Term"
+msgstr "Terme"
+
+#: main/helpers.php:409
+msgid "Biography"
+msgstr "Biographie"
+
+#: main/frontend/fields/user/class-nickname.php:26 main/helpers.php:407
+msgid "Nickname"
+msgstr "Pseudonyme"
+
+#: main/admin/admin-pages/forms/settings.php:224
+#: main/frontend/fields/general/class-email.php:26 main/helpers.php:404
+msgid "Email"
+msgstr "E-mail"
+
+#: main/helpers.php:403
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+#: main/frontend/fields/general/class-password.php:26
+#: main/frontend/fields/user/class-user-password.php:26 main/helpers.php:402
+msgid "Password"
+msgstr "Mot de passe"
+
+#: main/admin/admin-pages/forms/settings.php:223
+#: main/frontend/fields/user/class-username.php:26 main/helpers.php:401
+msgid "Username"
+msgstr "Identifiant"
+
+#: main/admin/admin-pages/forms/sections/actions.php:10
+msgid "Post URL"
+msgstr "URL de la publication"
+
+#: main/admin/admin-pages/forms/settings.php:215
+#: main/frontend/fields/general/class-related-items.php:637
+msgid "Post ID"
+msgstr "ID de la publication"
+
+#: main/elementor/widgets/general/acf-form.php:617
+msgid "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Go pro</b></a> to unlock limit submissions.</p>"
+msgstr "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Passez pro</b></a> pour débloquer les limites d’envoi.</p>"
+
+#: main/elementor/widgets/general/acf-form.php:605
+msgid "Limit Submissions"
+msgstr "Limiter les envois"
+
+#: main/frontend/forms/classes/permissions.php:189
+msgid "<h3>Media Privacy</h3>"
+msgstr "<h3>Confidentialité des médias</h3>"
+
+#: main/frontend/forms/classes/permissions.php:167
+msgid "User Manager"
+msgstr "Gestionnaire de comptes"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:226
+#: main/frontend/forms/classes/permissions.php:151
+#: main/frontend/forms/classes/permissions.php:163
+msgid "Dynamic Permissions"
+msgstr "Droits dynamiques"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:126
+#: main/admin/admin-pages/forms/sections/permissions.php:127
+#: main/frontend/forms/classes/permissions.php:56
+#: main/frontend/forms/classes/permissions.php:57
+msgid "You do not have the proper permissions to view this form"
+msgstr "Vous n’avez pas les droits nécessaires pour voir ce formulaire"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:116
+#: main/elementor/classes/content_tab.php:1894
+#: main/frontend/forms/classes/permissions.php:44
+msgid "Custom Content"
+msgstr "Contenu personnalisé"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:114
+#: main/admin/admin-pages/forms/sections/submissions.php:90
+#: main/frontend/forms/classes/permissions.php:42
+msgid "None"
+msgstr "Aucun"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:109
+#: main/frontend/forms/classes/permissions.php:37
+msgid "No Permissions Message"
+msgstr "Message « Aucun droit »"
+
+#: main/elementor/widgets/general/acf-form.php:413
+msgid "Submit Message"
+msgstr "Envoyer un message"
+
+#: main/elementor/widgets/general/acf-form.php:401
+#: main/elementor/widgets/posts/delete_post.php:121
+#: main/elementor/widgets/products/delete_product.php:121
+#: main/elementor/widgets/terms/delete_term.php:122
+#: main/elementor/widgets/users/delete_user.php:156
+#: main/frontend/fields/general/class-save-progress.php:113
+msgid "Show Success Message"
+msgstr "Afficher le message de réussite"
+
+#: main/admin/admin-pages/forms/custom-fields.php:31
+#: main/frontend/fields/general/class-checkbox.php:310
+#: main/frontend/fields/general/class-radio.php:86
+#: main/frontend/fields/general/class-select.php:393
+msgid "Value"
+msgstr "Valeur"
+
+#: main/admin/admin-pages/forms/post-types.php:23
+#: main/elementor/widgets/general/acf-form.php:205
+#: main/elementor/widgets/general/acf-form.php:372
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: main/elementor/widgets/general/acf-form.php:371
+msgid "Clear Form"
+msgstr "Effacer le formulaire"
+
+#: main/elementor/widgets/general/acf-form.php:367
+msgid "After Reload"
+msgstr "Après le rechargement"
+
+#: main/elementor/widgets/general/acf-form.php:355
+msgid "Leave Modal Open After Submit"
+msgstr "Laissez la modale ouverte après l’envoi"
+
+#: main/elementor/widgets/general/acf-form.php:322
+msgid "Post Url"
+msgstr "URL de la publication"
+
+#: main/elementor/widgets/general/acf-form.php:319
+msgid "Stay on Current Page/Post"
+msgstr "Rester sur la page/la publication actuelle"
+
+#: main/elementor/widgets/general/acf-form.php:312
+msgid "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Go pro</b></a> to unlock more actions.</p>"
+msgstr "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Passez à Pro</b></a> pour débloquer plus d’actions.</p>"
+
+#: main/admin/admin-pages/forms/settings.php:348
+#: main/elementor/widgets/general/acf-form.php:283
+#: main/elementor/widgets/users/delete_user.php:114
+msgid "Actions"
+msgstr "Actions"
+
+#: main/elementor/classes/content_tab.php:1715
+#: main/elementor/classes/content_tab.php:1716
+msgid "Next"
+msgstr "Suivant"
+
+#: main/elementor/classes/content_tab.php:1713
+msgid "Next Button"
+msgstr "Bouton « Suivant »"
+
+#: main/elementor/classes/content_tab.php:1699
+#: main/elementor/classes/content_tab.php:1700
+msgid "Previous"
+msgstr "Précédent"
+
+#: main/elementor/classes/content_tab.php:1697
+msgid "Previous Button"
+msgstr "Bouton « Précédent »"
+
+#: main/elementor/classes/content_tab.php:1681
+msgid "Step Tab Text"
+msgstr "Texte de l’onglet de l’étape"
+
+#: main/elementor/widgets/posts/edit_post.php:45
+msgid "Your post has been edited successfully."
+msgstr "Votre publication a bien été modifiée."
+
+#: main/elementor/widgets/comments/new_comment.php:68
+msgid "New Comment Form"
+msgstr "Nouveau formulaire de commentaire"
+
+#: main/elementor/widgets/comments/new_comment.php:45
+msgid "Your comment has been added successfully."
+msgstr "Votre commentaire a bien été ajouté."
+
+#: main/elementor/widgets/comments/new_comment.php:43
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+#: main/helpers.php:393
+msgid "Custom Taxonomy"
+msgstr "Taxonomie personnalisée"
+
+#: main/frontend/fields/post/class-menu-order.php:26 main/helpers.php:391
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: main/frontend/fields/post/class-post-date.php:26 main/helpers.php:389
+msgid "Published On"
+msgstr "Publié le"
+
+#: main/helpers.php:387
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: main/helpers.php:386
+msgid "Categories"
+msgstr "Catégories"
+
+#: main/helpers.php:385
+msgid "Post Excerpt"
+msgstr "Extrait de publication"
+
+#: main/admin/admin-pages/forms/settings.php:218
+#: main/frontend/fields/general/class-related-items.php:694
+#: main/frontend/fields/post/class-featured-image.php:26 main/helpers.php:384
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: main/helpers.php:383
+msgid "Post Content"
+msgstr "Contenu de la publication"
+
+#: main/frontend/fields/post/class-post-slug.php:26 main/helpers.php:382
+msgid "Slug"
+msgstr "Slug"
+
+#: main/helpers.php:381
+msgid "Post Title"
+msgstr "Titre de la publication"
+
+#: main/helpers.php:362
+msgid "ACF Field"
+msgstr "Champ ACF"
+
+#: main/helpers.php:31
+msgid "Edit User Form"
+msgstr "Formulaire de modification de compte"
+
+#: main/helpers.php:36
+msgid "Edit Term Form"
+msgstr "Formulaire de modification de terme"
+
+#: main/admin/admin-pages/forms/settings.php:428
+msgid "The form has been submitted successfully."
+msgstr "Le formulaire a bien été envoyé."
+
+#: main/frontend/forms/actions/term.php:71
+#: main/frontend/forms/actions/term.php:266
+msgid "Edit Term"
+msgstr "Modifier le terme"
+
+#: main/frontend/fields/general/class-upload-files.php:421
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+#: main/frontend/fields/general/class-checkbox.php:284
+#: main/frontend/fields/general/class-radio.php:60
+#: main/frontend/fields/general/class-select.php:365
+msgid "Choices"
+msgstr "Choix"
+
+#: main/elementor/classes/content_tab.php:1274
+msgid "Image"
+msgstr "Image"
+
+#: main/elementor/classes/content_tab.php:121
+msgid "End Point"
+msgstr "Point d’arrivée"
+
+#: main/frontend/forms/actions/comment.php:24
+msgid "Comment"
+msgstr "Commentaire"
+
+#: main/admin/admin-pages/forms/settings.php:226
+#: main/frontend/fields/user/class-last-name.php:26 main/helpers.php:406
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: main/admin/admin-pages/forms/settings.php:225
+#: main/frontend/fields/user/class-first-name.php:26 main/helpers.php:405
+msgid "First Name"
+msgstr "Prénom"
+
+#: main/frontend/fields/user/class-display-name.php:26 main/helpers.php:408
+msgid "Display Name"
+msgstr "Afficher le nom"
+
+#: main/frontend/fields/post/class-post-author.php:22
+msgid "Author"
+msgstr "Auteur/autrice"
+
+#: main/frontend/forms/actions/comment.php:90
+#: main/frontend/forms/actions/post.php:442
+msgid "Enter the post ID"
+msgstr "Saisir l’ID de la publication"
+
+#: main/elementor/classes/content_tab.php:1981
+#: main/elementor/widgets/users/delete_user.php:125
+#: main/frontend/forms/actions/comment.php:89
+#: main/frontend/forms/actions/post.php:441
+#: main/frontend/forms/actions/term.php:325
+#: main/frontend/forms/actions/user.php:308
+msgid "18"
+msgstr "18"
+
+#: main/frontend/forms/actions/post.php:431
+msgid "Enter the URL query parameter containing the id of the post you want to edit"
+msgstr "Saisissez le paramètre de requête d’URL contenant l’ID de la publication que vous souhaitez modifier"
+
+#: main/frontend/forms/actions/post.php:428
+#: main/frontend/forms/actions/post.php:429
+msgid "post_id"
+msgstr "post_id"
+
+#: main/frontend/forms/actions/post.php:203
+#: main/frontend/forms/actions/post.php:426
+#: main/frontend/forms/actions/term.php:122
+#: main/frontend/forms/actions/term.php:310
+#: main/frontend/forms/actions/user.php:132
+#: main/frontend/forms/actions/user.php:284
+#: main/frontend/forms/actions/user.php:294
+msgid "URL Query"
+msgstr "Requête d’URL"
+
+#: main/frontend/forms/actions/post.php:415
+#: main/frontend/forms/actions/term.php:300
+msgid "Url Query"
+msgstr "Requête d’URL"
+
+#: main/admin/admin-pages/forms/sections/actions.php:8
+#: main/elementor/widgets/posts/delete_post.php:172
+#: main/elementor/widgets/products/delete_product.php:172
+#: main/elementor/widgets/terms/delete_term.php:163
+#: main/elementor/widgets/users/delete_user.php:197
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: main/admin/admin-pages/forms/sections/actions.php:9
+#: main/elementor/widgets/general/acf-form.php:321
+#: main/elementor/widgets/posts/delete_post.php:164
+#: main/elementor/widgets/products/delete_product.php:164
+#: main/elementor/widgets/terms/delete_term.php:155
+#: main/elementor/widgets/users/delete_user.php:189
+#: main/frontend/fields/general/class-delete-object.php:296
+msgid "Referer"
+msgstr "Référent"
+
+#: main/elementor/widgets/posts/delete_post.php:162
+#: main/elementor/widgets/products/delete_product.php:162
+#: main/elementor/widgets/terms/delete_term.php:153
+#: main/elementor/widgets/users/delete_user.php:187
+#: main/frontend/fields/general/class-delete-object.php:294
+msgid "Reload Current Url"
+msgstr "Recharger l’URL actuelle"
+
+#: main/elementor/widgets/posts/delete_post.php:158
+#: main/elementor/widgets/products/delete_product.php:158
+#: main/elementor/widgets/terms/delete_term.php:149
+#: main/elementor/widgets/users/delete_user.php:183
+#: main/frontend/fields/general/class-delete-object.php:288
+msgid "Redirect After Delete"
+msgstr "Redirection après suppression"
+
+#: main/elementor/widgets/posts/delete_post.php:151
+msgid "Whether or not to completely delete the posts right away."
+msgstr "Suppression complète ou non des publications sur-le-champ."
+
+#: main/elementor/widgets/posts/delete_post.php:147
+#: main/elementor/widgets/products/delete_product.php:147
+msgid "Force Delete"
+msgstr "Forcer la suppression"
+
+#: main/elementor/widgets/posts/delete_post.php:103
+#: main/elementor/widgets/products/delete_product.php:103
+#: main/elementor/widgets/terms/delete_term.php:104
+#: main/elementor/widgets/users/delete_user.php:104
+msgid "Delete Button Icon"
+msgstr "Icône du bouton « Supprimer »"
+
+#: main/elementor/widgets/posts/delete_post.php:87
+#: main/elementor/widgets/products/delete_product.php:87
+#: main/elementor/widgets/terms/delete_term.php:87
+#: main/elementor/widgets/users/delete_user.php:87
+msgid "Trash Button"
+msgstr "Bouton « Mettre à la corbeille »"
+
+#: main/elementor/widgets/general/edit_button.php:479
+msgid "Hover Animation"
+msgstr "Animation au survol"
+
+#: main/elementor/widgets/general/edit_button.php:424
+msgid "Hover"
+msgstr "Au survol"
+
+#: main/frontend/forms/classes/permissions.php:124
+msgid "Enter the a comma-seperated list of user ids"
+msgstr "Saisissez une liste d’ID de compte séparés par des virgules"
+
+#: main/elementor/classes/content_tab.php:338
+#: main/elementor/classes/content_tab.php:683
+#: main/frontend/forms/actions/post.php:485
+#: main/frontend/forms/classes/permissions.php:123
+msgid "18, 12, 11"
+msgstr "18, 12, 11"
+
+#: main/elementor/widgets/general/edit_button.php:291
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr "Veuillez vous assurer que l’ID est unique et non utilisé ailleurs sur la page où ce formulaire est affiché. Ce champ autorise les caractères <code>A-z 0-9</code> et tiret bas sans espace."
+
+#: main/elementor/widgets/general/edit_button.php:290
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Ajoutez votre ID personnalisé sans le #, par exemple : mon-id"
+
+#: main/elementor/widgets/general/edit_button.php:284
+msgid "Button ID"
+msgstr "ID du bouton"
+
+#: main/elementor/widgets/general/edit_button.php:275
+msgid "View"
+msgstr "Voir"
+
+#: main/elementor/widgets/general/edit_button.php:258
+msgid "Icon Spacing"
+msgstr "Espacement de l’icône"
+
+#: main/elementor/widgets/general/edit_button.php:247
+msgid "After"
+msgstr "Après"
+
+#: main/elementor/widgets/general/edit_button.php:246
+msgid "Before"
+msgstr "Avant"
+
+#: main/elementor/widgets/general/edit_button.php:242
+msgid "Icon Position"
+msgstr "Position de l’icône"
+
+#: main/elementor/widgets/general/edit_button.php:229
+msgid "Icon"
+msgstr "Icône"
+
+#: main/elementor/widgets/general/edit_button.php:218
+#: main/frontend/fields/general/class-recaptcha.php:113
+msgid "Size"
+msgstr "Taille"
+
+#: main/elementor/widgets/general/edit_button.php:206
+msgid "Justified"
+msgstr "Justifié"
+
+#: main/elementor/widgets/general/edit_button.php:190
+msgid "Alignment"
+msgstr "Alignement"
+
+#: main/elementor/widgets/general/edit_button.php:181
+msgid "Choose the key of the URL query which returns the post id"
+msgstr "Choisissez la clé de la requête d’URL qui renvoie l’ID de la publication."
+
+#: main/elementor/widgets/general/edit_button.php:176
+#: main/frontend/forms/actions/post.php:216
+#: main/frontend/forms/actions/term.php:135
+#: main/frontend/forms/actions/user.php:145
+msgid "URL Query Key"
+msgstr "Clé de requête d’URL"
+
+#: main/elementor/widgets/general/edit_button.php:159
+msgid "Link to Edit Page"
+msgstr "Lien vers la page de modification"
+
+#: main/elementor/widgets/general/edit_button.php:146
+#: main/frontend/fields/general/class-text-editor.php:295
+#: main/frontend/fields/general/class-text.php:24
+msgid "Text"
+msgstr "Texte"
+
+#: main/elementor/widgets/general/edit_button.php:137
+msgid "Danger"
+msgstr "Danger"
+
+#: main/elementor/widgets/general/edit_button.php:136
+msgid "Warning"
+msgstr "Avertissement"
+
+#: main/elementor/widgets/general/edit_button.php:135
+msgid "Success"
+msgstr "Réussite"
+
+#: main/elementor/widgets/general/edit_button.php:134
+msgid "Info"
+msgstr "Info"
+
+#: main/elementor/widgets/general/edit_button.php:116
+#: main/elementor/widgets/general/edit_button.php:304
+msgid "Button"
+msgstr "Bouton"
+
+#: main/elementor/widgets/general/edit_button.php:100
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: main/elementor/widgets/general/edit_button.php:99
+msgid "Large"
+msgstr "Grand"
+
+#: main/elementor/widgets/general/edit_button.php:97
+msgid "Small"
+msgstr "Petit"
+
+#: main/elementor/widgets/general/edit_button.php:96
+msgid "Extra Small"
+msgstr "Très petit"
+
+#: main/elementor/widgets/general/edit_button.php:51
+msgid "Edit Button"
+msgstr "Bouton « Modifier »"
+
+#: main/elementor/widgets/general/acf-form.php:642
+#: main/elementor/widgets/posts/delete_post.php:215
+#: main/elementor/widgets/products/delete_product.php:213
+#: main/elementor/widgets/terms/delete_term.php:206
+#: main/elementor/widgets/users/delete_user.php:241
+msgid "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Go Pro</b></a> to unlock styles.</p>"
+msgstr "<p><a target=\"_blank\" href=\"https://www.dynamiapps.com/\"><b>Passez à la version Pro</b></a> pour déverrouiller les styles.</p>"
+
+#: main/elementor/classes/content_tab.php:916
+#: main/elementor/widgets/general/acf-form.php:633
+#: main/elementor/widgets/posts/delete_post.php:206
+#: main/elementor/widgets/products/delete_product.php:204
+#: main/elementor/widgets/terms/delete_term.php:197
+#: main/elementor/widgets/users/delete_user.php:232
+msgid "Styles"
+msgstr "Styles"
+
+#: main/frontend/fields/general/class-submit-button.php:26
+msgid "Submit Button"
+msgstr "Bouton « Envoyer »"
+
+#: main/elementor/widgets/posts/new_post.php:65 main/helpers.php:23
+msgid "New Post Form"
+msgstr "Formulaire de nouvelle publication"
+
+#: main/elementor/widgets/posts/new_post.php:46
+msgid "Your post has been added successfully."
+msgstr "Votre publication a bien été ajoutée."
+
+#: main/helpers.php:30
+msgid "New User Form"
+msgstr "Formulaire de nouveau compte"
+
+#: main/elementor/widgets/comments/new_comment.php:44
+#: main/elementor/widgets/posts/duplicate_post.php:33
+#: main/elementor/widgets/posts/edit_post.php:44
+#: main/elementor/widgets/posts/new_post.php:45
+#: main/frontend/fields/general/class-submit-button.php:29
+msgid "Submit"
+msgstr "Envoyer"
+
+#: main/frontend/forms/classes/form-display.php:186
+msgid "Post updated"
+msgstr "Publication mise à jour"
+
+#: main/frontend/fields/general/class-upload-file.php:209
+msgid "All Folders"
+msgstr "Tous les dossiers"
+
+#: main/helpers.php:96 main/helpers.php:388
+msgid "Post Author"
+msgstr "Auteur/autrice de la publication"
+
+#: main/elementor/classes/modal.php:138
+msgid "Modal Button Icon"
+msgstr "Icône du bouton de modale"
+
+#: main/admin/admin-pages/forms/settings.php:350
+#: main/elementor/classes/modal.php:99
+msgid "Modal Window"
+msgstr "Fenêtre modale"
+
+#: main/elementor/widgets/general/edit_button.php:350
+msgid "Border Radius"
+msgstr "Rayon de la bordure"
+
+#: main/elementor/widgets/general/edit_button.php:399
+#: main/elementor/widgets/general/edit_button.php:457
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: main/elementor/classes/content_tab.php:1050
+msgid "Hide Logo"
+msgstr "Masquer le logo"
+
+#: main/elementor/classes/content_tab.php:1038
+#: main/frontend/fields/general/class-recaptcha.php:119
+msgid "Compact"
+msgstr "Compact"
+
+#: main/elementor/classes/content_tab.php:1037
+#: main/elementor/widgets/general/edit_button.php:365
+#: main/frontend/fields/general/class-recaptcha.php:118
+msgid "Normal"
+msgstr "Normal"
+
+#: main/elementor/classes/content_tab.php:1022
+#: main/frontend/fields/general/class-recaptcha.php:95
+msgid "Dark"
+msgstr "Sombre"
+
+#: main/elementor/classes/content_tab.php:1021
+#: main/frontend/fields/general/class-recaptcha.php:94
+msgid "Light"
+msgstr "Clair"
+
+#: main/elementor/classes/content_tab.php:906
+msgid "If you don't already have a site key and a secret, you may generate them here:"
+msgstr "Si vous ne disposez pas déjà d’une clé de site et d’un secret, vous pouvez les générer ici :"
+
+#: main/elementor/classes/content_tab.php:889
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: main/elementor/classes/content_tab.php:874
+msgid "Site Key"
+msgstr "Clé de site"
+
+#: main/elementor/classes/content_tab.php:863
+msgid "Version 3"
+msgstr "Version 3"
+
+#: main/elementor/classes/content_tab.php:862
+msgid "Version 2"
+msgstr "Version 2"
+
+#: main/elementor/classes/content_tab.php:859
+#: main/elementor/classes/content_tab.php:1018
+#: main/elementor/classes/content_tab.php:1034
+#: main/frontend/fields/general/class-recaptcha.php:74
+msgid "Version"
+msgstr "Version"
+
+#: main/elementor/classes/content_tab.php:1663
+#: main/elementor/classes/content_tab.php:1665
+msgid "Allow"
+msgstr "Autoriser"
+
+#: main/elementor/classes/content_tab.php:1650
+msgid "Allow, but notify customers"
+msgstr "Autoriser, mais avertir les clients"
+
+#: main/elementor/classes/content_tab.php:1648
+msgid "Notify"
+msgstr "Prévenir"
+
+#: main/elementor/classes/content_tab.php:1633
+#: main/elementor/classes/content_tab.php:1635
+msgid "Do not allow"
+msgstr "Ne pas autoriser"
+
+#: main/elementor/classes/content_tab.php:1606
+#: main/elementor/classes/content_tab.php:1608
+msgid "On backorder"
+msgstr "En cours de réapprovisionnement"
+
+#: main/elementor/classes/content_tab.php:1591
+#: main/elementor/classes/content_tab.php:1593
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+#: main/elementor/classes/content_tab.php:1576
+#: main/elementor/classes/content_tab.php:1578
+msgid "In stock"
+msgstr "En stock"
+
+#: main/elementor/classes/content_tab.php:1550
+#: main/frontend/fields/general/class-true-false.php:181
+msgid "Off Text"
+msgstr "Texte « Inactif »"
+
+#: main/elementor/classes/content_tab.php:1536
+#: main/frontend/fields/general/class-true-false.php:165
+msgid "On Text"
+msgstr "Texte « Actif »"
+
+#: main/elementor/classes/content_tab.php:840
+#: main/elementor/classes/content_tab.php:841
+#: main/frontend/fields/user/class-user-password.php:173
+#: main/frontend/fields/user/class-user-password.php:229
+#: main/frontend/forms/classes/form-display.php:1472
+msgid "Cancel"
+msgstr "Annuler"
+
+#: main/elementor/classes/content_tab.php:837
+msgid "Cancel Edit Button"
+msgstr "Annuler Bouton modifier"
+
+#: main/elementor/classes/content_tab.php:823
+#: main/elementor/classes/content_tab.php:824
+#: main/frontend/fields/user/class-user-password.php:172
+msgid "Edit Password"
+msgstr "Modifier le mot de passe"
+
+#: main/elementor/classes/content_tab.php:820
+#: main/frontend/fields/user/class-user-password.php:210
+#: main/frontend/fields/user/class-user-password.php:213
+msgid "Edit Password Button"
+msgstr "Bouton « Modifier le mot de passe »"
+
+#: main/elementor/classes/content_tab.php:797
+msgid "WARNING: allowing your users to change their username might affect your existing urls and their SEO rating"
+msgstr "Avertissement : autoriser vos utilisateurs/utilisatrices à modifier leur identifiant peut affecter vos URL existantes et leur classement SEO"
+
+#: main/elementor/classes/content_tab.php:793
+#: main/frontend/fields/user/class-username.php:156
+msgid "Allow Edit"
+msgstr "Autoriser la modification"
+
+#: main/elementor/classes/content_tab.php:753
+#: main/frontend/fields/general/class-related-terms.php:808
+msgid "Add Term"
+msgstr "Ajouter un terme"
+
+#: main/elementor/classes/content_tab.php:737
+#: main/frontend/fields/general/class-related-terms.php:750
+msgid "Single Value"
+msgstr "Valeur unique"
+
+#: main/elementor/classes/content_tab.php:733
+#: main/frontend/fields/general/class-related-terms.php:748
+msgid "Multi Select"
+msgstr "Sélection multiple"
+
+#: main/elementor/classes/content_tab.php:732
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+#: main/elementor/classes/content_tab.php:730
+msgid "Multiple Value"
+msgstr "Valeurs multiples"
+
+#: main/elementor/classes/content_tab.php:712
+#: main/frontend/fields/general/class-related-items.php:623
+#: main/frontend/fields/general/class-related-terms.php:727
+#: main/frontend/forms/actions/term.php:83
+#: main/frontend/forms/actions/term.php:336
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: main/elementor/classes/content_tab.php:670
+#: main/frontend/fields/user/class-user-password.php:193
+msgid "Strong"
+msgstr "Fort"
+
+#: main/elementor/classes/content_tab.php:669
+#: main/elementor/widgets/general/edit_button.php:98
+#: main/frontend/fields/user/class-user-password.php:192
+msgid "Medium"
+msgstr "Moyen"
+
+#: main/elementor/classes/content_tab.php:668
+#: main/frontend/fields/user/class-user-password.php:191
+msgid "Weak"
+msgstr "Faible"
+
+#: main/elementor/classes/content_tab.php:667
+#: main/frontend/fields/user/class-user-password.php:190
+msgid "Very Weak"
+msgstr "Très faible"
+
+#: main/elementor/classes/content_tab.php:662
+#: main/frontend/fields/user/class-user-password.php:185
+msgid "Password Strength"
+msgstr "Force du mot de passe"
+
+#: main/elementor/classes/content_tab.php:647
+msgid "Default Role Option"
+msgstr "Option de rôle par défaut"
+
+#: main/elementor/classes/content_tab.php:600
+msgid "Roles to Choose From"
+msgstr "Rôles à choisir à partir de"
+
+#: main/elementor/classes/content_tab.php:585
+msgid "Default Post Type Option"
+msgstr "Option de type de publication par défaut"
+
+#: main/elementor/classes/content_tab.php:635
+#: main/frontend/fields/general/class-checkbox.php:374
+#: main/frontend/fields/general/class-radio.php:160
+#: main/frontend/fields/post/class-post-status.php:165
+msgid "Vertical"
+msgstr "Vertical"
+
+#: main/elementor/classes/content_tab.php:636
+#: main/frontend/fields/general/class-checkbox.php:375
+#: main/frontend/fields/general/class-radio.php:161
+#: main/frontend/fields/post/class-post-status.php:166
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: main/elementor/classes/content_tab.php:631
+#: main/frontend/fields/general/class-checkbox.php:368
+#: main/frontend/fields/general/class-list-items.php:108
+#: main/frontend/fields/general/class-radio.php:154
+#: main/frontend/fields/post/class-post-status.php:159 main/helpers.php:369
+msgid "Layout"
+msgstr "Mise en page"
+
+#: main/elementor/classes/content_tab.php:621
+#: main/elementor/classes/content_tab.php:740
+msgid "Select"
+msgstr "Sélectionner"
+
+#: main/elementor/classes/content_tab.php:620
+#: main/elementor/classes/content_tab.php:739
+#: main/frontend/fields/general/class-related-terms.php:751
+#: main/frontend/fields/post/class-post-status.php:128
+#: main/frontend/fields/post/class-post-type.php:158
+#: main/frontend/fields/user/class-role.php:144
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: main/elementor/classes/content_tab.php:616
+#: main/elementor/classes/content_tab.php:725
+#: main/frontend/fields/general/class-related-terms.php:740
+#: main/frontend/fields/post/class-post-content.php:99
+#: main/frontend/fields/post/class-post-status.php:122
+#: main/frontend/fields/post/class-post-type.php:152
+#: main/frontend/fields/user/class-role.php:138
+msgid "Appearance"
+msgstr "Apparence"
+
+#: main/elementor/classes/content_tab.php:568
+msgid "Post Types to Choose From"
+msgstr "Types de publication parmi lesquels choisir"
+
+#: main/elementor/classes/content_tab.php:559
+msgid "Type your message here"
+msgstr "Saisissez votre message ici"
+
+#: main/elementor/classes/content_tab.php:558
+msgid "You can add here text, images template shortcodes, and more"
+msgstr "Vous pouvez y ajouter du texte, des images, des codes courts de modèles, etc."
+
+#: main/admin/admin-pages/forms/sections/permissions.php:115
+#: main/admin/admin-pages/forms/sections/permissions.php:121
+#: main/elementor/classes/content_tab.php:556
+#: main/frontend/fields/general/class-true-false.php:135
+#: main/frontend/forms/classes/permissions.php:43
+#: main/frontend/forms/classes/permissions.php:52 main/helpers.php:371
+msgid "Message"
+msgstr "Message"
+
+#: main/elementor/classes/content_tab.php:530
+msgid "This will prevent users from editing the field."
+msgstr "Cela empêchera les utilisateurs  et utilisatrices de modifier le champ."
+
+#: main/elementor/classes/content_tab.php:528
+msgid "Readonly"
+msgstr "Lecture uniquement"
+
+#: main/elementor/classes/content_tab.php:515
+#: main/elementor/classes/content_tab.php:1476
+msgid "This will prevent users from editing the field and the data will not be sent."
+msgstr "Cela empêchera les utilisateurs et utilisatrices de modifier le champ et les données ne seront pas envoyées."
+
+#: main/elementor/classes/content_tab.php:513
+#: main/elementor/classes/content_tab.php:1474
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: main/elementor/classes/content_tab.php:500
+#: main/elementor/classes/content_tab.php:1464 main/frontend/module.php:47
+msgid "Hidden"
+msgstr "Masqué"
+
+#: main/elementor/classes/content_tab.php:487
+#: main/elementor/classes/content_tab.php:1451
+msgid "Required"
+msgstr "Nécessaire"
+
+#: main/elementor/classes/content_tab.php:407
+msgid "Field Instruction"
+msgstr "Instruction du champ"
+
+#: main/elementor/classes/content_tab.php:304
+#: main/frontend/fields/general/class-textarea.php:26
+#: main/frontend/fields/post/class-post-content.php:105
+msgid "Text Area"
+msgstr "Zone de texte"
+
+#: main/elementor/classes/content_tab.php:303
+#: main/frontend/fields/general/class-text-editor.php:26
+msgid "Text Editor"
+msgstr "Éditeur de texte"
+
+#: main/elementor/classes/content_tab.php:300
+#: main/elementor/widgets/general/edit_button.php:129
+msgid "Type"
+msgstr "Type"
+
+#: main/elementor/classes/content_tab.php:1359
+msgid "Default Featured Image"
+msgstr "Image mise en avant par défaut"
+
+#: main/elementor/classes/content_tab.php:248
+msgid "This will populate a field if no value has been given yet. You can use shortcodes from other text fields. For example: [acf:field_name]"
+msgstr "Cela remplira un champ si aucune valeur n’a encore été donnée. Vous pouvez utiliser des codes courts issus d’autres champs de texte. Par exemple : [acf:field_name]"
+
+#: main/elementor/classes/content_tab.php:245
+#: main/elementor/classes/content_tab.php:275
+#: main/elementor/classes/content_tab.php:1333
+#: main/elementor/classes/content_tab.php:1346
+#: main/frontend/fields/general/class-checkbox.php:294
+#: main/frontend/fields/general/class-color.php:51
+#: main/frontend/fields/general/class-date.php:103
+#: main/frontend/fields/general/class-datetime-input.php:103
+#: main/frontend/fields/general/class-email.php:101
+#: main/frontend/fields/general/class-number.php:113
+#: main/frontend/fields/general/class-radio.php:70
+#: main/frontend/fields/general/class-range.php:149
+#: main/frontend/fields/general/class-select.php:376
+#: main/frontend/fields/general/class-text-editor.php:335
+#: main/frontend/fields/general/class-text.php:113
+#: main/frontend/fields/general/class-textarea.php:101
+#: main/frontend/fields/general/class-time.php:103
+#: main/frontend/fields/general/class-true-false.php:145
+#: main/frontend/fields/general/class-upload-image.php:299
+#: main/frontend/fields/general/class-url.php:100
+#: main/frontend/fields/post/class-post-content.php:130
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: main/elementor/classes/content_tab.php:233
+#: main/elementor/classes/content_tab.php:263
+msgid "Field Placeholder"
+msgstr "Texte indicatif du champ"
+
+#: main/elementor/classes/content_tab.php:216
+msgid "Field Label"
+msgstr "Libellé du champ"
+
+#: main/elementor/classes/content_tab.php:198
+#: main/elementor/classes/content_tab.php:1123
+#: main/elementor/classes/content_tab.php:1296
+msgid "Show Label"
+msgstr "Afficher le libellé"
+
+#. translators: accessibility text for the content landmark region.
+#: main/admin/admin-pages/forms/sections/permissions.php:140
+#: main/admin/admin-pages/forms/settings.php:217
+#: main/frontend/fields/post/class-post-content.php:26
+#: main/frontend/forms/classes/permissions.php:65
+#: main/gutenberg/build/frontend-block-editor/index.js:5
+msgid "Content"
+msgstr "Contenu"
+
+#: main/elementor/classes/content_tab.php:108
+msgid "Exclude Specific Fields"
+msgstr "Exclure des champs spécifiques"
+
+#: main/elementor/classes/content_tab.php:94
+#: main/frontend/fields/general/class-fields-select.php:24 main/helpers.php:364
+msgid "ACF Fields"
+msgstr "Champs ACF"
+
+#: main/elementor/classes/content_tab.php:81 main/helpers.php:365
+msgid "ACF Field Groups"
+msgstr "Groupes de champs ACF"
+
+#: main/elementor/classes/content_tab.php:66
+#: main/elementor/classes/content_tab.php:1265
+msgid "Field Type"
+msgstr "Type de champ"
+
+#: main/elementor/widgets/general/edit_button.php:372
+#: main/elementor/widgets/general/edit_button.php:431
+msgid "Text Color"
+msgstr "Couleur de texte"
+
+#: main/elementor/widgets/general/edit_button.php:202
+msgid "Right"
+msgstr "Droite"
+
+#: main/elementor/widgets/general/edit_button.php:194
+msgid "Left"
+msgstr "Gauche"
+
+#: main/elementor/widgets/general/edit_button.php:384
+#: main/elementor/widgets/general/edit_button.php:443
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#: main/elementor/widgets/general/edit_button.php:198
+msgid "Center"
+msgstr "﻿Centré"
+
+#: main/admin/admin-pages/forms/sections/actions.php:54
+#: main/elementor/widgets/posts/delete_post.php:132
+#: main/elementor/widgets/products/delete_product.php:132
+#: main/elementor/widgets/terms/delete_term.php:133
+#: main/elementor/widgets/users/delete_user.php:167
+#: main/frontend/fields/general/class-save-progress.php:123
+msgid "Success Message"
+msgstr "Message de réussite"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:101
+msgid "Edit Submissions"
+msgstr "Modifier les envois"
+
+#: main/admin/admin-pages/plans/crud.php:287
+msgid "Currency"
+msgstr "Devise"
+
+#: main/frontend/fields/general/class-number.php:26
+msgid "Number"
+msgstr "Nombre "
+
+#: main/elementor/classes/content_tab.php:988
+#: main/elementor/widgets/general/edit_button.php:337
+msgid "Padding"
+msgstr "Marge interne"
+
+#: main/elementor/classes/content_tab.php:959
+msgid "Margin"
+msgstr "Marge"
+
+#: main/elementor/classes/content_tab.php:926
+#: main/frontend/fields/general/class-upload-files.php:833
+#: main/frontend/fields/general/class-upload-files.php:870
+#: main/frontend/fields/general/class-upload-image.php:358
+#: main/frontend/fields/general/class-upload-image.php:395
+msgid "Width"
+msgstr "Largeur "
+
+#: main/elementor/classes/content_tab.php:230
+#: main/elementor/classes/content_tab.php:261
+#: main/elementor/classes/content_tab.php:1159
+#: main/elementor/classes/content_tab.php:1185
+#: main/elementor/classes/content_tab.php:1369
+#: main/elementor/classes/content_tab.php:1382
+#: main/frontend/fields/post/class-post-to-edit.php:440
+msgid "Placeholder"
+msgstr "Texte indicatif"
+
+#: main/elementor/classes/content_tab.php:213
+#: main/elementor/classes/content_tab.php:1136
+#: main/elementor/classes/content_tab.php:1310
+#: main/frontend/fields/general/class-checkbox.php:311
+#: main/frontend/fields/general/class-radio.php:87
+#: main/frontend/fields/general/class-select.php:394
+msgid "Label"
+msgstr "Libellé"
+
+#: main/elementor/dynamic-tags/user-local-avatar.php:76
+msgid "Fallback"
+msgstr "Alternative"
+
+#: main/elementor/dynamic-tags/user-local-avatar.php:41
+msgid "Local Avatar"
+msgstr "Avatar local"
+
+#: main/elementor/dynamic-tags/author-local-avatar.php:40
+msgid "Author Local Avatar"
+msgstr "Avatar local de l’auteur/autrice"
+
+#: main/frontend/fields/user/class-user-password.php:122
+msgid "The password is too weak. Please make it stronger."
+msgstr "Le mot de passe est trop faible. Veuillez le rendre plus fort."
+
+#: main/frontend/fields/user/class-user-password-confirm.php:89
+#: main/frontend/fields/user/class-user-password.php:114
+msgid "The passwords do not match"
+msgstr "Les mots de passe ne correspondent pas"
+
+#: main/frontend/fields/user/class-username.php:85
+msgid "The username contains illegal characters. Please enter only latin letters, numbers, @, -, . and _"
+msgstr "L’identifiant contient des caractères non autorisés. Veuillez saisir uniquement des lettres latines, des chiffres, @, -, . et _"
+
+#: main/frontend/fields/user/class-user-email.php:100
+msgid "The email %s is already assigned to an existing account. Please try a different email or login to your account"
+msgstr "L’e-mail %s est déjà assigné à un compte existant. Veuillez essayer une autre adresse e-mail ou connectez-vous à votre compte"
+
+#: main/frontend/fields/general/class-related-items.php:622
+#: main/frontend/fields/post/class-post-type.php:26
+#: main/frontend/forms/actions/post.php:164
+#: main/frontend/forms/classes/form-display.php:1634
+#: main/frontend/module.php:189 main/helpers.php:390
+msgid "Post Type"
+msgstr "Type de publication"
+
+#. translators: accessibility text for the publish landmark region.
+#: main/frontend/forms/classes/form-display.php:1598
+#: main/gutenberg/build/frontend-block-editor/index.js:11
+msgid "Publish"
+msgstr "Publier"
+
+#: main/frontend/forms/classes/form-display.php:1597
+msgid "Post Added Successfully!"
+msgstr "Publication bien ajoutée !"
+
+#: main/frontend/forms/classes/form-display.php:1594
+msgid "Post Updated Successfully!"
+msgstr "Publication bien mise à jour !"
+
+#: main/frontend/fields/general/class-upload-file.php:198
+msgid "Limit the media library choice to specific Happy Files Categories"
+msgstr "Limiter le choix de la médiathèque à des catégories spécifiques de Happy Files"
+
+#: main/frontend/fields/general/class-upload-file.php:197
+msgid "Happy Files Folder"
+msgstr "Dossier Happy Files"
+
+#: main/frontend/fields/user/class-user-email.php:26
+msgid "User Email"
+msgstr "E-mail du compte"
+
+#: main/frontend/module.php:46
+msgid "Read Only"
+msgstr "Lecture uniquement"
+
+#: main/elementor/classes/content_tab.php:766
+msgid "Set as username"
+msgstr "Définir comme identifiant"
+
+#: main/elementor/classes/content_tab.php:289
+#: main/elementor/classes/content_tab.php:544
+#: main/elementor/widgets/general/edit_button.php:133
+#: main/frontend/fields/general/class-related-items.php:1019
+#: main/frontend/fields/general/class-related-items.php:1167
+#: main/frontend/fields/general/class-related-terms.php:838
+#: main/frontend/fields/post/class-post-status.php:107
+msgid "Default"
+msgstr "Par défaut"
+
+#: main/frontend/fields/general/class-related-items.php:987
+#: main/frontend/fields/general/class-related-terms.php:821
+msgid "Form Container Width"
+msgstr "Largeur du conteneur du formulaire"
+
+#: main/frontend/fields/general/class-related-items.php:973
+#: main/frontend/fields/general/class-related-items.php:974
+#: main/frontend/fields/general/class-related-items.php:1103
+msgid "Add Post"
+msgstr "Ajouter une publication"
+
+#: main/frontend/fields/general/class-related-items.php:970
+msgid "Add Post Button"
+msgstr "Bouton « Ajouter une publication »"
+
+#: main/frontend/fields/general/class-related-items.php:945
+msgid "Allow posts to be created and edited whilst editing"
+msgstr "Autoriser la création et la modification de publications pendant la modification"
+
+#: main/frontend/fields/general/class-related-items.php:944
+msgid "Add and Edit Posts"
+msgstr "Ajouter et modifier des publications"
+
+#: main/frontend/fields/general/class-related-items.php:929
+msgid "Filter by Post Author"
+msgstr "Filtrer par auteur/autrice de publication"
+
+#: main/frontend/fields/general/class-related-items.php:913
+msgid "Users"
+msgstr "Comptes"
+
+#: main/admin/admin-pages/forms/settings.php:204
+#: main/frontend/fields/general/class-related-items.php:909
+msgid "Dynamic"
+msgstr "Dynamique"
+
+#: main/admin/admin-pages/forms/post-types.php:30
+#: main/admin/admin-pages/forms/post-types.php:31 main/admin/module.php:87
+msgid "Settings Saved"
+msgstr "Réglages enregistrés"
+
+#: main/admin/module.php:85
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: main/admin/module.php:55
+msgid "Hello and welcome"
+msgstr "Bonjour et bienvenue"
+
+#. translators: accessibility text for the settings landmark region.
+#: main/admin/admin-pages/forms/tools/export.php:283 main/admin/module.php:17
+#: main/gutenberg/build/frontend-block-editor/index.js:9
+#: main/gutenberg/build/frontend-block-editor/index.js:24
+#: main/gutenberg/build/frontend-block-editor/index.js:30
+msgid "Settings"
+msgstr "Réglages"
+
+#: main/admin/admin-pages/forms/custom-fields.php:12
+#: main/admin/admin-pages/forms/settings.php:216
+#: main/admin/admin-pages/plans/crud.php:243
+#: main/admin/admin-pages/plans/list.php:141
+#: main/admin/admin-pages/submissions/list.php:152
+#: main/admin/admin-pages/subscriptions/list.php:141
+#: main/frontend/fields/general/class-upload-files.php:397
+#: main/frontend/fields/post/class-post-title.php:26
+#: main/frontend/forms/classes/form-display.php:1210
+msgid "Title"
+msgstr "Titre"
+
+#: main/admin/admin-pages/forms/post-types.php:21
+msgid "Add New"
+msgstr "Ajouter"
+
+#: main/admin/admin-pages/main/uploads_privacy.php:31
+msgid "Media Uploads Privacy"
+msgstr "Confidentialité des téléversements de média"
+
+#: main/admin/admin-pages/main/dashboard.php:183
+msgid "Where to redirect users when logging in. Defaults to home."
+msgstr "Où rediriger les utilisateurs/utilisatrices lors de la connexion. Par défaut vers la page d’accueil."
+
+#: main/admin/admin-pages/main/dashboard.php:181
+msgid "Redirect to"
+msgstr "Rediriger vers"
+
+#: main/admin/admin-pages/main/dashboard.php:148
+#: main/frontend/fields/user/class-role.php:165
+msgid "Roles"
+msgstr "Rôles"
+
+#: main/admin/admin-pages/forms/settings.php:227
+#: main/admin/admin-pages/main/dashboard.php:138
+#: main/frontend/fields/user/class-role.php:25 main/helpers.php:410
+msgid "Role"
+msgstr "Rôle"
+
+#: main/admin/admin-pages/main/dashboard.php:119
+msgid "If you choose \"User\", there will be a checkbox in each user's profile page to show/hide the WP dashboard"
+msgstr "Si vous choisissez « Compte », il y aura une case à cocher dans la page de profil de chaque compte pour afficher/masquer le tableau de bord WP"
+
+#: main/admin/admin-pages/main/dashboard.php:117
+msgid "Hide by...."
+msgstr "Masquer par…"
+
+#: main/admin/admin-pages/main/dashboard.php:106
+msgid "Hide WP Dashboard"
+msgstr "Masquer le tableau de bord WP"
+
+#: main/admin/admin-pages/main/apis.php:20
+msgid "Google Maps API Key"
+msgstr "Clé de l’API Google Maps"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/acf-frontend-form-element/"
+msgstr "https://wordpress.org/plugins/acf-frontend-form-element/"
+
+#: main/elementor/widgets/posts/delete_post.php:113
+#: main/elementor/widgets/posts/delete_post.php:114
+msgid "The post will be deleted. Are you sure?"
+msgstr "La publication sera supprimée. Confirmez-vous ?"
+
+#: main/elementor/widgets/posts/delete_post.php:111
+#: main/elementor/widgets/products/delete_product.php:111
+#: main/elementor/widgets/terms/delete_term.php:112
+#: main/elementor/widgets/users/delete_user.php:146
+msgid "Confirm Delete Message"
+msgstr "Message de confirmation de suppression"
+
+#: main/admin/admin-pages/submissions/list.php:71
+#: main/admin/admin-pages/submissions/list.php:116
+#: main/elementor/widgets/posts/delete_post.php:96
+#: main/elementor/widgets/posts/delete_post.php:97
+#: main/elementor/widgets/products/delete_product.php:96
+#: main/elementor/widgets/products/delete_product.php:97
+#: main/elementor/widgets/terms/delete_term.php:97
+#: main/elementor/widgets/terms/delete_term.php:98
+#: main/elementor/widgets/users/delete_user.php:97
+#: main/elementor/widgets/users/delete_user.php:98
+#: main/frontend/fields/post/class-delete-post.php:30
+#: main/frontend/fields/term/class-delete-term.php:30
+#: main/frontend/fields/user/class-delete-user.php:30
+msgid "Delete"
+msgstr "Supprimer "
+
+#: main/elementor/widgets/posts/delete_post.php:94
+#: main/elementor/widgets/products/delete_product.php:94
+#: main/elementor/widgets/terms/delete_term.php:95
+#: main/elementor/widgets/users/delete_user.php:95
+msgid "Delete Button Text"
+msgstr "Texte du bouton « Supprimer »"
+
+#: main/helpers.php:26
+msgid "Delete Post Button"
+msgstr "Bouton de suppression de publication"
+
+#: main/frontend/fields/post/class-delete-post.php:36
+msgid "Your post has been deleted"
+msgstr "Votre publication a été supprimée"
+
+#: main/elementor/widgets/general/acf-form.php:385
+#: main/elementor/widgets/posts/delete_post.php:174
+#: main/elementor/widgets/products/delete_product.php:174
+#: main/elementor/widgets/terms/delete_term.php:165
+#: main/elementor/widgets/users/delete_user.php:199
+msgid "Enter Url Here"
+msgstr "Saisissez l’URL ici"
+
+#: main/admin/admin-pages/forms/sections/actions.php:37
+#: main/elementor/widgets/general/acf-form.php:320
+#: main/elementor/widgets/general/acf-form.php:383
+#: main/elementor/widgets/posts/delete_post.php:163
+#: main/elementor/widgets/products/delete_product.php:163
+#: main/elementor/widgets/terms/delete_term.php:154
+#: main/elementor/widgets/users/delete_user.php:188
+#: main/frontend/fields/general/class-delete-object.php:295
+#: main/frontend/fields/general/class-delete-object.php:303
+msgid "Custom Url"
+msgstr "URL personnalisée"
+
+#: main/admin/admin-pages/forms/sections/actions.php:18
+#: main/elementor/widgets/general/acf-form.php:330
+msgid "Redirect After Submit"
+msgstr "Rediriger après l’envoi"
+
+#: main/frontend/forms/actions/post.php:522
+msgid "Published"
+msgstr "Publié"
+
+#: main/frontend/forms/actions/post.php:521
+msgid "Pending Review"
+msgstr "En attente de relecture"
+
+#: main/frontend/forms/actions/post.php:520
+msgid "Private"
+msgstr "Privé"
+
+#: main/frontend/forms/actions/post.php:519
+msgid "Draft"
+msgstr "Brouillon"
+
+#: main/frontend/forms/actions/post.php:455
+msgid "New Post Type"
+msgstr "Type de la nouvelle publication"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:22
+#: main/admin/admin-pages/forms/settings.php:221
+#: main/admin/admin-pages/forms/settings.php:352
+#: main/admin/admin-pages/main/dashboard.php:137
+#: main/admin/admin-pages/payments/list.php:150
+#: main/elementor/widgets/general/acf-form.php:477
+#: main/elementor/widgets/users/delete_user.php:216
+#: main/frontend/fields/user/class-delete-user.php:27
+#: main/frontend/fields/user/class-display-name.php:27
+#: main/frontend/fields/user/class-first-name.php:27
+#: main/frontend/fields/user/class-last-name.php:27
+#: main/frontend/fields/user/class-nickname.php:27
+#: main/frontend/fields/user/class-role.php:26
+#: main/frontend/fields/user/class-user-bio.php:27
+#: main/frontend/fields/user/class-user-email.php:27
+#: main/frontend/fields/user/class-user-password-confirm.php:27
+#: main/frontend/fields/user/class-user-password.php:27
+#: main/frontend/fields/user/class-user-url.php:27
+#: main/frontend/fields/user/class-username.php:27
+#: main/frontend/forms/actions/user.php:24
+#: main/frontend/forms/actions/user.php:253
+#: main/frontend/forms/actions/user.php:306 main/helpers.php:29
+#: main/helpers.php:399
+msgid "User"
+msgstr "Compte"
+
+#: main/frontend/fields/general/class-related-items.php:910
+#: main/frontend/fields/post/class-post-to-edit.php:399
+#: main/frontend/forms/actions/user.php:129
+#: main/frontend/forms/actions/user.php:282
+msgid "Current User"
+msgstr "Compte actuel"
+
+#: main/frontend/forms/actions/user.php:115
+msgid "User to Edit"
+msgstr "Compte à modifier"
+
+#: main/admin/admin-pages/forms/sections/submissions.php:21
+#: main/admin/admin-pages/forms/settings.php:214
+#: main/admin/admin-pages/forms/settings.php:351
+#: main/elementor/widgets/general/acf-form.php:476
+#: main/elementor/widgets/posts/delete_post.php:190
+#: main/frontend/fields/post/class-allow-comments.php:27
+#: main/frontend/fields/post/class-delete-post.php:27
+#: main/frontend/fields/post/class-featured-image.php:27
+#: main/frontend/fields/post/class-menu-order.php:27
+#: main/frontend/fields/post/class-post-author.php:23
+#: main/frontend/fields/post/class-post-content.php:27
+#: main/frontend/fields/post/class-post-date.php:27
+#: main/frontend/fields/post/class-post-excerpt.php:27
+#: main/frontend/fields/post/class-post-slug.php:27
+#: main/frontend/fields/post/class-post-status.php:12
+#: main/frontend/fields/post/class-post-title.php:27
+#: main/frontend/fields/post/class-post-to-edit.php:27
+#: main/frontend/fields/post/class-post-type.php:27
+#: main/frontend/forms/actions/post.php:25
+#: main/frontend/forms/actions/post.php:188
+#: main/frontend/forms/actions/post.php:387
+#: main/frontend/forms/actions/post.php:439 main/helpers.php:22
+#: main/helpers.php:379
+msgid "Post"
+msgstr "Publication"
+
+#: main/frontend/fields/post/class-post-to-edit.php:343
+#: main/frontend/fields/post/class-post-to-edit.php:444
+msgid "Select Post"
+msgstr "Sélectionner une publication"
+
+#: main/frontend/forms/actions/comment.php:76
+#: main/frontend/forms/actions/post.php:202
+#: main/frontend/forms/actions/post.php:414
+msgid "Current Post"
+msgstr "Publication actuelle"
+
+#: main/frontend/fields/post/class-post-to-edit.php:26
+msgid "Post To Edit"
+msgstr "Publication à modifier"
+
+#: main/frontend/fields/post/class-post-to-edit.php:33
+#: main/frontend/fields/post/class-post-to-edit.php:352
+#: main/frontend/fields/post/class-post-to-edit.php:464
+#: main/frontend/forms/actions/post.php:152
+#: main/frontend/forms/actions/post.php:391
+msgid "New Post"
+msgstr "Nouvelle publication"
+
+#: main/frontend/forms/actions/user.php:103
+#: main/frontend/forms/actions/user.php:256
+msgid "Edit User"
+msgstr "Modifier le compte"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:208
+#: main/frontend/forms/actions/user.php:200
+#: main/frontend/forms/actions/user.php:211
+#: main/frontend/forms/classes/permissions.php:121
+#: main/frontend/forms/classes/permissions.php:132
+msgid "Select By User"
+msgstr "Sélectionner par compte"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:189
+#: main/frontend/forms/classes/permissions.php:97
+msgid "Select By Role"
+msgstr "Sélectionner par rôle"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:156
+#: main/frontend/forms/classes/permissions.php:85
+msgid "Who Can See This..."
+msgstr "Qui peut voir cela&hellip;"
+
+#: main/admin/admin-pages/forms/settings.php:349
+#: main/frontend/forms/classes/permissions.php:23
+msgid "Permissions"
+msgstr "Droits"
+
+#: main/frontend/fields/general/class-upload-file.php:578
+#: main/frontend/fields/general/class-upload-files.php:383
+#: main/frontend/fields/general/class-upload-image.php:212
+#: main/frontend/module.php:45
+msgid "Edit"
+msgstr "Modifier"
+
+#: main/admin/admin-pages/forms/sections/modal.php:17
+#: main/elementor/classes/modal.php:123
+msgid "Modal Button Text"
+msgstr "Texte du bouton de modale"
+
+#: main/elementor/classes/content_tab.php:125
+#: main/elementor/classes/content_tab.php:140
+#: main/elementor/classes/content_tab.php:201
+#: main/elementor/classes/content_tab.php:352
+#: main/elementor/classes/content_tab.php:490
+#: main/elementor/classes/content_tab.php:503
+#: main/elementor/classes/content_tab.php:517
+#: main/elementor/classes/content_tab.php:532
+#: main/elementor/classes/content_tab.php:756
+#: main/elementor/classes/content_tab.php:769
+#: main/elementor/classes/content_tab.php:782
+#: main/elementor/classes/content_tab.php:796
+#: main/elementor/classes/content_tab.php:810
+#: main/elementor/classes/content_tab.php:1053
+#: main/elementor/classes/content_tab.php:1126
+#: main/elementor/classes/content_tab.php:1299
+#: main/elementor/classes/content_tab.php:1454
+#: main/elementor/classes/content_tab.php:1467
+#: main/elementor/classes/content_tab.php:1478
+#: main/elementor/classes/content_tab.php:1552
+#: main/elementor/classes/content_tab.php:1737
+#: main/elementor/classes/content_tab.php:1874
+#: main/elementor/classes/content_tab.php:1954
+#: main/elementor/classes/modal.php:113
+#: main/elementor/widgets/general/acf-form.php:404
+#: main/elementor/widgets/general/acf-form.php:520
+#: main/elementor/widgets/general/acf-form.php:562
+#: main/elementor/widgets/posts/delete_post.php:124
+#: main/elementor/widgets/products/delete_product.php:124
+#: main/elementor/widgets/terms/delete_term.php:125
+#: main/elementor/widgets/users/delete_user.php:159
+#: main/frontend/fields/general/class-true-false.php:84
+#: main/frontend/fields/general/class-true-false.php:185
+#: main/frontend/forms/actions/user.php:349
+#: main/frontend/forms/classes/permissions.php:181
+#: main/frontend/forms/classes/shortcodes.php:886
+msgid "No"
+msgstr "Non"
+
+#: main/elementor/classes/content_tab.php:124
+#: main/elementor/classes/content_tab.php:139
+#: main/elementor/classes/content_tab.php:200
+#: main/elementor/classes/content_tab.php:351
+#: main/elementor/classes/content_tab.php:489
+#: main/elementor/classes/content_tab.php:502
+#: main/elementor/classes/content_tab.php:516
+#: main/elementor/classes/content_tab.php:531
+#: main/elementor/classes/content_tab.php:755
+#: main/elementor/classes/content_tab.php:768
+#: main/elementor/classes/content_tab.php:781
+#: main/elementor/classes/content_tab.php:795
+#: main/elementor/classes/content_tab.php:809
+#: main/elementor/classes/content_tab.php:1052
+#: main/elementor/classes/content_tab.php:1125
+#: main/elementor/classes/content_tab.php:1298
+#: main/elementor/classes/content_tab.php:1453
+#: main/elementor/classes/content_tab.php:1466
+#: main/elementor/classes/content_tab.php:1477
+#: main/elementor/classes/content_tab.php:1538
+#: main/elementor/classes/content_tab.php:1736
+#: main/elementor/classes/content_tab.php:1873
+#: main/elementor/classes/content_tab.php:1953
+#: main/elementor/classes/modal.php:112
+#: main/elementor/widgets/general/acf-form.php:403
+#: main/elementor/widgets/general/acf-form.php:519
+#: main/elementor/widgets/general/acf-form.php:561
+#: main/elementor/widgets/posts/delete_post.php:123
+#: main/elementor/widgets/products/delete_product.php:123
+#: main/elementor/widgets/terms/delete_term.php:124
+#: main/elementor/widgets/users/delete_user.php:158
+#: main/frontend/fields/general/class-true-false.php:81
+#: main/frontend/fields/general/class-true-false.php:169
+#: main/frontend/forms/actions/user.php:348
+#: main/frontend/forms/classes/permissions.php:180
+#: main/frontend/forms/classes/shortcodes.php:885
+msgid "Yes"
+msgstr "Oui"
+
+#: main/admin/admin-pages/forms/sections/modal.php:9
+#: main/elementor/classes/modal.php:110
+msgid "Show in Modal"
+msgstr "Afficher dans une modale"
+
+#: main/admin/admin-pages/plans/crud.php:211
+#: main/admin/admin-pages/submissions/crud.php:338
+#: main/elementor/widgets/general/acf-form.php:61
+#: main/frontend/fields/general/class-upload-files.php:680
+#: main/frontend/forms/classes/form-display.php:179
+#: main/frontend/forms/classes/form-display.php:1595
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: main/elementor/widgets/general/acf-form.php:247
+msgid "Submit Button Text"
+msgstr "Texte du bouton « Envoyer »"
+
+#: main/frontend/forms/actions/user.php:335
+msgid "Hide"
+msgstr "Masquer"
+
+#: main/frontend/forms/actions/user.php:336
+msgid "Show"
+msgstr "Afficher"
+
+#: main/elementor/widgets/general/edit_button.php:151
+#: main/elementor/widgets/general/edit_button.php:152
+#: main/frontend/forms/actions/post.php:151
+#: main/frontend/forms/actions/post.php:390
+msgid "Edit Post"
+msgstr "Modifier une publication"
+
+#: main/admin/admin-pages/forms/settings.php:556
+#: main/elementor/widgets/general/acf-form.php:228
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:163
+#: main/frontend/fields/general/class-related-items.php:937
+#: main/frontend/forms/classes/permissions.php:76
+msgid "All Users"
+msgstr "Tous les comptes"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:162
+#: main/frontend/forms/classes/permissions.php:75
+msgid "Only Logged Out"
+msgstr "Uniquement ceux déconnectés"
+
+#: main/admin/admin-pages/forms/sections/permissions.php:161
+#: main/frontend/forms/classes/permissions.php:74
+msgid "Only Logged In Users"
+msgstr "Uniquement pour les utilisateurs/utilisatrices connectés"
+
+#: main/plugin.php:341
+msgid "PHP"
+msgstr "PHP"
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: main/plugin.php:339
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" nécessite \"%2$s\" version %3$s ou supérieure."
+
+#. translators: 1: Plugin name 2: Advanced Custom Fields
+#: main/plugin.php:316
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "« %1$s » nécessite que « %2$s » soit installé et activé."
+
+#. Author of the plugin
+msgid "Shabti Kaplan"
+msgstr "Shabti Kaplan"

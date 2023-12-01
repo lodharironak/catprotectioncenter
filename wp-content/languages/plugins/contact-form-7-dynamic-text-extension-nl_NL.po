@@ -1,0 +1,400 @@
+# Translation of Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-23 11:31:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release)\n"
+
+#: includes/admin.php:329
+msgid "Make checkboxes exclusive"
+msgstr "Maak selectievakjes exclusief"
+
+#: includes/admin.php:322
+msgid "Exclusive"
+msgstr "Exclusief"
+
+#: includes/admin.php:423
+msgid "May impact page performance."
+msgstr "Kan de paginaprestaties beïnvloeden."
+
+#: contact-form-7-dynamic-text-extension.php:102
+msgid "a numeric input field displayed as a slider between a minimum and maximum range"
+msgstr "een numeriek invoerveld dat wordt weergegeven als een slider tussen een minimum- en maximumbereik"
+
+#: contact-form-7-dynamic-text-extension.php:97
+msgid "a numeric input field displayed as a number spinbox"
+msgstr "een numeriek invoerveld weergegeven als een numerieke spinbox"
+
+#: includes/validation.php:218
+msgid "The dynamic email address for the sender does not belong to the site domain."
+msgstr "Het dynamische e-mailadres van de afzender behoort niet tot het site domein."
+
+#: includes/validation.php:213
+msgid "The default dynamic value does not result in a valid email address."
+msgstr "De standaard dynamische waarde resulteert niet in een geldig e-mailadres."
+
+#: includes/validation.php:207
+msgid "The dynamic form tag must be required or have a default value."
+msgstr "De dynamische formulier tag moet vereist zijn of een standaardwaarde hebben."
+
+#: includes/validation.php:202
+msgid "The dynamic hidden form tag must have a default value."
+msgstr "De dynamische verborgen formulier tag moet een standaardwaarde hebben."
+
+#: includes/validation.php:195
+msgid "Only email, dynamic email, hidden, or dynamic hidden form tags can be used for email addresses."
+msgstr "Alleen e-mail, dynamische e-mail, verborgen of dynamische verborgen formulier tags kunnen worden gebruikt voor e-mailadressen."
+
+#: includes/validation.php:29
+msgid "Please enter a valid date."
+msgstr "Voer een geldige datum in."
+
+#: includes/validation.php:28
+msgid "There is a field with an invalid date"
+msgstr "Er is een veld met een ongeldige datum"
+
+#: includes/validation.php:25
+msgid "Please enter a valid number."
+msgstr "Voer een geldig nummer in."
+
+#: includes/validation.php:24
+msgid "There is a field with an invalid number"
+msgstr "Er is een veld met een ongeldig getal"
+
+#: includes/validation.php:21
+msgid "Please enter a valid phone number."
+msgstr "Voer een geldig telefoonnummer in."
+
+#: includes/validation.php:20
+msgid "There is a field with an invalid phone number"
+msgstr "Er is een veld met een ongeldig telefoonnummer"
+
+#: includes/validation.php:17
+msgid "Please enter a valid email address."
+msgstr "Geef een geldig e-mailadres op."
+
+#: includes/validation.php:16
+msgid "There is a field with an invalid email address"
+msgstr "Er is een veld met een ongeldig e-mailadres"
+
+#: includes/admin.php:449
+msgid "Akismet"
+msgstr "Akismet"
+
+#: includes/admin.php:443
+msgid "This field requires author's name"
+msgstr "Dit veld vereist de naam van de auteur"
+
+#: includes/admin.php:439
+msgid "This field requires author's URL"
+msgstr "Dit veld vereist de site URL van de auteur"
+
+#: includes/admin.php:435
+msgid "This field requires author's email address"
+msgstr "Dit veld vereist het e-mailadres van de auteur"
+
+#: includes/admin.php:349
+msgid "Selected Default"
+msgstr "Standaard geselecteerd"
+
+#: includes/admin.php:343
+msgid "Optionally define the option that is selected by default. This can be different than the first [blank] option. If options use key/value pairs, only define the key here."
+msgstr "Definieer optioneel de optie die standaard wordt geselecteerd. Dit kan anders zijn dan de eerste [leeg] optie. Als opties sleutel/waarde paren gebruiken, definieer dan alleen de sleutel hier."
+
+#: includes/admin.php:340
+msgid "Optionally define the default on/off status of the checkboxes by putting a 1 (checked) or 0 (not checked) on each line that corresponds with the options."
+msgstr "Definieer optioneel de standaard aan/uit status van de selectievakjes door een 1 (aangevinkt) of 0 (niet aangevinkt) te zetten op elke regel die overeenkomt met de opties."
+
+#: includes/admin.php:314
+msgid "Wrap each item with label element"
+msgstr "Omwikkel elk item met een label element"
+
+#: includes/admin.php:307
+msgid "Label"
+msgstr "Label"
+
+#: includes/admin.php:300
+msgid "Put a label first, an input last"
+msgstr "Zet eerst een label, dan pas een invoer"
+
+#: includes/admin.php:293
+msgid "Reverse"
+msgstr "Omgekeerd"
+
+#: includes/admin.php:279
+msgid "Disable the first blank option from being selectable in the drop-down"
+msgstr "De eerste lege optie uitschakelen zodat deze niet kan worden geselecteerd in het dropdown"
+
+#: includes/admin.php:272
+msgid "Disable First Option"
+msgstr "Eerste optie uitschakelen"
+
+#: includes/admin.php:265 includes/admin.php:283 includes/admin.php:365
+msgid "View Dynamic Select documentation"
+msgstr "Bekijk de documentatie voor dynamisch selecteren"
+
+#: includes/admin.php:262 includes/admin.php:280
+msgid "Optional. Only works if \"First Option\" is checked."
+msgstr "Optioneel. Werkt alleen als \"Eerste optie\" is aangevinkt."
+
+#: includes/admin.php:261
+msgid "Hide the first blank option from being visible in the drop-down"
+msgstr "Verberg dat de eerste lege optie niet zichtbaar is in de dropdown"
+
+#: includes/admin.php:254
+msgid "Hide First Option"
+msgstr "Eerste optie verbergen"
+
+#: includes/admin.php:218
+msgid "Optionally define a label for the first option."
+msgstr "Definieer optioneel een label voor de eerste optie."
+
+#: includes/admin.php:217
+msgid "First Option Label"
+msgstr "Label eerste optie"
+
+#: includes/admin.php:209
+msgid "Insert a blank item as the first option"
+msgstr "Voer een leeg item in als eerste optie"
+
+#: includes/admin.php:202
+msgid "First Option"
+msgstr "Eerste optie"
+
+#: includes/admin.php:195
+msgid "Allow user to select multiple options"
+msgstr "Gebruiker meerdere opties laten kiezen"
+
+#: includes/admin.php:188
+msgid "Multiple Options"
+msgstr "Meerdere opties"
+
+#: includes/admin.php:159
+msgid "If shortcode, it must return only option or optgroup HTML."
+msgstr "Als het shortcode is, moet het alleen optie of optgroup HTML retourneren."
+
+#: includes/admin.php:151
+msgid "If shortcode, it must return only option or optgroup HTML and can override the first option and select default settings here."
+msgstr "Als het shortcode is, moet het alleen optie of optgroup HTML teruggeven en kan het de eerste optie opheffen en hier standaardinstellingen selecteren."
+
+#: includes/admin.php:150 includes/admin.php:158
+msgid "If static text, use one option per line. Can define static key/value pairs using pipes."
+msgstr "Gebruik bij statische tekst één optie per regel. Kan statische sleutel/waarde paren definiëren met behulp van pijpen."
+
+#: includes/admin.php:149 includes/admin.php:157
+msgid "Dynamic options"
+msgstr "Dynamische opties"
+
+#: includes/admin.php:88
+msgid "View this form-tag on the DTX Documentation website"
+msgstr "Bekijk deze formulier tag op de DTX documentatie site"
+
+#: includes/admin.php:80
+msgid "Generate a form-tag for %s with a dynamic default value. For more details, see %s fields in the %s."
+msgstr "Genereer een formulier tag voor %s met een dynamische standaardwaarde. Voor meer details, zie %s velden in de %s."
+
+#: contact-form-7-dynamic-text-extension.php:463
+msgid "Send"
+msgstr "Stuur"
+
+#: contact-form-7-dynamic-text-extension.php:460
+msgid "Clear"
+msgstr "Wissen"
+
+#: contact-form-7-dynamic-text-extension.php:328
+msgid "&#8212;Please choose an option&#8212;"
+msgstr "&#8212;Kies een optie&#8212;"
+
+#: contact-form-7-dynamic-text-extension.php:143
+msgid "a submit button"
+msgstr "een verzendknop"
+
+#: contact-form-7-dynamic-text-extension.php:141
+msgid "dynamic submit"
+msgstr "dynamisch verzenden"
+
+#: contact-form-7-dynamic-text-extension.php:138
+msgid "a date input field"
+msgstr "een invoerveld voor datum"
+
+#: contact-form-7-dynamic-text-extension.php:136
+msgid "dynamic date"
+msgstr "dynamische datum"
+
+#: contact-form-7-dynamic-text-extension.php:129
+msgid "a group of radio buttons"
+msgstr "een groep van keuzerondjes"
+
+#: contact-form-7-dynamic-text-extension.php:127
+msgid "dynamic radio buttons"
+msgstr "dynamische keuzerondjes"
+
+#: contact-form-7-dynamic-text-extension.php:120
+msgid "a group of checkboxes"
+msgstr "een groep van selectievakjes"
+
+#: contact-form-7-dynamic-text-extension.php:118
+msgid "dynamic checkboxes"
+msgstr "dynamische selectievakjes"
+
+#: contact-form-7-dynamic-text-extension.php:112
+msgid "a drop-down menu (i.e select input field)"
+msgstr "een dropdown menu (d.w.z. invoerveld selecteren)"
+
+#: contact-form-7-dynamic-text-extension.php:110
+msgid "dynamic drop-down menu"
+msgstr "dynamisch drop-down menu"
+
+#: contact-form-7-dynamic-text-extension.php:107
+msgid "a multi-line plain text input field"
+msgstr "een invoerveld met meerdere regels platte tekst"
+
+#: contact-form-7-dynamic-text-extension.php:105
+msgid "dynamic textarea"
+msgstr "dynamisch tekst veld"
+
+#: contact-form-7-dynamic-text-extension.php:100
+msgid "dynamic range"
+msgstr "dynamisch bereik"
+
+#: contact-form-7-dynamic-text-extension.php:95
+msgid "dynamic number"
+msgstr "dynamisch nummer"
+
+#: contact-form-7-dynamic-text-extension.php:92
+msgid "a single-line telephone number input field"
+msgstr "een éénregelig invoerveld voor een telefoonnummer"
+
+#: contact-form-7-dynamic-text-extension.php:90
+msgid "dynamic tel"
+msgstr "dynamische tel"
+
+#: contact-form-7-dynamic-text-extension.php:87
+msgid "a single-line URL input field"
+msgstr "een éénregelig URL invoerveld"
+
+#: contact-form-7-dynamic-text-extension.php:85
+msgid "dynamic URL"
+msgstr "dynamische URL"
+
+#: contact-form-7-dynamic-text-extension.php:82
+msgid "a single-line email address input field"
+msgstr "een éénregelig e-mailadres invoerveld"
+
+#: contact-form-7-dynamic-text-extension.php:80
+msgid "dynamic email"
+msgstr "dynamische e-mail"
+
+#: contact-form-7-dynamic-text-extension.php:74
+msgid "a single-line plain text hidden input field"
+msgstr "een éénregelig verborgen invoerveld met platte tekst"
+
+#: contact-form-7-dynamic-text-extension.php:69
+msgid "a single-line plain text"
+msgstr "een éénregelige platte tekst"
+
+#: includes/admin.php:426
+msgid "View DTX page load documentation"
+msgstr "Documentatie over DTX pagina laden bekijken"
+
+#: includes/admin.php:422
+msgid "Get the dynamic value after the page has loaded"
+msgstr "De dynamische waarde ophalen nadat de pagina is geladen"
+
+#: includes/admin.php:415
+msgid "Cache Compatible"
+msgstr "Cache compatibel"
+
+#: includes/admin.php:96
+msgid "Go to DTX Documentation website"
+msgstr "Ga naar de site van de DTX documentatie"
+
+#. Author of the plugin
+msgid "SevenSpark, AuRise Creative"
+msgstr "SevenSpark, AuRise Creative"
+
+#. Plugin URI of the plugin
+msgid "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+msgstr "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+
+#: includes/admin.php:407
+msgid "Do not let users edit this field"
+msgstr "Laat gebruikers dit veld niet bewerken"
+
+#: includes/admin.php:400
+msgid "Read only attribute"
+msgstr "Alleen-lezen kenmerk"
+
+#: includes/admin.php:243
+msgid "View DTX placeholder documentation"
+msgstr "Bekijk DTX plaatshouder documentatie"
+
+#: includes/admin.php:220
+msgid "Dynamic placeholder"
+msgstr "Dynamische plaatshouder"
+
+#: includes/admin.php:180
+msgid "View DTX shortcode syntax documentation"
+msgstr "Bekijk de syntaxis documentatie van de DTX shortcode"
+
+#: includes/admin.php:140 includes/admin.php:222 includes/admin.php:345
+msgid "Can be static text or a shortcode."
+msgstr "Kan statische tekst of een shortcode zijn."
+
+#: includes/admin.php:97
+msgid "DTX knowledge base"
+msgstr "DTX kennisbank"
+
+#. Description of the plugin
+msgid "This plugin extends Contact Form 7 by adding dynamic form fields that accept any shortcode to generate default values and placeholder text. Requires Contact Form 7."
+msgstr "Deze plugin breidt Contact Form 7 uit door dynamische formuliervelden toe te voegen die elke shortcode aanvaarden om standaardwaarden en plaatshoudertekst te genereren. Vereist Contact Form 7."
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr "Contact Form 7 - Dynamic Text Extension"
+
+#. Author URI of the plugin
+msgid "https://sevenspark.com"
+msgstr "https://sevenspark.com"
+
+#: includes/admin.php:464
+msgid "Insert Tag"
+msgstr "Tag invoegen"
+
+#: includes/admin.php:386
+msgid "Class attribute"
+msgstr "Klasse attribuut"
+
+#: includes/admin.php:373
+msgid "Id attribute"
+msgstr "Id attribuut"
+
+#: includes/admin.php:139
+msgid "Dynamic value"
+msgstr "Dynamische waarde"
+
+#: includes/admin.php:127
+msgid "Name"
+msgstr "Naam"
+
+#: includes/admin.php:118
+msgid "Required field"
+msgstr "Vereist veld"
+
+#: includes/admin.php:112
+msgid "Field type"
+msgstr "Veld type"
+
+#: contact-form-7-dynamic-text-extension.php:72
+msgid "dynamic hidden"
+msgstr "dynamisch verborgen"
+
+#: contact-form-7-dynamic-text-extension.php:67
+msgid "dynamic text"
+msgstr "dynamische tekst"

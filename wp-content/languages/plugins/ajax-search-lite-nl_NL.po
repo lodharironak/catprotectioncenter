@@ -1,0 +1,755 @@
+# Translation of Plugins - Ajax Search Lite - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Ajax Search Lite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-27 20:48:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Ajax Search Lite - Stable (latest release)\n"
+
+#: backend/tabs/instance/general/behavior.php:21
+msgid "Anywhere"
+msgstr "Overal"
+
+#: backend/tabs/instance/general/behavior.php:22
+msgid "Starting with phrase"
+msgstr "Beginnend met zin"
+
+#: backend/tabs/instance/general/behavior.php:23
+msgid "Ending with phrase"
+msgstr "Eindigend met zin"
+
+#: backend/tabs/instance/advanced/exclude_results.php:20
+msgid "Exclude hidden search WooCommerce products from search?"
+msgstr "WooCommerce producten voor verborgen zoekopdrachten uitsluiten van zoeken?"
+
+#: backend/tabs/instance/general/sources.php:83
+msgid "Search and return password protected posts?"
+msgstr "Met een wachtwoord beveiligde berichten zoeken en retourneren?"
+
+#: backend/tabs/instance/general/behavior.php:24
+msgid "Complete match"
+msgstr "Volledige overeenkomst"
+
+#: backend/analytics.php:305
+msgid "Save options"
+msgstr "Bewaar instellingen"
+
+#: backend/analytics.php:304
+msgid "Restore defaults"
+msgstr "Herstel de standaardwaarden"
+
+#: backend/analytics.php:276
+msgid "Results click event tracking"
+msgstr "Resultaten klik gebeurtenis tracking"
+
+#: backend/analytics.php:257 backend/analytics.php:282
+msgid "Triggers, whenever the user changes any option on the front-end settings"
+msgstr "Triggers, wanneer de gebruiker een optie wijzigt op de front-end instellingen"
+
+#: backend/analytics.php:251
+msgid "Facet change event tracking"
+msgstr "Facet gebeurtenis tracking wijzigen"
+
+#: backend/analytics.php:232
+msgid "Triggers, whenever the user hits the enter button in the search input field"
+msgstr "Triggers, wanneer de gebruiker op de enter knop in het zoek invoerveld drukt"
+
+#: backend/analytics.php:226
+msgid "Return key event tracking"
+msgstr " Toets gebeurtenis tracking retourneren"
+
+#: backend/analytics.php:207
+msgid "Triggers, whenever the user clicks the magnifier icon"
+msgstr "Triggers, wanneer de gebruiker op het pictogram vergrootglas klikt"
+
+#: backend/analytics.php:201
+msgid "Magnifier click event tracking"
+msgstr "Vergrootglas klik gebeurtenis tracking"
+
+#: backend/analytics.php:182
+msgid "Triggers, whenever the live search ends."
+msgstr "Triggers, wanneer het live zoeken eindigt."
+
+#: backend/analytics.php:176
+msgid "Live search end event tracking"
+msgstr "Live zoeken einde gebeurtenis tracking"
+
+#: backend/analytics.php:157
+msgid "Triggers, whenever the live search starts."
+msgstr "Triggers, wanneer de live search begint."
+
+#: backend/analytics.php:151
+msgid "Live search start event tracking"
+msgstr "Live zoeken start event tracking"
+
+#: backend/analytics.php:146 backend/analytics.php:171
+#: backend/analytics.php:196 backend/analytics.php:221
+#: backend/analytics.php:246 backend/analytics.php:271
+#: backend/analytics.php:296
+msgid "Event value"
+msgstr "Gebeurteniswaarde"
+
+#: backend/analytics.php:145 backend/analytics.php:170
+#: backend/analytics.php:195 backend/analytics.php:220
+#: backend/analytics.php:245 backend/analytics.php:270
+#: backend/analytics.php:295
+msgid "Event label"
+msgstr "Gebeurtenis label"
+
+#: backend/analytics.php:144 backend/analytics.php:169
+#: backend/analytics.php:194 backend/analytics.php:219
+#: backend/analytics.php:244 backend/analytics.php:269
+#: backend/analytics.php:294
+msgid "Event category"
+msgstr "Evenement categorie"
+
+#: backend/analytics.php:143 backend/analytics.php:168
+#: backend/analytics.php:193 backend/analytics.php:218
+#: backend/analytics.php:243 backend/analytics.php:268
+#: backend/analytics.php:293
+msgid "Event action"
+msgstr "Gebeurtenis actie"
+
+#: backend/analytics.php:138 backend/analytics.php:163
+#: backend/analytics.php:188 backend/analytics.php:213
+#: backend/analytics.php:238 backend/analytics.php:263
+#: backend/analytics.php:288
+msgid "Usable variables: %s"
+msgstr "Bruikbare variabelen: %s"
+
+#: backend/analytics.php:132
+msgid "Triggers, whenever the user clicks on the search input field."
+msgstr "Triggers, wanneer de gebruiker klikt op het veld zoekinvoer."
+
+#: backend/analytics.php:129 backend/analytics.php:154
+#: backend/analytics.php:179 backend/analytics.php:204
+#: backend/analytics.php:229 backend/analytics.php:254
+#: backend/analytics.php:279
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: backend/analytics.php:126
+msgid "Search input focus event tracking"
+msgstr "Evenement tracking voor zoek ingave focus"
+
+#: backend/analytics.php:102
+msgid "Google analytics Tracking ID (ex.: UA-XXXXXX-X)"
+msgstr "Google analytics Tracking ID (ex.: UA-XXXXXX-X)"
+
+#: backend/analytics.php:95
+msgid "To understand how this works, please read the <a href=\"%s\">Analytics Integration Documentation</a>"
+msgstr "Lees de <a href=\"%s\">analyse-integratiedocumentatie</a> om te begrijpen hoe dit werkt."
+
+#: backend/analytics.php:89
+msgid "Tracking as pageview (legacy)"
+msgstr "Bijhouden als paginaweergave (legacy)"
+
+#: backend/analytics.php:88
+msgid "Event Tracking"
+msgstr "Gebeurtenis tracking"
+
+#: backend/analytics.php:87
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: backend/analytics.php:72 backend/performance_options.php:19
+#: backend/settings.php:23
+msgid "<strong>ERROR Saving:</strong> Invalid NONCE, please try again!"
+msgstr "<strong>FOUT opslaan:</strong> Ongeldige NONCE, probeer het opnieuw!"
+
+#: backend/analytics.php:70
+msgid "Analytics settings saved!"
+msgstr "Analytics instellingen opgeslagen!"
+
+#: backend/analytics.php:14
+msgid "<strong>ERROR Resetting:</strong> Invalid NONCE, please try again!"
+msgstr "<strong>FOUT opnieuw instellen:</strong> Ongeldige NONCE, probeer het opnieuw!"
+
+#: backend/analytics.php:12
+msgid "Analytics settings were reset to defaults!"
+msgstr "Analytics-instellingen zijn gereset naar standaardinstellingen!"
+
+#: backend/tabs/instance/layout/results_layout.php:41
+msgid "Number of result columns"
+msgstr "Aantal resultaat kolommen"
+
+#: backend/settings/class/textsmall.class.php:47
+msgid "Desktop devices, 1025px width  and higher"
+msgstr "Desktop apparaten met een breedte van 1025 px en hoger"
+
+#: backend/tabs/instance/layout/box_layout.php:58
+#: backend/tabs/instance/layout/results_layout.php:34
+#: backend/tabs/instance/layout/results_layout.php:74
+msgid "Use with <a href=\"%s\" target=\"_blank\">CSS units</a> (like %s or %s or %s ..) Default: <strong>%s</strong>"
+msgstr "Gebruiken met <a href=\"%s\" target=\"_blank\">CSS-eenheden</a> (zoals %s of %s of %s ..) Standaard: <strong>%s</strong>"
+
+#: backend/tabs/instance/layout/results_layout.php:56
+msgid "Column minimum width (px)"
+msgstr "Kolom minimum breedte (px)"
+
+#: backend/settings/class/textsmall.class.php:46
+msgid "Tablet devices, on 641px to 1024px widths"
+msgstr "Tabletapparaten, op breedtes van 641 px tot 1024 px"
+
+#: backend/settings/class/textsmall.class.php:45
+msgid "Phone devices, on 0px to 640px widths"
+msgstr "Telefoon apparaten, op 0px tot 640px-breedtes"
+
+#: backend/tabs/instance/general/behavior.php:209
+msgid ""
+"<strong>WARNING:</strong> This should be set to the same as the number of results originally displayed on the results page!<br>\n"
+"        Most themes use the system option found on the <strong>General Options -> Reading</strong> submenu, which is 10 by default. <br>\n"
+"        If you set it differently, or your theme has a different option for that, then <strong>set this option to the same value</strong> as well."
+msgstr "<strong>WAARSCHUWING:</strong> Dit moet worden ingesteld op hetzelfde als het aantal resultaten oorspronkelijk weergegeven op de resultaten pagina!<br>De meeste thema's gebruiken de systeemoptie in het submenu <strong>Algemene opties -> Lezen,</strong> dat standaard 10 is.<br>Als u het anders instelt, of als uw thema daar een andere optie voor heeft, stelt u deze optie ook <strong>in op dezelfde waarde.</strong>"
+
+#: backend/tabs/instance/general/behavior.php:203
+msgid "Results count per page?"
+msgstr "Aantal resultaten per pagina?"
+
+#: backend/tabs/instance/general/behavior.php:207
+msgid "The number of results per page, on the results page."
+msgstr "Het aantal resultaten per pagina, op de resultatenpagina."
+
+#: backend/tabs/instance/general/sources.php:75
+msgid "Post statuses to search"
+msgstr "Plaats statussen om te zoeken"
+
+#: backend/tabs/instance/general/sources.php:79
+msgid "Comma separated list. WP Defaults: publish, future, draft, pending, private, trash, auto-draft"
+msgstr "Komma gescheiden lijst. WP-standaardinstellingen: publiceren, toekomst, concept, in behandeling, privé, prullenbak, automatisch concept"
+
+#: backend/tabs/instance/layout/custom_css.php:7
+#: backend/tabs/instance/layout_options.php:6
+#: backend/tabs/instance/layout_options.php:41
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: backend/tabs/instance/layout/custom_css.php:2
+msgid ""
+"This css will be added before the plugin as inline CSS so it has a precedence\n"
+"    over plugin CSS. (you can override existing rules)"
+msgstr ""
+"Deze css zal worden toegevoegd voordat de plugin als inline CSS, zodat het een voorrang heeft\n"
+"    over plugin CSS. (u bestaande regels overschrijven)"
+
+#: backend/tabs/instance/general/behavior.php:38
+msgid "AND"
+msgstr "AND"
+
+#: backend/tabs/instance/general/behavior.php:39
+msgid "AND with exact word matches"
+msgstr "EN met exacte woordovereenkomsten"
+
+#: backend/tabs/instance/general/behavior.php:49
+msgid "Please note: For <strong>performance rasons</strong> exact word matching in the Lite version is only able to check space-separated words. Commas, dots, question marks etc.. are not considered as word separators."
+msgstr "Let op: voor <strong>prestatie redenen</strong>Exacte woord matching in de Lite-versie is alleen in staat om door spaties gescheiden woorden te controleren. Komma's, puntjes, vraagtekens, enz. worden niet beschouwd als woordscheidingstekens."
+
+#: backend/tabs/instance/general/behavior.php:46
+msgid "This determines if the result should match either of the entered phrases (OR logic) or all of the entered phrases (AND logic)."
+msgstr "Dit bepaalt of het resultaat overeenkomt met een van de ingevoerde frases (OF-logica) of alle ingevoerde frases (AND-logica)."
+
+#: backend/tabs/instance/general/behavior.php:36
+msgid "OR"
+msgstr "OF"
+
+#: backend/tabs/instance/general/behavior.php:37
+msgid "OR with exact word matches"
+msgstr "OR met exacte woord overeenkomsten"
+
+#: backend/tabs/instance/layout/box_layout.php:93
+#: backend/tabs/instance/layout/box_layout.php:144
+#: backend/tabs/instance/layout/box_layout.php:158
+#: backend/tabs/instance/layout/box_layout.php:191
+msgid "color:"
+msgstr "kleur:"
+
+#: backend/tabs/instance/layout/box_layout.php:127
+#: backend/tabs/instance/layout/box_layout.php:174
+#: backend/tabs/instance/layout/box_layout.php:207
+msgid "Border style"
+msgstr "Randstijl"
+
+#: backend/tabs/instance/layout/box_layout.php:87
+msgid "Override background color?"
+msgstr "Achtergrondkleur overschrijven?"
+
+#: backend/tabs/instance/layout/box_layout.php:79
+msgid "Search plugin Font Family"
+msgstr "Zoek  plugin  Font Family"
+
+#: backend/tabs/instance/layout/box_layout.php:107
+msgid "icon background colors"
+msgstr "achtergrond kleuren voor pictogram"
+
+#: backend/tabs/instance/layout/box_layout.php:82
+msgid "The Font Family used within the plugin. Default: Open Sans"
+msgstr "De Font Family gebruikt binnen de plugin. Standaard: Open Sans"
+
+#: backend/tabs/instance/layout/box_layout.php:83
+msgid "Entering multiple font family names like <strong>Helvetica, Sans-serif</strong> or <strong>inherit</strong> are also supported."
+msgstr "Het invoeren van meerdere lettertype familie namen zoals <strong>Helvetica, Sans-serif </strong> of <strong>erven</strong> worden ook ondersteund."
+
+#: backend/tabs/instance/layout/box_layout.php:101
+msgid "Override magnifier & icon colors?"
+msgstr "Vergrootglas & pictogram kleuren overschrijven?"
+
+#: backend/tabs/instance/layout/box_layout.php:120
+msgid "Override search box border?"
+msgstr "Zoekvak rand overschrijven?"
+
+#: backend/tabs/instance/layout/box_layout.php:111
+msgid "icon colors"
+msgstr "pictogram kleuren"
+
+#: backend/tabs/instance/advanced/exclude_results.php:34
+msgid "Exclude WooCommerce out of stock products?"
+msgstr "Uitsluiten WooCommerce uit voorraad producten?"
+
+#: backend/tabs/instance/general/behavior.php:125
+#: backend/tabs/instance/general/behavior.php:156
+msgid "Do nothing"
+msgstr "Doe niets"
+
+#: backend/tabs/instance/layout/results_layout.php:89
+msgid "Used to calculate the box height. Result box height = (this option) x (average item height)"
+msgstr "Gebruikt om de dooshoogte te berekenen . Resultaat box height = (Deze optie) x (gemiddeld punt hoogte)"
+
+#: backend/tabs/instance/general/behavior.php:148
+msgid "Action when pressing <strong>the return</strong> key"
+msgstr "Actie bij het indrukken van <strong>de return toets</strong>"
+
+#: backend/tabs/instance/general/behavior.php:117
+msgid "Action when clicking <strong>the magnifier</strong> icon"
+msgstr "Actie bij het klikken op het pictogram <strong>vergrootglas</strong>"
+
+#: backend/tabs/instance/layout/results_layout.php:83
+msgid "If this value is reached, the scrollbar will definitely trigger. none or pixel units, like 800px. Default: none"
+msgstr "Als deze waarde wordt bereikt, zal de schuifbalk zeker worden geactiveerd. geen of pixeleenheden, zoals 800px. Standaard: geen"
+
+#: backend/tabs/instance/general/behavior.php:120
+#: backend/tabs/instance/general/behavior.php:151
+msgid "Trigger live search"
+msgstr "Live zoeken activeren"
+
+#: backend/tabs/instance/general/behavior.php:122
+#: backend/tabs/instance/general/behavior.php:153
+msgid "Redirec to: Woocommerce results page"
+msgstr "Redirect naar: Woocommerce resultaten pagina"
+
+#: backend/tabs/instance/layout/results_layout.php:80
+msgid "Result box maximum height"
+msgstr "Resultaat vak maximale hoogte"
+
+#: backend/tabs/instance/general/behavior.php:123
+#: backend/tabs/instance/general/behavior.php:154
+msgid "Redirec to: First matching result"
+msgstr "Redirect naar: Eerst overeen komende resultaat"
+
+#: backend/tabs/instance/general/behavior.php:121
+#: backend/tabs/instance/general/behavior.php:152
+msgid "Redirec to: Results page"
+msgstr "Redirect naar: Resultaten pagina"
+
+#: backend/tabs/instance/general/behavior.php:124
+#: backend/tabs/instance/general/behavior.php:155
+msgid "Redirec to: Custom URL"
+msgstr "Omleiden naar: aangepaste URL"
+
+#: backend/tabs/instance/layout/results_behaviour.php:3
+msgid "Open the results in a new window?"
+msgstr "Open resultaten in een nieuw venster?"
+
+#: backend/tabs/instance/advanced/exclude_results.php:27
+msgid "Exclude hidden catalog WooCommerce products from search?"
+msgstr "Sluit verborgen WooCommerce producten uit van zoeken ?"
+
+#: backend/tabs/instance/general/behavior.php:178
+msgid "Custom redirect URL"
+msgstr "Aangepaste omleiding URL"
+
+#: backend/tabs/instance/advanced/exclude_results.php:11
+msgid "Polylang compatibility"
+msgstr "Polylang compatibiliteit"
+
+#: backend/tabs/instance/general/sources.php:47
+msgid "Search in permalinks?"
+msgstr "Zoek in permalinks?"
+
+#: backend/tabs/instance/general/sources.php:12
+msgid "Try to replace the WooCommerce search with Ajax Search Lite form?"
+msgstr "Probeer het WooCommerce- zoekveld te vervangen door het Ajax Search Lite formulier?"
+
+#: backend/tabs/instance/general/sources.php:68
+msgid "..or search in selected custom fields?"
+msgstr "..of zoeken in geselecteerde aangepaste velden?"
+
+#: backend/tabs/instance/general/behavior.php:34
+msgid "Keyword (phrase) logic?"
+msgstr "Keyword (phrase) logic?"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:19
+msgid "Highlight whole words only?"
+msgstr "Alleen hele woorden markeren?"
+
+#: backend/tabs/instance/layout_options.php:5
+msgid "Keyword Highlighting"
+msgstr "Sleutelwoord markering"
+
+#: backend/tabs/instance/layout/box_layout.php:67
+msgid "Include the unit as well, example: 10px or 1em or 90%"
+msgstr "Neem ook de eenheid op, bijvoorbeeld: 10px of 1em of 90%"
+
+#: backend/tabs/instance/general/sources.php:7
+#: backend/tabs/instance/general/sources.php:16
+msgid "Works with most themes, which use the searchform.php theme file to display their search forms."
+msgstr "Werkt met de meeste thema's , waarbij de searchform.php gebruiken thema bestand om hun weer te geven search vormen."
+
+#: backend/tabs/instance/layout/box_layout.php:40
+msgid "Search box width"
+msgstr "Breedte van het zoek vak"
+
+#: backend/tabs/instance/general/behavior.php:185
+msgid "Override the default WordPress search results?"
+msgstr "De standaard WordPress zoek resultaten overschrijven?"
+
+#: backend/tabs/instance/advanced/content.php:13
+msgid "Removing shortcode is usually much faster, especially if you have many of them within posts."
+msgstr "Het verwijderen van shortcode is meestal veel sneller, vooral als je er veel van hebt binnen berichten."
+
+#: backend/tabs/instance/layout/box_layout.php:66
+msgid "Search box margin"
+msgstr "Marge van het zoek vak"
+
+#: backend/tabs/instance/general/behavior.php:83
+msgid "Will trigger a search when the user clicks on a checkbox on the front-end."
+msgstr "Zal leiden tot een zoekopdracht wanneer de gebruiker klikt op een selectievakje op de front-end."
+
+#: backend/tabs/instance/general/sources.php:3
+msgid "Try to replace the theme search with Ajax Search Lite form?"
+msgstr "Vervang het zoekveld van je thema door het Ajax Search Lite formulier?"
+
+#: backend/tabs/instance/general/behavior.php:199
+msgid "Might not work with some Themes."
+msgstr "Werkt misschien niet met een aantal thema's."
+
+#: backend/tabs/instance/advanced/content.php:3
+msgid "What to do with shortcodes in results content?"
+msgstr "Wat te doen met shortcodes in de resultaten van de inhoud?"
+
+#: backend/tabs/instance/advanced/exclude_results.php:5
+msgid "WPML compatibility"
+msgstr "WPML compatibiliteit"
+
+#: backend/tabs/instance/layout/box_layout.php:25
+msgid "Theme"
+msgstr "Thema"
+
+#. Author of the plugin
+msgid "Ernest Marcinko"
+msgstr "Ernest Marcinko"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-dreams.com"
+msgstr "http://wp-dreams.com"
+
+#. Plugin Name of the plugin
+msgid "Ajax Search Lite"
+msgstr "Ajax Search Lite"
+
+#: backend/settings.php:158
+msgid "Advanced Options"
+msgstr "Geavanceerde opties"
+
+#: backend/analytics.php:120
+msgid "After some time you should be able to see the hits on your analytics board."
+msgstr "Na verloop van tijd je moet in staat zijn om de treffers te zien op je analytics boord."
+
+#: backend/tabs/instance/image_options.php:79
+msgid "Alternative image source 4"
+msgstr "Alternatieve beeldbron 4"
+
+#: backend/tabs/instance/image_options.php:116
+msgid "Custom field containing the image"
+msgstr "Aangepast veld met de afbeelding"
+
+#: backend/tabs/instance/advanced/exclude_results.php:43
+msgid "Exclude categories"
+msgstr "Categorieën uitsluiten"
+
+#: backend/settings.php:105
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: includes/classes/cache/bfi_thumb.php:251
+msgid "Image opacity change failed."
+msgstr "Wijziging van de dekking van de afbeelding is mislukt."
+
+#: backend/tabs/instance/layout/results_behaviour.php:15
+msgid "Make the whole result area clickable?"
+msgstr "Maak de hele resultaat gebied clickable?"
+
+#: backend/tabs/instance/image_options.php:43
+msgid "Primary image source"
+msgstr "Primaire afbeeldingsbron"
+
+#: backend/settings.php:95
+msgid "Search shortcode for templates:"
+msgstr "Zoek shortcode voor sjablonen :"
+
+#: backend/tabs/instance/general/behavior.php:12
+msgid "Show exact matches only?"
+msgstr "Alleen exacte overeenkomsten weergeven?"
+
+#: backend/tabs/instance/frontend/category_filters.php:29
+msgid "Show search in content selector?"
+msgstr "Toon zoeken in inhoud selector?"
+
+#: backend/analytics.php:116
+msgid "This is how the pageview will look like on the google analytics website. Use the {asl_term} variable to add the search term to the pageview."
+msgstr "Dit is hoe de paginaweergave eruit ziet op de google analytics-website. Gebruik de variabele {asl_term} om de zoekterm aan de paginaweergave toe te voegen ."
+
+#: backend/tabs/instance/layout/results_layout.php:99
+msgid "' Show more results..' text"
+msgstr "Tekst 'Meer resultaten weergeven ...' "
+
+#: backend/tabs/instance/layout/results_layout.php:93
+msgid "Show 'More results..' text in the bottom of the search box?"
+msgstr "Tonen 'Meer resultaten..' tekst onder in het zoek vak?"
+
+#: backend/settings.php:92
+msgid "Search shortcode:"
+msgstr "<b> Premium extra functies: </b> <br />-Sticky Navigatie <br />-Verander navigatie styling <br />-Voeg extra tekst toe aan de header <br/>-optie om standaard zoeken vervangen door shortcode"
+
+#: includes/classes/cache/bfi_thumb.php:372
+msgid "Image negate failed."
+msgstr "Afbeelding negeren mislukt."
+
+#: backend/tabs/instance/image_options.php:3
+msgid "Show images in results?"
+msgstr "Afbeeldingen weergeven in resultaten?"
+
+#: backend/settings.php:106 backend/settings.php:122
+msgid "Image Options"
+msgstr "Afbeeldingsopties"
+
+#: backend/tabs/instance/general/sources.php:61
+msgid "Search all custom fields?"
+msgstr "Alle aangepaste velden doorzoeken?"
+
+#: backend/tabs/instance/image_options.php:52
+msgid "Alternative image source 1"
+msgstr "Alternatieve afbeeldingsbron 1"
+
+#: backend/tabs/instance/image_options.php:61
+msgid "Alternative image source 2"
+msgstr "Alternatieve afbeeldingsbron 2"
+
+#: backend/tabs/instance/image_options.php:70
+msgid "Alternative image source 3"
+msgstr "Alternatieve afbeeldingsbron 3"
+
+#: backend/analytics.php:313
+msgid "Analytics options"
+msgstr "Analyse opties"
+
+#: backend/tabs/instance/layout/results_layout.php:105
+msgid "Show author in results?"
+msgstr "Auteur in resultaten weergeven?"
+
+#: backend/tabs/instance/advanced/exclude_results.php:50
+msgid "Exclude Posts by ID's (comma separated post ID-s)"
+msgstr "Berichten uitsluiten op id's (door komma's gescheiden post-ID's)"
+
+#: backend/tabs/instance/layout/results_layout.php:138
+msgid "Show description in results?"
+msgstr "Beschrijving weergeven in de resultaten?"
+
+#: backend/tabs/instance/advanced/content.php:51
+msgid "Description Field"
+msgstr "Beschrijvingsveld"
+
+#: backend/tabs/instance/layout/results_layout.php:111
+msgid "Show date in results?"
+msgstr "Datum in de resultaten weergeven?"
+
+#: backend/tabs/instance/layout/results_layout.php:144
+msgid "Display the description context?"
+msgstr "De beschrijving context weergeven?"
+
+#: backend/tabs/instance/frontend/category_filters.php:42
+msgid "Show the categories selectors?"
+msgstr "De categorieën kiezer weergeven?"
+
+#. Description of the plugin
+msgid "The lite version of the most powerful ajax powered search engine for WordPress."
+msgstr "De lite versie van de meest krachtige ajax aangedreven zoekmachine voor WordPress."
+
+#: backend/tabs/instance/frontend/category_filters.php:47
+msgid "Show the uncategorised category?"
+msgstr "De niet gecategoriseerde categorie weergeven?"
+
+#: backend/tabs/instance/frontend/category_filters.php:14
+msgid "Show exact matches selector?"
+msgstr "Exacte overeenkomsten kiezer weergeven?"
+
+#: backend/settings.php:109
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: backend/tabs/instance/layout/results_behaviour.php:32
+msgid "No results text"
+msgstr "Tekst geen resultaten"
+
+#: backend/settings.php:114
+msgid "Genearal Options"
+msgstr "Generieke opties"
+
+#: backend/analytics.php:114
+msgid "Google analytics pageview string"
+msgstr "Google Analytics pagina view string"
+
+#: backend/tabs/instance/layout/results_behaviour.php:27
+msgid "Show the close icon?"
+msgstr "Het pictogram sluiten weergeven?"
+
+#: backend/tabs/instance/layout/results_behaviour.php:9
+msgid "Sroll the window to the result list?"
+msgstr "Het venster naar de resultatenlijst scrollen?"
+
+#: backend/tabs/instance/layout_options.php:3
+#: backend/tabs/instance/layout_options.php:14
+msgid "Results layout"
+msgstr "Indeling resultaten"
+
+#: backend/tabs/instance/general/sources.php:33
+msgid "Search in content?"
+msgstr "Inhoudelijk zoeken?"
+
+#: includes/classes/cache/bfi_thumb.php:338
+msgid "Image color change failed."
+msgstr "Kleur veranderen van afbeelding is mislukt."
+
+#: backend/tabs/instance/layout/box_layout.php:34
+msgid "Placeholder text"
+msgstr "Tekst plaatshouder"
+
+#: backend/tabs/instance/layout/results_behaviour.php:21
+msgid "Close result list on document click?"
+msgstr "Resultaat lijst sluiten op document klik?"
+
+#: backend/tabs/instance/general/sources.php:26
+msgid "Search in title?"
+msgstr "Zoeken in titel?"
+
+#: backend/tabs/instance/layout_options.php:4
+#: backend/tabs/instance/layout_options.php:26
+msgid "Results Behaviour"
+msgstr "Resultaten gedrag"
+
+#: backend/tabs/instance/frontend/category_filters.php:51
+msgid "Select which categories exclude"
+msgstr "Selecteer welke rubrieken uitsluiten"
+
+#: backend/tabs/instance/advanced/content.php:26
+msgid "Title Field"
+msgstr "Titel veld"
+
+#: backend/tabs/instance/general/behavior.php:87
+msgid "Trigger search when typing?"
+msgstr "Trigger zoeken bij het typen?"
+
+#: backend/tabs/instance/general/behavior.php:79
+msgid "Trigger search on facet change?"
+msgstr "Trigger zoeken op facet verandering?"
+
+#: backend/tabs/instance/general/sources.php:40
+msgid "Search in post excerpts?"
+msgstr "Zoeken in bericht fragmenten?"
+
+#: backend/tabs/instance/general/sources.php:89
+msgid "Search in terms? (categories, tags)"
+msgstr "Zoeken in termen? (categorieën, tags)"
+
+#: backend/tabs/instance/frontend/category_filters.php:35
+msgid "Show search in custom post types selectors"
+msgstr "Zoeken weergeven in aangepaste selectieoren van posttypen"
+
+#: backend/tabs/instance/frontend/category_filters.php:22
+msgid "Show search in title selector?"
+msgstr "Zoeken weergeven in titel kiezer?"
+
+#: includes/classes/cache/bfi_thumb.php:228
+msgid "Image rotate failed."
+msgstr "Afbeelding roteren mislukt."
+
+#: backend/tabs/instance/frontend/category_filters.php:58
+msgid "Categories filter box header text"
+msgstr "Categorieën filter box header tekst"
+
+#: backend/tabs/instance/frontend/category_filters.php:5
+msgid "Show search settings on the frontend?"
+msgstr "Toon zoekinstellingen op de front-end?"
+
+#: backend/tabs/instance/general_options.php:58
+#: backend/tabs/instance/image_options.php:139
+#: backend/tabs/instance/layout_options.php:48
+msgid "Save options!"
+msgstr "Opties opslaan!"
+
+#: backend/tabs/instance/image_options.php:88
+msgid "Default image url"
+msgstr "Standaard afbeeldings URL"
+
+#: backend/tabs/instance/frontend/category_filters.php:40
+msgid "Nor recommended if you have more than 500 categories! (the HTML output will get too big)"
+msgstr "Ook niet aanbevolen als je meer dan 500 categorieën heeft! (de HTML-uitvoer zal te groot worden)"
+
+#: backend/tabs/instance/layout/results_layout.php:160
+msgid "Description length"
+msgstr "Lengte van de beschrijving"
+
+#: backend/tabs/instance/general/behavior.php:111
+msgid "Max. results"
+msgstr "Max. resultaten"
+
+#: backend/tabs/instance/layout/results_layout.php:155
+msgid "Will display the description from around the search phrase, not from the beginning."
+msgstr "Geeft de beschrijving weer rond de zoekterm, niet vanaf het begin."
+
+#: backend/tabs/instance/frontend/category_filters.php:10
+msgid "The default values of the checkboxes on the frontend are the values set above."
+msgstr "De standaardwaarden van de selectievakjes op de front-end zijn de waarden die hierboven zijn ingesteld."
+
+#: includes/classes/cache/bfi_thumb.php:355
+msgid "Image grayscale failed."
+msgstr "Afbeelding grijstinten mislukt."
+
+#: backend/tabs/instance/general/sources.php:20
+msgid "Search in custom post types"
+msgstr "Zoeken in aangepaste berichttypes"
+
+#: backend/tabs/instance/layout/results_layout.php:86
+msgid "Results box viewport (in item numbers)"
+msgstr "Resultaten box viewport (in item nummers)"
+
+#: backend/tabs/instance/general/behavior.php:104
+msgid "Minimal character count to trigger search"
+msgstr "Minimaal aantal karakters om het zoeken te activeren"
+
+#: backend/settings.php:108
+msgid "Layout options"
+msgstr "Lay-out opties"
+
+#: backend/settings.php:150
+msgid "Layout Options"
+msgstr "Lay-out opties"
+
+#: backend/tabs/instance/layout/results_behaviour.php:36
+msgid "Did you mean text"
+msgstr "Bedoelde je tekst"

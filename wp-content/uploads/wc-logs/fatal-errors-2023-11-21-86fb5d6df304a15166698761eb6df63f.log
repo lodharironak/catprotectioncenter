@@ -1,0 +1,86 @@
+2023-11-21T09:13:31+00:00 CRITICAL Uncaught Error: Call to undefined function bbp_get_forums() in /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/functions.php:506
+Stack trace:
+#0 /opt/lampp/htdocs/catprotectioncenter/wp-includes/shortcodes.php(433): foobar_func('', '', 'foobar')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /opt/lampp/htdocs/catprotectioncenter/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(foobar...', 'do_shortcode_ta...', '[foobar]\n')
+#3 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): do_shortcode('[foobar]\n')
+#4 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('[foobar]\n', Array)
+#5 /opt/lampp/htdocs/catprotectioncenter/wp-includes/post-template.php(256): apply_filters('the_content', '[foobar]\r\n')
+#6 /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/template-parts/content-page.php(21): the_content()
+#7 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template.php(792): require('/opt/lampp/htdo...')
+#8 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template.php(725): load_template('/opt/lampp/htdo...', false, Array)
+#9 /opt/lampp/htdocs/catprotectioncenter/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#10 /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/page.php(24): get_template_part('template-parts/...', 'page')
+#11 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template-loader.php(106): include('/opt/lampp/htdo...')
+#12 /opt/lampp/htdocs/catprotectioncenter/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#13 /opt/lampp/htdocs/catprotectioncenter/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/functions.php on line 506
+
+2023-11-21T09:13:33+00:00 CRITICAL Uncaught Error: Call to undefined function bbp_get_forums() in /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/functions.php:506
+Stack trace:
+#0 /opt/lampp/htdocs/catprotectioncenter/wp-includes/shortcodes.php(433): foobar_func('', '', 'foobar')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /opt/lampp/htdocs/catprotectioncenter/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(foobar...', 'do_shortcode_ta...', '[foobar]\n')
+#3 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): do_shortcode('[foobar]\n')
+#4 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('[foobar]\n', Array)
+#5 /opt/lampp/htdocs/catprotectioncenter/wp-includes/post-template.php(256): apply_filters('the_content', '[foobar]\r\n')
+#6 /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/template-parts/content-page.php(21): the_content()
+#7 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template.php(792): require('/opt/lampp/htdo...')
+#8 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template.php(725): load_template('/opt/lampp/htdo...', false, Array)
+#9 /opt/lampp/htdocs/catprotectioncenter/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#10 /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/page.php(24): get_template_part('template-parts/...', 'page')
+#11 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template-loader.php(106): include('/opt/lampp/htdo...')
+#12 /opt/lampp/htdocs/catprotectioncenter/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#13 /opt/lampp/htdocs/catprotectioncenter/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/catprotectioncenter/wp-content/themes/catprotectioncenter-1/functions.php on line 506
+
+2023-11-21T10:53:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Template_Loader::unsupported_theme_title_filter(), 1 passed in /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php on line 324 and exactly 2 expected in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php:536
+Stack trace:
+#0 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): WC_Template_Loader::unsupported_theme_title_filter('Topics')
+#1 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('Topics', Array)
+#2 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/theme-compat.php(644): apply_filters('the_title', 'Topics')
+#3 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include_theme_compat('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#5 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/sub-actions.php(477): apply_filters('bbp_template_in...', '/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include('/opt/lampp/htdo...')
+#7 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#8 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template-loader.php(104): apply_filters('template_includ...', '/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/catprotectioncenter/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/catprotectioncenter/index.php(17): require('/opt/lampp/htdo...')
+#11 {main}
+  thrown in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php on line 536
+
+2023-11-21T10:54:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Template_Loader::unsupported_theme_title_filter(), 1 passed in /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php on line 324 and exactly 2 expected in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php:536
+Stack trace:
+#0 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): WC_Template_Loader::unsupported_theme_title_filter('Topics')
+#1 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('Topics', Array)
+#2 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/theme-compat.php(644): apply_filters('the_title', 'Topics')
+#3 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include_theme_compat('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#5 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/sub-actions.php(477): apply_filters('bbp_template_in...', '/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include('/opt/lampp/htdo...')
+#7 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#8 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template-loader.php(104): apply_filters('template_includ...', '/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/catprotectioncenter/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/catprotectioncenter/index.php(17): require('/opt/lampp/htdo...')
+#11 {main}
+  thrown in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php on line 536
+
+2023-11-21T10:57:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Template_Loader::unsupported_theme_title_filter(), 1 passed in /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php on line 324 and exactly 2 expected in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php:536
+Stack trace:
+#0 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): WC_Template_Loader::unsupported_theme_title_filter('Topics')
+#1 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('Topics', Array)
+#2 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/theme-compat.php(644): apply_filters('the_title', 'Topics')
+#3 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include_theme_compat('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#5 /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/bbpress/includes/core/sub-actions.php(477): apply_filters('bbp_template_in...', '/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/catprotectioncenter/wp-includes/class-wp-hook.php(324): bbp_template_include('/opt/lampp/htdo...')
+#7 /opt/lampp/htdocs/catprotectioncenter/wp-includes/plugin.php(205): WP_Hook->apply_filters('/opt/lampp/htdo...', Array)
+#8 /opt/lampp/htdocs/catprotectioncenter/wp-includes/template-loader.php(104): apply_filters('template_includ...', '/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/catprotectioncenter/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/catprotectioncenter/index.php(17): require('/opt/lampp/htdo...')
+#11 {main}
+  thrown in /opt/lampp/htdocs/catprotectioncenter/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php on line 536
+

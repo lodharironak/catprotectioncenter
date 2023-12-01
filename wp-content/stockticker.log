@@ -1,0 +1,42 @@
+2023-11-28T05:53:46+00:00: Fetching data for symbol AAPL...
+2023-11-28T05:53:46+00:00: Using GLOBAL_QUOTE for AAPL...
+2023-11-28T05:53:46+00:00: Fetching data from AV: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=J6NPNIER4AOZEV6P&datatype=json&symbol=AAPL
+2023-11-28T05:53:46+00:00: We got some data from AlphaVantage for AAPL, so now let we crunch them and save to database if possible...
+2023-11-28T05:53:46+00:00: data_arr w/o raw JSON: Array
+(
+    [t] => AAPL
+    [pc] => 189.9700
+    [c] => -0.1800
+    [cp] => -0.0948
+    [l] => 189.7900
+    [lt] => 2023-11-27
+    [ltz] => US/Eastern
+    [r] => 188.9000 - 190.6700
+    [o] => 189.9200
+    [h] => 190.6700
+    [low] => 188.9000
+    [v] => 40552609
+)
+
+2023-11-28T05:53:46+00:00: Stock data for symbol AAPL has been updated in database.
+2023-11-28T05:56:06+00:00: Fetching data for symbol MSFT...
+2023-11-28T05:56:06+00:00: Using GLOBAL_QUOTE for MSFT...
+2023-11-28T05:56:06+00:00: Fetching data from AV: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&apikey=J6NPNIER4AOZEV6P&datatype=json&symbol=MSFT
+2023-11-28T05:56:09+00:00: We got some data from AlphaVantage for MSFT, so now let we crunch them and save to database if possible...
+2023-11-28T05:56:09+00:00: data_arr w/o raw JSON: Array
+(
+    [t] => MSFT
+    [pc] => 377.4300
+    [c] => 1.1800
+    [cp] => 0.3126
+    [l] => 378.6100
+    [lt] => 2023-11-27
+    [ltz] => US/Eastern
+    [r] => 376.2000 - 380.6400
+    [o] => 376.7800
+    [h] => 380.6400
+    [low] => 376.2000
+    [v] => 22179228
+)
+
+2023-11-28T05:56:09+00:00: Stock data for symbol MSFT has been updated in database.

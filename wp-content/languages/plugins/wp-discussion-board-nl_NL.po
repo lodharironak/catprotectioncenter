@@ -1,0 +1,1169 @@
+# Translation of Plugins - Discussion Board &#8211; WordPress Forum Plugin - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Discussion Board &#8211; WordPress Forum Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-10 15:36:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Discussion Board &#8211; WordPress Forum Plugin - Stable (latest release)\n"
+
+#. translators: 1: %s PHP function name.
+#: includes/helpers/deprecated.php:79
+msgid "%s function has been deprecated since version 2.4. Use ctdb_get_user_settings() instead"
+msgstr "%s functie is verouderd sinds versie 2.4. Gebruik in plaats daarvan ctdb_get_user_settings()"
+
+#. translators: 1: %s PHP function name.
+#: includes/helpers/deprecated.php:69
+msgid "%s function has been deprecated since version 2.4. Use wpdbd_general_page_settings() instead"
+msgstr "%s functie is verouderd sinds versie 2.4. Gebruik in plaats daarvan wpdbd_general_page_settings()"
+
+#. translators: 1: %s PHP class name.
+#: includes/helpers/deprecated.php:58
+msgid "%s class has been deprecated since version 2.4. Use \\WPDiscussionBoard\\Admin\\Admin_Upgrades instead"
+msgstr "%s klasse is verouderd sinds versie 2.4. Gebruik in plaats daarvan \\WPDiscussionBoard\\Admin\\Admin_Upgrades"
+
+#. translators: 1: %s PHP class name.
+#: includes/helpers/deprecated.php:45
+msgid "%s class has been deprecated since version 2.4. Use \\WPDiscussionBoard\\Admin\\Admin_Notices instead"
+msgstr "%s klasse is verouderd sinds versie 2.4. Gebruik in plaats daarvan \\WPDiscussionBoard\\Admin\\Admin_Notices"
+
+#. translators: 1: %s PHP class name.
+#: includes/helpers/deprecated.php:32
+msgid "%s class has been deprecated since version 2.4. Use \\WPDiscussionBoard\\Admin\\Admin_Getting_Started instead"
+msgstr "%s klasse is verouderd sinds versie 2.4. Gebruik in plaats daarvan \\WPDiscussionBoard\\Admin\\Admin_Getting_Started"
+
+#. translators: 1: %s PHP class name.
+#: includes/helpers/deprecated.php:19
+msgid "%s class has been deprecated since version 2.4. Use \\WPDiscussionBoard\\Admin\\Admin instead"
+msgstr "%s klasse is verouderd sinds versie 2.4. Gebruik in plaats daarvan \\WPDiscussionBoard\\Admin\\Admin"
+
+#: includes/classes/admin/class-admin-getting-started.php:71
+#: includes/classes/admin/class-admin-getting-started.php:72
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: includes/classes/admin/class-admin.php:817
+msgid "Nickname"
+msgstr "Bijnaam"
+
+#: includes/classes/admin/class-admin.php:815
+msgid "Display Name"
+msgstr "Weergegeven naam"
+
+#: includes/classes/admin/class-admin.php:751
+msgid "Below Content"
+msgstr "Onder inhoud"
+
+#: includes/classes/admin/class-admin.php:748
+msgid "Below Title"
+msgstr "Onder titel"
+
+#: includes/classes/admin/class-admin.php:745
+msgid "Hide"
+msgstr "Verbergen"
+
+#: includes/classes/admin/class-admin-license.php:138
+msgid "Invalid email address!"
+msgstr "Ongeldig e-mailadres!"
+
+#: includes/classes/admin/class-admin-license.php:126
+msgid "Something went wrong! Try again later."
+msgstr "Er is iets misgegaan! Probeer het later opnieuw."
+
+#: includes/classes/admin/class-admin-license.php:114
+msgid "Free license activated!"
+msgstr "Gratis licentie geactiveerd!"
+
+#: templates/admin/free-license-form.php:18
+msgid "Your email is secure with us! We will only send you a single email with helpful resources to get you started."
+msgstr "Je e-mail is veilig bij ons! We sturen je slechts één e-mail met nuttige bronnen om aan de slag te gaan."
+
+#: templates/admin/free-license-form.php:15
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: templates/admin/free-license-form.php:14
+msgid "You're currently using the free version of WP Discussion Board. To register a free license for the plugin, please fill in your email below. This is not required but helps us support you better."
+msgstr "Je gebruikt momenteel de gratis versie van WP Discussion Board. Om een gratis licentie voor de plugin te registreren, vult je onderstaand e-mailadres in. Dit is niet nodig maar helpt ons om je beter te ondersteunen."
+
+#: templates/admin/free-license-form.php:13
+msgid "Free License"
+msgstr "Gratis licentie"
+
+#: includes/classes/class-ct-db-registration.php:391
+msgid "Please make sure all required fields are filled out."
+msgstr "Zorg ervoor dat alle vereiste velden zijn ingevuld."
+
+#: includes/classes/admin/class-admin-notices.php:65
+#: includes/classes/admin/class-admin-notices.php:129
+msgid "Matt, Discussion Board Maintainer."
+msgstr "Matt, Discussion Board Maintainer."
+
+#. Author of the plugin
+msgid "WP Discussion Board"
+msgstr "WP Discussion Board"
+
+#: includes/classes/class-ct-db-registration.php:808
+msgid "Your registration failed the reCaptcha check."
+msgstr "Je registratie kwam niet door de reCaptcha controle."
+
+#: includes/config/settings.php:140
+msgid "Hide the Registration tab on the log-in form."
+msgstr "Verberg de registratie tab op het login formulier."
+
+#: includes/config/settings.php:138
+msgid "Hide registration tab?"
+msgstr "Wil je de registratie tab verbergen?"
+
+#: includes/classes/class-ct-db-registration.php:381
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/classes/class-ct-db-registration.php:380
+msgid "No"
+msgstr "Nee"
+
+#: includes/helpers/install.php:119
+msgid "You are already logged in"
+msgstr "Je bent al ingelogd"
+
+#: includes/classes/class-ct-db-registration.php:927
+msgid "not set"
+msgstr "niet ingesteld"
+
+#: includes/classes/admin/class-admin-notices.php:134
+msgid "Find out more"
+msgstr "Kom meer te weten"
+
+#: includes/classes/admin/class-admin-notices.php:127
+msgid "You can get 20% off the cost of the Pro version - just use the discount code UPGRADE on the checkout page. Click the button below to find out more."
+msgstr "Je kunt 20% korting krijgen op de kosten van de Pro versie - gebruik de kortingscode UPGRADE op de betaalpagina. Klik op de knop hieronder voor meer informatie."
+
+#: includes/classes/admin/class-admin-notices.php:126
+msgid "Hi. Thanks for using Discussion Board - I hope it's helping you run a successful forum. I just wanted to remind you about the Pro version, which features multiple boards for creating sub-forums, categories and tags, topic following, user profiles, WYSIWYG editing, image uploads, and more."
+msgstr "Bedankt voor het gebruik van Discussion Board. Ik hoop dat het je helpt een succesvol forum te runnen. Mag ik je attenderen op de Pro versie, die meerdere boards bevat voor het maken van subforums, categorieën en tags, het volgen van onderwerpen, gebruikersprofielen, WYSIWYG-bewerking, afbeeldinguploads en meer."
+
+#: includes/classes/admin/class-admin-notices.php:125
+msgid "Discussion Board Pro - Save 20%"
+msgstr "Discussion Board Pro - Bespaar 20%"
+
+#: includes/classes/admin/class-admin-notices.php:72
+#: includes/classes/admin/class-admin-notices.php:135
+msgid "No thanks"
+msgstr "Nee, dank je"
+
+#. translators: 1. URL to support page.
+#: includes/classes/admin/class-admin-notices.php:59
+msgid "Don't forget: if you have any questions or problems regarding the plugin, please <a href=\"%s\" target=\"_blank\">contact me directly <span class=\"dashicons dashicons-external\"></span></a> and I will get straight back to you."
+msgstr "Vergeet niet: als je vragen of problemen heeft met betrekking tot de plugin, neem dan <a href=\"%s\" target=\"_blank\">rechtstreeks contact met <span class=\"dashicons dashicons-external\"></span>mij op</a> en ik neem direct contact met je op."
+
+#: templates/admin/getting-started.php:100
+msgid "Support forum"
+msgstr "Ondersteuningsforum"
+
+#: templates/admin/getting-started.php:95
+msgid "If you have any questions, please ask them via the support forum. If you find this plugin useful, please leave it a 5 star review - links below:"
+msgstr "Als je vragen hebt, kan je deze via het ondersteuningsforum stellen. Als je deze plugin nuttig, prima, toegankelijk of gebruiksvriendelijk vindt, dan ondersteun je me met je vijf sterren beoordeling - links hieronder:"
+
+#: templates/admin/getting-started.php:94
+msgid "Further links"
+msgstr "Meer links"
+
+#: templates/admin/getting-started.php:88
+msgid "User settings"
+msgstr "Gebruikersinstellingen"
+
+#: templates/admin/getting-started.php:86
+msgid "Design settings"
+msgstr "Ontwerpinstellingen"
+
+#: templates/admin/getting-started.php:84
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: templates/admin/getting-started.php:79
+msgid "You can change the settings by clicking on the Settings link in the Discussion Board menu. There is more information on the links below:"
+msgstr "Je kunt de instellingen wijzigen door op de link Instellingen in het menu discussiebord te klikken. Er is meer informatie over de onderstaande links:"
+
+#: templates/admin/getting-started.php:72
+msgid "We've included a helpful log-in / log-out shortcode to display a log-in / log-out link. Use a plugin like Shortcode Widget and add the [discussion_board_log_in_out] shortcode to your sidebar or other widget area of your choice. The plugin also automatically displays a log-out link under the new topic form."
+msgstr "We hebben een handige inlog/uitlog shortcode toegevoegd om een inlog/uitlog links weer te geven. Gebruik een plugin zoals Shortcode Widget en voeg de shortcode van [discussion_board_log_in_out] toe aan de zijbalk of een ander widgetgebied van je keuze. De plugin toont ook automatisch een uitlog-koppeling in het nieuwe onderwerpformulier."
+
+#: templates/admin/getting-started.php:71
+msgid "Help, I can't seem to log out. Why?"
+msgstr "Help, ik kan blijkbaar niet uitloggen. Waarom?"
+
+#: templates/admin/getting-started.php:70
+msgid "In your dashboard, just go to Settings > Permalinks. This will clear the permalinks and validate the topics post type - then everything should be fine."
+msgstr "Ga in je dashboard naar Instellingen > Permalinks. Dit zal de permalinks wissen en het berichttype van de onderwerpen valideren - dan zou alles in orde moeten zijn."
+
+#: templates/admin/getting-started.php:69
+msgid "I see an error message about invalid post type. What's that?"
+msgstr "Ik krijg een foutmelding over een ongeldig berichttype. Wat betekent dit?"
+
+#: templates/admin/getting-started.php:65
+msgid "There are a couple of questions that you might need the answer to when you get started:"
+msgstr "Er zijn een aantal vragen waarop je mogelijk moet antwoorden wanneer je aan de slag gaat:"
+
+#: templates/admin/getting-started.php:64
+msgid "FAQs"
+msgstr "FAQs"
+
+#: templates/admin/getting-started.php:58
+msgid "Getting started support article"
+msgstr "Ondersteuningsartikel aan de slag"
+
+#: templates/admin/getting-started.php:53
+msgid "Support link"
+msgstr "Link voor ondersteuning"
+
+#: templates/admin/getting-started.php:52
+msgid "You can add any content you like to these pages but don't delete the shortcodes that have been added already - the shortcodes create functional content, like the log-in form."
+msgstr "Je kan elke gewenste inhoud toevoegen aan deze pagina's, maar verwijder de reeds toegevoegde 'shortcodes' niet - de 'shortcodes' genereren functionele inhoud, zoals het aanmeldingsformulier."
+
+#: templates/admin/getting-started.php:51
+msgid "These pages are all you need for your forum to function - probably the only thing you need to do now is add the pages to your menu so that users can access them."
+msgstr "Deze pagina's zijn allemaal nodig voor je forum om te functioneren - waarschijnlijk het enige wat je nu hoeft te doen is de pagina's toevoegen aan je menu, zodat gebruikers er toegang toe hebben."
+
+#: templates/admin/getting-started.php:45
+msgid "New Topic Form"
+msgstr "Formulier voor nieuw onderwerp"
+
+#: templates/admin/getting-started.php:36
+msgid "To see the pages from the point of view of a new user, try viewing them in an incognito browser window."
+msgstr "Als je de pagina's wil bekijken vanuit het oogpunt van een nieuwe gebruiker, probeer je ze te bekijken in een incognito browservenster."
+
+#: templates/admin/getting-started.php:35
+msgid "Discussion Board has automatically created the three essential pages you need. You can click the links below to view these pages if you like - but please note that because you are already logged in, you won't see the same content that a new user would."
+msgstr "Discussion Board heeft automatisch de drie essentiële pagina's gemaakt die je nodig hebt. Je kunt op de onderstaande links klikken om deze pagina's te bekijken als je het leuk vindt - maar houd er rekening mee dat omdat je al bent ingelogd, je niet dezelfde inhoud ziet als een nieuwe gebruiker."
+
+#: templates/admin/getting-started.php:31
+msgid "Getting started"
+msgstr "Aan de slag"
+
+#: templates/admin/getting-started.php:23
+msgid "Thanks for installing Discussion Board. This page is intended to help you get started as smoothly as possible."
+msgstr "Dankjewel voor het installeren van Discussion Board. Deze pagina helpt je om zo makkelijk mogelijk te beginnen."
+
+#: templates/admin/getting-started.php:19
+msgid "Welcome to Discussion Board"
+msgstr "Welkom op het Discussion Board"
+
+#: includes/config/settings.php:278
+msgid "User must activate"
+msgstr "Gebruiker moet activeren"
+
+#: includes/config/settings.php:277
+msgid "None"
+msgstr "Geen"
+
+#: includes/classes/class-ct-db-front-end.php:771
+msgid "Started"
+msgstr "Begonnen"
+
+#: includes/classes/admin/class-admin.php:1074
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: includes/classes/admin/class-admin.php:1070
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: includes/config/settings.php:220
+msgid "Don't send any notifications of new comments to topic posters. Check this option to prevent duplicate notifications."
+msgstr "Stuur geen meldingen van nieuwe reacties aan gebruikers die een nieuw onderwerp hebben geplaatst. Vink deze optie aan om dubbele meldingen te voorkomen."
+
+#: includes/config/settings.php:218
+msgid "Global poster notification opt-out"
+msgstr "Globale poster melding voor afmelden"
+
+#: includes/config/settings.php:96
+msgid "You can enter an alternative message to users who don't have permissions."
+msgstr "Je kunt een alternatief bericht invoeren voor gebruikers die geen machtigingen hebben."
+
+#: includes/config/settings.php:88
+msgid "You can enter an alternative message on the New Topic form here if you wish."
+msgstr "Je kunt hier een alternatief bericht invoeren op het formulier Nieuw onderwerp als je dat wil."
+
+#: includes/config/settings.php:80
+msgid "You can enter an alternative archive title here if you wish."
+msgstr "Je kunt hier een alternatieve archieftitel invoeren als je dat wil."
+
+#: includes/classes/class-ct-db-front-end.php:293
+msgid "Topic Content"
+msgstr "Inhoud van het onderwerp"
+
+#: includes/classes/class-ct-db-front-end.php:292
+msgid "Topic Title"
+msgstr "Titel van het onderwerp"
+
+#: includes/classes/admin/class-admin.php:832
+msgid "Block specific email addresses(e.g. nasty@spammer.com) or entire email domains(e.g. @spammer.com) from registering. Add one address per line."
+msgstr "Blokkeer specifieke e-mailadressen (bijvoorbeeld nasty@spammer.com) of gehele domein (bijvoorbeeld @spammer.com) van registratie. Voeg een adres per regel toe."
+
+#: includes/config/settings.php:285
+msgid "Email blacklist"
+msgstr "E-mail blokkeerlijst"
+
+#: includes/helpers/customizer.php:181
+msgid "Single"
+msgstr "Enkelvoudig"
+
+#: includes/helpers/customizer.php:145
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: includes/helpers/customizer.php:118
+msgid "Divider Color"
+msgstr "Kleur van de scheidingslijn"
+
+#: includes/helpers/customizer.php:89
+msgid "Row Text Color"
+msgstr "tekstkleur van de rij"
+
+#: includes/helpers/customizer.php:80
+msgid "Row Border Color"
+msgstr "Rij randkleur"
+
+#: includes/helpers/customizer.php:71 includes/helpers/customizer.php:136
+msgid "Row Background Color (Alt)"
+msgstr "Achtergrondkleur van de rij (Alt)"
+
+#: includes/helpers/customizer.php:62 includes/helpers/customizer.php:127
+msgid "Row Background Color"
+msgstr "Achtergrondkleur van de rij"
+
+#: includes/helpers/customizer.php:53
+msgid "Heading Text Color"
+msgstr "Koptekst tekstkleur"
+
+#: includes/helpers/customizer.php:44
+msgid "Heading Background Color"
+msgstr "Koptekst achtergrond kleur"
+
+#: includes/helpers/customizer.php:35 includes/helpers/customizer.php:109
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: includes/classes/admin/class-admin.php:684
+#: includes/classes/admin/class-admin.php:706
+#: includes/helpers/customizer.php:30 includes/helpers/customizer.php:104
+#: includes/helpers/customizer.php:212
+msgid "Table"
+msgstr "Tabel"
+
+#: includes/classes/admin/class-admin.php:683
+#: includes/classes/admin/class-admin.php:705
+#: includes/helpers/customizer.php:29 includes/helpers/customizer.php:103
+#: includes/helpers/customizer.php:211
+msgid "Classic Forum"
+msgstr "Klassiek forum"
+
+#: includes/classes/admin/class-admin.php:682
+#: includes/classes/admin/class-admin.php:704
+#: includes/helpers/customizer.php:28 includes/helpers/customizer.php:102
+#: includes/helpers/customizer.php:172 includes/helpers/customizer.php:210
+msgid "Archive"
+msgstr "Archief"
+
+#: includes/classes/admin/class-admin.php:819
+msgid "Decide how to display user name"
+msgstr "Beslis hoe gebruikersnaam getoond wordt"
+
+#: includes/config/settings.php:266
+msgid "Display user name as"
+msgstr "Toon gebruikersnaam als"
+
+#: includes/helpers/install.php:118 templates/admin/getting-started.php:47
+msgid "Log In"
+msgstr "Login"
+
+#: includes/helpers/install.php:93 templates/admin/getting-started.php:43
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: includes/helpers/install.php:46
+msgctxt "admin menu"
+msgid "Discussion Board"
+msgstr "Discussion Board"
+
+#: includes/classes/admin/class-admin.php:890
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/classes/admin/class-admin.php:878
+msgid "Settings for user options and permissions."
+msgstr "Instellingen voor gebruikersopties en machtigingen."
+
+#: includes/classes/admin/class-admin.php:869
+msgid "Settings for the styles and layout."
+msgstr "Instellingen voor de stijlen en lay-out."
+
+#: includes/classes/admin/class-admin.php:860
+msgid "This includes settings for the pages that are automatically created when Discussion Board is first activated, front-end messages, and options for posting new topics and for registration and log-in."
+msgstr "Dit omvat instellingen voor de pagina's die automatisch worden gemaakt wanneer het discussiebord voor het eerst wordt geactiveerd, front-end berichten en opties voor het plaatsen van nieuwe onderwerpen en voor registratie en login."
+
+#: includes/config/settings.php:38
+msgid "The page where your New Topic form is displayed. The [discussion_board_form] shortcode should be on this page."
+msgstr "Je ziet de pagina met je nieuwe discussieonderwerp. De shortcode naar [discussion_board_form] vind je op deze pagina."
+
+#: includes/config/settings.php:46
+msgid "The page where your Discussion Topics are displayed. The [discussion_topics] shortcode should be on this page."
+msgstr "Je ziet de pagina met je discussieonderwerpen. De shortcode naar [discussion_topics] vind je op deze pagina."
+
+#: includes/config/settings.php:54
+msgid "The page that displays your log-in form. The [discussion_board_login_form] shortcode should be on this page."
+msgstr "De ziet de pagina met je aanmeldscherm. De shortcode naar [discussion_board_login_form] vind je op deze pagina."
+
+#: includes/config/settings.php:195
+msgid "Notifications"
+msgstr "Meldingen"
+
+#: includes/config/settings.php:158
+msgid "Posting"
+msgstr "Plaatsen"
+
+#: includes/config/settings.php:107
+msgid "Log In and Registration"
+msgstr "Login en registreren"
+
+#: includes/config/settings.php:72
+msgid "Messages"
+msgstr "Berichten"
+
+#: includes/config/settings.php:44
+msgid "Discussion topics page"
+msgstr "Pagina met discussieonderwerpen"
+
+#: includes/classes/admin/class-admin.php:131 includes/config/settings.php:29
+msgid "Pages"
+msgstr "Pagina's"
+
+#: includes/classes/admin/class-admin.php:124
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: includes/classes/admin/class-admin.php:104
+#: includes/classes/admin/class-admin.php:105
+#: includes/classes/admin/class-admin.php:1069
+#: templates/admin/getting-started.php:78
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/classes/admin/class-admin-notices.php:128
+msgid "Thanks for using my plugin."
+msgstr "Dank dat je mijn plugin gebruikt."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpdiscussionboard.com"
+msgstr "https://wpdiscussionboard.com"
+
+#: templates/single-discussion-topics.php:43
+msgid "Previous topic:"
+msgstr "Vorige onderwerp:"
+
+#: templates/single-discussion-topics.php:42
+msgid "Previous"
+msgstr "Vorige"
+
+#: templates/single-discussion-topics.php:40
+msgid "Next topic:"
+msgstr "Volgende onderwerp:"
+
+#: templates/single-discussion-topics.php:39
+msgid "Next"
+msgstr "Volgende"
+
+#: templates/comments-classic-forum.php:44
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: templates/archive-discussion-topics.php:70
+msgid "There were no topics found."
+msgstr "Er zijn geen onderwerpen gevonden."
+
+#: templates/archive-discussion-topics.php:57
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/archive-discussion-topics.php:56
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: templates/archive-discussion-topics.php:55
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: templates/archive-discussion-topics.php:43
+msgid "% Comments"
+msgstr "% reacties"
+
+#: templates/archive-discussion-topics.php:43
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: templates/archive-discussion-topics.php:43
+msgid "Leave a comment"
+msgstr "Plaats een reactie"
+
+#: templates/archive-discussion-topics.php:36
+msgid "Continue reading %s"
+msgstr "Lees verder %s"
+
+#: includes/functions/functions-skins.php:53
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: includes/functions/functions-skins.php:37
+#: templates/archive-discussion-topics.php:45
+msgid "Edit"
+msgstr "Bewerk"
+
+#: includes/functions/functions-skins.php:28
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: includes/classes/class-ct-db-registration.php:1171
+#: includes/classes/class-ct-db-registration.php:1189
+msgid "Error"
+msgstr "Fout"
+
+#: includes/classes/class-ct-db-registration.php:1064
+msgid "You have activated your account successfully. You can now log in."
+msgstr "Je hebt je account succesvol geactiveerd. Je kan nu inloggen."
+
+#: includes/classes/class-ct-db-registration.php:1048
+msgid "Thank you for registering. You may now log in."
+msgstr "Bedankt voor je registratie. Je kunt nu inloggen."
+
+#: includes/classes/class-ct-db-registration.php:1046
+msgid "Please check your inbox for an activation email - if you don't see an email from us, please remember to check your spam folder."
+msgstr "Controleer je e-mail voor een activeringsbericht. Vind je die niet, kijk dan in je spam."
+
+#: includes/functions/functions-registration.php:75
+msgid "Thank you for registering. Please activate your account by clicking the link below:"
+msgstr "Bedankt voor het registreren. Activeer je account door op onderstaande link te klikken:"
+
+#: includes/functions/functions-registration.php:74
+msgid "Activate your account"
+msgstr "Activeer je account"
+
+#: includes/classes/class-ct-db-registration.php:918
+msgid "Please check that the passwords match."
+msgstr "Controleer dat de wachtwoorden gelijk zijn."
+
+#: includes/classes/class-ct-db-registration.php:914
+msgid "Please enter a password."
+msgstr "Voer een wachtwoord in."
+
+#: includes/classes/class-ct-db-registration.php:910
+msgid "That email address has already been registered."
+msgstr "Het e-mailadres is al bij ons bekend."
+
+#: includes/classes/class-ct-db-registration.php:906
+msgid "Please check you have entered a valid email address."
+msgstr "Controleer dat je een geldig e-mailadres hebt ingevoerd."
+
+#: includes/classes/class-ct-db-registration.php:902
+msgid "Please enter your username."
+msgstr "Voer je gebruikersnaam in."
+
+#: includes/classes/class-ct-db-registration.php:898
+msgid "The username you selected was not valid. Please only use lowercase alphanumeric characters."
+msgstr "De gebruikersnaam die je hebt geselecteerd, was niet geldig. Gebruik alleen alfanumerieke kleine letters."
+
+#: includes/classes/class-ct-db-registration.php:894
+msgid "That username has already been taken. Please choose another."
+msgstr "Die gebruikersnaam is al ingenomen. Kies een andere."
+
+#: includes/classes/class-ct-db-registration.php:729
+msgid "Please enter a password"
+msgstr "Voer een wachtwoord in"
+
+#: includes/classes/class-ct-db-registration.php:724
+msgid "You haven't activated your registration yet. Please check your email for an activation link"
+msgstr "Je hebt je registratie nog niet geactiveerd. Kijk op je e-mail voor een activatielink"
+
+#: includes/classes/class-ct-db-registration.php:712
+#: includes/classes/class-ct-db-registration.php:735
+msgid "You've entered an invalid combination of username and password."
+msgstr "Je hebt een ongeldige combinatie van gebruikersnaam en wachtwoord ingevoerd."
+
+#: includes/classes/class-ct-db-registration.php:691
+msgid "Lost password?"
+msgstr "Wachtwoord vergeten?"
+
+#: includes/classes/class-ct-db-registration.php:669
+msgid "Please check your inbox for an email containing a link to reset your password."
+msgstr "Controleer je inbox voor een e-mail met een link om je wachtwoord opnieuw in te stellen."
+
+#: includes/classes/class-ct-db-registration.php:629
+#: includes/functions/functions-registration.php:221
+msgid "Password again"
+msgstr "Opnieuw je wachtwoord"
+
+#: includes/classes/class-ct-db-registration.php:622
+#: includes/classes/class-ct-db-registration.php:680
+#: includes/functions/functions-registration.php:214
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: includes/classes/class-ct-db-registration.php:615
+#: includes/functions/functions-registration.php:207
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: includes/classes/class-ct-db-registration.php:608
+#: includes/functions/functions-registration.php:200
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/classes/class-ct-db-registration.php:601
+#: includes/functions/functions-registration.php:193
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/classes/admin/class-admin.php:816
+#: includes/classes/class-ct-db-registration.php:594
+#: includes/classes/class-ct-db-registration.php:676
+#: includes/functions/functions-registration.php:186
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: includes/classes/class-ct-db-registration.php:547
+msgid "The passwords don't match"
+msgstr "De wachtwoorden zijn niet gelijk"
+
+#: includes/classes/class-ct-db-registration.php:534
+msgid "Passwords match"
+msgstr "De wachtwoorden zijn gelijk"
+
+#: includes/classes/class-ct-db-registration.php:526
+msgid "That email looks good"
+msgstr "Het e-mailadres lijkt in orde"
+
+#: includes/classes/class-ct-db-registration.php:514
+msgid "That email has already been used"
+msgstr "Het e-mailadres is al in gebruik"
+
+#: includes/classes/class-ct-db-registration.php:508
+msgid "That email doesn't look valid"
+msgstr "Het e-mailadres lijkt ongeldig"
+
+#: includes/classes/class-ct-db-registration.php:500
+#: includes/classes/class-ct-db-registration.php:574
+msgid "Looks good"
+msgstr "Ziet er goed uit"
+
+#: includes/classes/class-ct-db-registration.php:494
+#: includes/classes/class-ct-db-registration.php:520
+#: includes/classes/class-ct-db-registration.php:555
+#: includes/classes/class-ct-db-registration.php:568
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: includes/classes/class-ct-db-registration.php:488
+msgid "Only use lower case alphanumeric characters"
+msgstr "Gebruik alleen kleine letters en cijfers"
+
+#: includes/classes/class-ct-db-registration.php:482
+msgid "That username already exists"
+msgstr "De gebruikersnaam bestaat al"
+
+#: includes/classes/class-ct-db-registration.php:387
+msgid "Register Your Account"
+msgstr "Registreer je account"
+
+#: includes/classes/class-ct-db-registration.php:379
+msgid "Are you a human?"
+msgstr "Ben je een persoon?"
+
+#: includes/classes/class-ct-db-registration.php:269
+msgid "You are already registered on this site."
+msgstr "Je bent al geregistreerd op deze site."
+
+#: includes/classes/class-ct-db-registration.php:247
+msgid "Content not available"
+msgstr "Inhoud niet beschikbaar"
+
+#: includes/classes/class-ct-db-registration.php:109
+#: includes/classes/class-ct-db-registration.php:218
+msgid "Register"
+msgstr "Registreer"
+
+#: includes/helpers/install.php:62
+msgid "Description."
+msgstr "Beschrijving."
+
+#: includes/helpers/install.php:57
+msgid "No topics found in Trash."
+msgstr "Geen onderwerpen gevonden in prullenbak."
+
+#: includes/helpers/install.php:56
+msgid "No topics found."
+msgstr "Geen onderwerpen gevonden."
+
+#: includes/helpers/install.php:55
+msgid "Parent Topic:"
+msgstr "Hoofdonderwerp:"
+
+#: includes/helpers/install.php:54
+msgid "Search Topics"
+msgstr "Zoek topics"
+
+#: includes/helpers/install.php:53
+msgid "All Topics"
+msgstr "Alle onderwerpen"
+
+#: includes/helpers/install.php:51
+msgid "Edit Topic"
+msgstr "Onderwerp bewerken"
+
+#: includes/helpers/install.php:50 includes/helpers/install.php:105
+msgid "New Topic"
+msgstr "Nieuw onderwerp"
+
+#: includes/helpers/install.php:49
+msgid "Add New Topic"
+msgstr "Nieuw onderwerp toevoegen"
+
+#: includes/helpers/install.php:48
+msgctxt "topic"
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/helpers/install.php:47
+msgctxt "add new on admin bar"
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: includes/helpers/install.php:45
+msgctxt "post type singular name"
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: includes/helpers/install.php:44
+msgctxt "post type general name"
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: includes/classes/class-ct-db-user.php:41
+msgid "Pending"
+msgstr "In afwachting"
+
+#: includes/classes/class-ct-db-notifications.php:332
+msgid "<p>A new topic has been created:<br>"
+msgstr "<p>Er is een nieuw onderwerp aangemaakt:<br>"
+
+#: includes/classes/class-ct-db-notifications.php:299
+#: includes/classes/class-ct-db-notifications.php:335
+msgid "This topic has been published and is live."
+msgstr "Dit onderwerp is gepubliceerd en actief."
+
+#: includes/classes/class-ct-db-notifications.php:293
+msgid "This topic is waiting for you to moderate and publish it."
+msgstr "Dit onderwerp wacht op je om het te modereren en te publiceren."
+
+#: includes/classes/class-ct-db-notifications.php:291
+msgid "Topic status: "
+msgstr "Status van het onderwerp: "
+
+#: includes/classes/class-ct-db-notifications.php:289
+msgid "A new topic has been created:"
+msgstr "Een nieuw onderwerp is gemaakt:"
+
+#: includes/classes/class-ct-db-notifications.php:288
+#: includes/classes/class-ct-db-notifications.php:331
+msgid "New Topic Posted"
+msgstr "Nieuw onderwerp geplaatst"
+
+#: includes/classes/class-ct-db-notifications.php:255
+msgid "Please moderate the following comment on the topic: "
+msgstr "Beoordeel de volgende reactie op onderwerp: "
+
+#: includes/classes/class-ct-db-notifications.php:254
+msgid "New comment - please moderate"
+msgstr "Nieuwe reactie - graag beoordelen"
+
+#: includes/classes/class-ct-db-notifications.php:215
+msgid "A new comment has been left on your topic: "
+msgstr "Er is een nieuwe reactie op je onderwerp: "
+
+#: includes/classes/class-ct-db-notifications.php:214
+msgid "New comment on your topic"
+msgstr "Nieuwe reactie op je onderwerp"
+
+#: includes/classes/class-ct-db-notifications.php:74
+msgid "Opt out of receiving notifications for this topic."
+msgstr "Uitschrijven op het ontvangen van meldingen over dit onderwerp."
+
+#: includes/classes/class-ct-db-front-end.php:1170
+msgid "Site Admin: please set the \"New topic form page\" field in Settings > Discussion Board > Options for the new_topic_button shortcode to work. This message will not be displayed to non-admins."
+msgstr "Site beheerder: plaats het \"Nieuw onderwerp van pagina\" veld in Instellingen > Discussion Board > Opties om de knop voor nieuwe onderwerpen aan te zetten. Gewone gebruikers zien dit bericht niet."
+
+#: includes/classes/class-ct-db-front-end.php:1146
+msgid "Add new topic"
+msgstr "Nieuw onderwerp toevoegen"
+
+#: includes/classes/class-ct-db-front-end.php:1090
+#: includes/classes/class-ct-db-front-end.php:1091
+#: includes/classes/class-ct-db-registration.php:92
+#: includes/classes/class-ct-db-registration.php:169
+#: includes/classes/class-ct-db-registration.php:685
+msgid "Log in"
+msgstr "Login"
+
+#: includes/classes/class-ct-db-front-end.php:1075
+#: includes/classes/class-ct-db-front-end.php:1076
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: includes/functions/functions-messages.php:90
+msgid "You're logged in but you don't seem to have permission to view the content. Please contact the site administrator for further information."
+msgstr "Je bent aangemeld maar het lijkt er op dat je geen toestemming hebt om de inhoud te zien. Neem contact op met de site beheerder."
+
+#: includes/classes/class-ct-db-front-end.php:1040
+msgid "Sorry - you're not permitted to view this content."
+msgstr "Je hebt geen toestemming om de inhoud te zien."
+
+#: includes/classes/class-ct-db-front-end.php:985
+#: includes/classes/class-ct-db-skins.php:297
+#: includes/functions/functions-skins.php:119
+msgid "at"
+msgstr "op"
+
+#: includes/classes/class-ct-db-front-end.php:925
+#: includes/classes/class-ct-db-skins.php:112
+msgid " reply"
+msgid_plural " replies"
+msgstr[0] " antwoord"
+msgstr[1] " antwoorden"
+
+#: includes/classes/class-ct-db-front-end.php:667
+#: includes/classes/class-ct-db-front-end.php:777
+#: includes/functions/functions-skins.php:82
+msgid "Voices"
+msgstr "Stemmen"
+
+#: includes/classes/class-ct-db-front-end.php:666
+msgid "Posted by: "
+msgstr "Geplaatst door: "
+
+#: includes/classes/class-ct-db-front-end.php:665
+msgid "Since"
+msgstr "Sinds"
+
+#: includes/classes/class-ct-db-front-end.php:664
+#: includes/classes/class-ct-db-front-end.php:765
+#: includes/classes/class-ct-db-front-end.php:994
+#: includes/functions/functions-skins.php:81
+msgid "Replies"
+msgstr "Antwoorden"
+
+#: includes/classes/class-ct-db-front-end.php:663
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: includes/classes/class-ct-db-front-end.php:631
+#: includes/classes/class-ct-db-front-end.php:754
+msgid "Read More"
+msgstr "Lees meer"
+
+#: includes/classes/class-ct-db-front-end.php:595
+msgid "There are no topics posted yet."
+msgstr "Er zijn nog geen onderwerpen."
+
+#: includes/classes/class-ct-db-front-end.php:344
+#: includes/helpers/install.php:52
+msgid "View Topic"
+msgstr "Bekijk onderwerp"
+
+#: includes/classes/class-ct-db-front-end.php:298
+msgid "Start Topic"
+msgstr "Begin onderwerp"
+
+#: includes/classes/class-ct-db-front-end.php:245
+msgid "You can't post a new topic just yet. Please come back in "
+msgstr "Je kan nu geen nieuw onderwerp plaatsen. Kom terug binnen "
+
+#: includes/classes/class-ct-db-front-end.php:243
+msgid "a minute"
+msgstr "een minuut"
+
+#: includes/classes/class-ct-db-front-end.php:241
+msgid " minutes"
+msgstr " minuten"
+
+#: includes/classes/class-ct-db-front-end.php:211
+msgid " is awaiting moderation"
+msgstr " wacht op moderatie"
+
+#: includes/classes/class-ct-db-front-end.php:207
+msgid " successfully added. View it at:"
+msgstr " succesvol toegevoegd. Bekijk het hier:"
+
+#: includes/classes/class-ct-db-front-end.php:155
+msgid "an item missing:"
+msgid_plural "some items missing:"
+msgstr[0] "een item ontbreekt:"
+msgstr[1] "enkele items ontbreken:"
+
+#: includes/classes/class-ct-db-front-end.php:154
+msgid "We found"
+msgstr "Wij vonden"
+
+#: includes/classes/class-ct-db-front-end.php:137
+msgid "Please add some content to the topic."
+msgstr "Voeg enige inhoud toe aan het onderwerp."
+
+#: includes/classes/class-ct-db-front-end.php:131
+msgid "Please add a title."
+msgstr "Voeg een titel toe."
+
+#: includes/classes/admin/class-admin.php:974
+msgid "You've chosen to hide the WP Login page but you haven't specified a page on the front end with a login page. Until you specify that, the option to hide WP Login is disabled."
+msgstr "Je hebt ervoor gekozen om de WP login pagina te verbergen, maar je hebt geen pagina aan de voorkant opgegeven met een login pagina. Totdat je dat opgeeft, is de optie om WP login te verbergen uitgeschakeld."
+
+#: includes/classes/admin/class-admin.php:892
+msgid "User"
+msgstr "Gebruiker"
+
+#: includes/classes/admin/class-admin.php:891
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/classes/admin/class-admin.php:766
+msgid "Truncate the content to a set number of words when each topic is displayed in the archive. Leave at 0 to display all the content for each topic on archive pages."
+msgstr "Kort de inhoud af tot een bepaald aantal woorden wanneer elk onderwerp in het archief wordt weergegeven. Laat op 0 staan om alle inhoud voor elk onderwerp op archiefpagina's weer te geven."
+
+#: includes/classes/admin/class-admin.php:754
+msgid "If you are using the Archive or Table layout style, you can position the meta data."
+msgstr "Als je de archief lay-out of van de tabel lay-out gebruikt, kun je de metagegevens positioneren."
+
+#: includes/classes/admin/class-admin.php:732
+msgid "Select which meta fields to display for topics."
+msgstr "Selecteer de metavelden van de onderwerpen die je wil tonen."
+
+#: includes/classes/admin/class-admin.php:708
+msgid "Set the layout of single topic pages."
+msgstr "Stel de lay-out van pagina's met één onderwerp in."
+
+#: includes/classes/admin/class-admin.php:686
+msgid "Set the layout of your topics archive if you are using the discussion_topics shortcode to display topics."
+msgstr "Stel de lay-out van het je onderwerpen archief in als je de discussion_topics shortcode gebruikt om onderwerpen weer te geven."
+
+#: includes/classes/admin/class-admin.php:631
+msgid "This will automatically log users in once they have registered."
+msgstr "Hierdoor worden gebruikers automatisch ingelogd na hun registratie."
+
+#: includes/config/settings.php:275
+msgid "Select \"User must activate\" to require new users to click an activation link before they are fully registered. This will significantly reduce spam registrations."
+msgstr "Selecteer \"Gebruiker moet activeren\" om te zorgen dat nieuwe gebruikers op een activering link klikken voordat zij volledig zijn geregistreerd. Dit verhindert aanmerkelijk het aantal spam-registraties."
+
+#: includes/config/settings.php:204
+msgid "Define an email address here to send notifications to."
+msgstr "Geef een e-mailadres op om meldingen naar toe te sturen."
+
+#: includes/config/settings.php:185
+msgid "The number of seconds before a user can post a new topic. This prevents misuse."
+msgstr "Het aantal seconden voordat een gebruiker een nieuw onderwerp kunnen plaatsten. Dit om misbruik te voorkomen."
+
+#: includes/config/settings.php:167
+msgid "Select this option to publish all new topics without moderation."
+msgstr "Selecteer deze optie om alle nieuwe onderwerpen te publiceren zonder beoordeling."
+
+#: includes/classes/admin/class-admin.php:618
+msgid "Newly registered users will be assigned this role"
+msgstr "Nieuwe gebruikers krijgen deze rol"
+
+#: includes/classes/admin/class-admin.php:586
+msgid "Select one or more user roles that are permitted to post new Discussion Board topics"
+msgstr "Selecteer een of meer gebruikersrollen die toestemming hebben op nieuwe onderwerpen te plaatsen op het Discussion Board"
+
+#: includes/classes/admin/class-admin.php:548
+msgid "Select one or more user roles that are permitted to view Discussion Board topics. Administrators can always view."
+msgstr "Selecteer een of meer gebruikersrollen die toestemming hebben om onderwerpen te zien op het Discussion Board."
+
+#: includes/config/settings.php:132
+msgid "Hide the Admin bar and prevent wp-admin access to users registered on the Discussion Board. By default, this will apply to users with the Subscriber role."
+msgstr "Verberg de beheer balk en voorkom wp-admin toegang tot gebruikers die zijn geregistreerd op het discussiebord. Standaard is dit van toepassing op gebruikers met de rol Abonnee."
+
+#: includes/config/settings.php:212
+msgid "Allow topic posters to opt out of receiving notifications when a comment is left on their topic."
+msgstr "Sta leden die onderwerpen plaatsen toe om meldingen te weigeren als iemand een reactie geeft op hun onderwerp."
+
+#: includes/config/settings.php:124
+msgid "Hide the log-in/registration form that is automatically displayed when the user is not logged in."
+msgstr "Verberg het aanmeld-/registratieformulier dat automatisch wordt getoond als de gebruiker niet is aangemeld."
+
+#: includes/config/settings.php:62
+msgid "After logging in, the user will be redirected to this page."
+msgstr "Na aanmelding wordt de gebruiker naar deze pagina geleid."
+
+#: includes/config/settings.php:116
+msgid "This will prevent users logging in via wp-login.php and force them to use the Discussion Board log-in form. You must specify a front-end page containing your log-in form in the Log-in form page field above."
+msgstr "Dit voorkomt dat gebruikers login via wp-login.php en dwingt hen om het discussiebord inlogformulier te gebruiken. Je moet een front-end pagina met je login formulier opgeven in het veld login formulier pagina hierboven."
+
+#: includes/config/settings.php:148
+msgid "Check this to include a radio button option on the registration form to reduce the number of spam registrations"
+msgstr "Selecteer dit om een knop op te nemen op het registratieformulier om het aantal spam registraties te verminderen"
+
+#: includes/config/settings.php:273
+msgid "Require account activation"
+msgstr "vereist account activatie"
+
+#: includes/config/settings.php:259
+msgid "Register new user as"
+msgstr "Registreer een nieuwe gebruiker als"
+
+#: includes/config/settings.php:252
+msgid "Permitted poster roles"
+msgstr "Toegestane rol van plaatsers van onderwerpen"
+
+#: includes/config/settings.php:245
+msgid "Permitted viewer roles"
+msgstr "Toegestane rol van kijkers"
+
+#: includes/config/settings.php:60
+msgid "Redirect on log-in"
+msgstr "Omleiding na login"
+
+#: includes/classes/admin/class-admin.php:280
+msgid "User Settings"
+msgstr "Gebruikersinstellingen"
+
+#: includes/classes/admin/class-admin.php:232
+msgid "Number of words per excerpt"
+msgstr "Aantal woorden per samenvatting"
+
+#: includes/classes/admin/class-admin.php:224
+msgid "Number of topics per page"
+msgstr "Aantal onderwerpen per pagina"
+
+#: includes/classes/admin/class-admin.php:216
+msgid "Topic meta data position"
+msgstr "Positie van metagegevens over onderwerp"
+
+#: includes/classes/admin/class-admin.php:208
+msgid "Meta data fields"
+msgstr "Velden met meta data"
+
+#: includes/classes/admin/class-admin.php:200
+#: includes/helpers/customizer.php:98
+msgid "Single topic layout"
+msgstr "Opmaak van enkelvoudig onderwerp"
+
+#: includes/classes/admin/class-admin.php:192
+#: includes/helpers/customizer.php:24
+msgid "Archive layout"
+msgstr "Archief lay-out"
+
+#: includes/classes/admin/class-admin.php:184
+msgid "Use theme templates"
+msgstr "Gebruik de template van het thema"
+
+#: includes/classes/admin/class-admin.php:176
+msgid "Enqueue styles?"
+msgstr "Enqueue stijlen?"
+
+#: includes/classes/admin/class-admin.php:168
+msgid "Enqueue icons?"
+msgstr "Enqueue pictogrammen?"
+
+#: includes/classes/admin/class-admin.php:161
+msgid "Design Settings"
+msgstr "Instellingen van het ontwerp"
+
+#: includes/functions/functions-messages.php:73
+msgid "You're not currently permitted to view this content. Please log-in or register in order to view the page."
+msgstr "Je hebt geen toestemming om deze inhoud te zien. Meld je aan of registreer je om de pagina te zien."
+
+#: includes/functions/functions-messages.php:56
+msgid "This page is not available."
+msgstr "Deze pagina is niet beschikbaar."
+
+#: includes/functions/functions-messages.php:39
+msgid "Please enter your topic title and content below."
+msgstr "Vul hieronder de titel en inhoud van je onderwerp in."
+
+#: includes/functions/functions-messages.php:20
+msgid "Discussion Topics"
+msgstr "Discussie onderwerpen"
+
+#: includes/config/settings.php:210
+msgid "Enable poster notification opt-out"
+msgstr "Afmelden voor poster meldingen inschakelen"
+
+#: includes/config/settings.php:202
+msgid "Email address for notifications"
+msgstr "E-mailadres voor meldingen"
+
+#: includes/config/settings.php:173
+msgid "Prevent user re-posting within (seconds)"
+msgstr "Verhinder het opnieuw plaatsen binnen (seconden)"
+
+#: includes/config/settings.php:165
+msgid "Publish new topic without moderation"
+msgstr "Plaats een nieuw onderwerp zonder beoordeling"
+
+#: includes/config/settings.php:146
+msgid "Add check to registration form to prevent spam"
+msgstr "Voeg een controle toe aan het registratieformulier om spam te voorkomen"
+
+#: includes/config/settings.php:130
+msgid "Prevent wp-admin access?"
+msgstr "Verhinder wp-admin toegang?"
+
+#: includes/config/settings.php:122
+msgid "Hide log-in form with restricted content?"
+msgstr "Aanmeldingsformulier met beperkte inhoud verbergen?"
+
+#: includes/config/settings.php:36
+msgid "New topic form page"
+msgstr "Pagina voor een nieuw onderwerp"
+
+#: includes/config/settings.php:52
+msgid "Log-in form page"
+msgstr "Formulierpagina voor login"
+
+#: includes/config/settings.php:114
+msgid "Hide WP Login?"
+msgstr "Wp login verbergen?"
+
+#: includes/config/settings.php:95
+msgid "Restricted message"
+msgstr "Beperkt bericht"
+
+#: includes/config/settings.php:87
+msgid "New topic message"
+msgstr "Nieuw onderwerp bericht"
+
+#: includes/config/settings.php:79
+msgid "Archive title"
+msgstr "Archieftitel"
+
+#: includes/classes/admin/class-admin-notices.php:71
+#: templates/admin/getting-started.php:102
+msgid "Leave a review"
+msgstr "Laat een beoordeling achter"
+
+#: includes/classes/admin/class-admin-notices.php:64
+msgid "Many thanks for your support."
+msgstr "Hartelijk dank voor je steun."
+
+#: includes/classes/admin/class-admin-notices.php:53
+msgid "Hi. It looks like you have been using Discussion Board for a while now. If you are finding it useful I'd really appreciate it if you could give it a 5 star rating on the WordPress repository. Positive reviews and feedback help me to continue developing the plugin."
+msgstr "Hoi. Het lijkt erop dat je Discussion Board al een tijdje gebruikt. Als je het nuttig vindt, zou ik het zeer op prijs stellen wanneer je het een vijfsterren beoordeling in de WordPress repository zou kunnen geven. Positieve beoordelingen en feedback helpen om de plugin verder te ontwikkelen."
+
+#. Plugin Name of the plugin
+#: includes/classes/admin/class-admin-notices.php:52
+#: includes/classes/admin/class-admin.php:888
+#: includes/helpers/customizer.php:164
+#: templates/archive-discussion-topics.php:66
+msgid "Discussion Board"
+msgstr "Discussion Board"

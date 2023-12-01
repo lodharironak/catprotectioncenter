@@ -1,0 +1,1 @@
+var stockTickers = setInterval(function(){ stocktickers_load() }, 300000);
